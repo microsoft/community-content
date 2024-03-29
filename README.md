@@ -1,3 +1,11 @@
+# Community Content Repo
+### Prepared "content-in-a-box" from Microsoft for user groups, meetups, and events
+
+- **WHAT**: This repo contains slides and supporting demos to help anyone in the community quickly deliver a talk around topics important to Microsoft. The content is prepared by Microsoft but is free for you to reuse and remix to deliver to local user groups, meetups, and community events. All content is licensed under Creative Commons Attribution 4.0 and all sample code is MIT.
+- **WHY**: It takes time to develop new talks. 😅 Whether you're an experienced speaker or preparing to deliver your first talk, this content can help you get ready for your next speaking opportunity and expand the topics you're ready to cover as a speaker.
+- **WHO**: You! 🎉 This content is for anyone that wants to deliver a talk.
+- **WHEN**: Content in this repo will be updated quarterly. 📆 Check back often for new content-in-a-box resources. Old topics will be archived and new topics will be added so there's always something fresh to share with your community.
+- **HOW**: Simply clone or fork this repo and practice the content. 🗣️ Most content-in-a-box sessions include slides, supporting sample code (which may be linked in an external repository), and additional guidance for delivering the talk (sometimes including a video of the session being delivered so you can see an example in action). Some slides may need updates (like your bio); others are ready to go. You can use everything as prepared, or if you have your own style or time constraints, you can remix to fit your situation. Content is designed to fit in a 30 to 45 minute session (leaving time for Q&A).
 
 # Contributing
 
