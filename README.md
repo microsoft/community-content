@@ -7,6 +7,34 @@
 - **WHEN**: Content in this repo will be updated quarterly. 📆 Check back often for new content-in-a-box resources. Old topics will be archived and new topics will be added so there's always something fresh to share with your community.
 - **HOW**: Simply clone or fork this repo and practice the content. 🗣️ Most content-in-a-box sessions include slides, supporting sample code (which may be linked in an external repository), and additional guidance for delivering the talk (sometimes including a video of the session being delivered so you can see an example in action). Some slides may need updates (like your bio); others are ready to go. You can use everything as prepared, or if you have your own style or time constraints, you can remix to fit your situation. Content is designed to fit in a 30 to 45 minute session (leaving time for Q&A).
 
+# "Season of AI" (Q3 2024)
+<!-- Add link to registration form -->
+[![Season of AI](assets/season-ai-pilot-banner.png)]()
+
+Microsoft wants to thank MVPs, user group leaders, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
+
+The first 250 speakers who secure a speaking slot in one of the Meetup Pro Networks below will be eligible for a speaker gift and stickers to hand out at their event. 
+
+### How to participate:
+
+1.	**Schedule** your Microsoft AI talk to occur between **24 May and 31 August, 2024**
+-	Eligible Meetup Pro network user groups include:
+    - .NET Community- https://www.meetup.com/pro/dotnet/
+    - Azure Tech Groups - https://www.meetup.com/pro/azuretechgroups/
+    - Azure Data Groups - https://www.meetup.com/pro/azuredatatechgroups/
+    - Global AI - https://www.meetup.com/pro/the-global-ai-community/
+-	Work with local user group leaders to schedule a Microsoft AI event.
+-	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step.
+2.	**Register** for the free gift here <insert aka link> 
+-	The free gift offer ends on June 30th at 9 am Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
+-	We’ll promptly notify you regarding your eligibility.
+3.	**Prepare** and deliver your talk 
+-	Shortly after Microsoft Build, find prepared Microsoft AI content-in-a-box here on GitHub.
+-	Engage your audience and share your insights on the Microsoft AI topic you selected.
+-	After the event, encourage attendees to participate in a post-event survey via a QR code that will be included in the presentation materials.
+
+For more info, please see FAQs and Terms and Conditions
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
