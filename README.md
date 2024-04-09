@@ -9,7 +9,7 @@
 
 # "Season of AI" (Q3 2024)
 <!-- Add link to registration form -->
-[![Season of AI](assets/season-ai-banner-v1.png)]()
+[![Season of AI](assets/season-of-ai-banner-v1.png)]()
 
 Microsoft wants to thank MVPs, user group leaders, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
 
