@@ -23,6 +23,7 @@ The first 250 speakers who secure a speaking slot in one of the Meetup Pro Netwo
     - Azure Tech Groups - https://www.meetup.com/pro/azuretechgroups/
     - Azure Data Groups - https://www.meetup.com/pro/azuredatatechgroups/
     - Global AI - https://www.meetup.com/pro/the-global-ai-community/
+    - Microsoft Reactor - https://www.meetup.com/pro/microsoft-reactor/
 -	Work with local user group leaders to schedule a Microsoft AI event.
 -	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step.
 2.	**Register** for the free gift here <insert aka link> 
@@ -33,7 +34,7 @@ The first 250 speakers who secure a speaking slot in one of the Meetup Pro Netwo
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
 -	After the event, encourage attendees to participate in a post-event survey via a QR code that will be included in the presentation materials.
 
-For more info, please see FAQs and Terms and Conditions
+For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs) and Terms and Conditions
 
 # Contributing
 
