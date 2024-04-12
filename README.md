@@ -9,7 +9,7 @@
 
 # "Season of AI" (Q3 2024)
 <!-- Add link to registration form -->
-[![Season of AI](assets/season-of-ai-banner-v1.png)]()
+[![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
 
 Microsoft wants to thank MVPs, user group leaders, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
 
@@ -26,7 +26,7 @@ The first 250 speakers who secure a speaking slot in one of the Meetup Pro Netwo
     - Microsoft Reactor - https://www.meetup.com/pro/microsoft-reactor/
 -	Work with local user group leaders to schedule a Microsoft AI event.
 -	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step.
-2.	**Register** for the free gift here <insert aka link> 
+2.	**Register** for the free gift here: https://aka.ms/registerSeasonofAI
 -	The free gift offer ends on June 30th at 9 am Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
 -	We’ll promptly notify you regarding your eligibility.
 3.	**Prepare** and deliver your talk 
