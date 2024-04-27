@@ -9,7 +9,7 @@ Each topic includes slides and presentation notes. Some will included pre-record
 
 Available topics:
 - Generative AI for Developers (.NET)
-- Introduction to Azure AI Studio (General)
+- Getting Started with Azure AI Studio (General)
 
 ## QR Code/Attendee Survey
 Whether you use the content provided here directly or adapt to make it your own, please include the provided "Season of AI" QR code slide at the end of your talk. The code links to an attendee survey that helps us better understand how this content is being used so we can keep making more of it in the future!
