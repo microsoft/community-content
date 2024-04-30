@@ -15,6 +15,8 @@ Microsoft wants to thank MVPs, user group leaders, and influencers in the develo
 
 The first 250 speakers who secure a speaking slot in one of the Meetup Pro Networks below will be eligible for a speaker gift and stickers to hand out at their event. 
 
+#### [> Browse confirmed events](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
+
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft AI talk to occur between **24 May and 31 August, 2024**
