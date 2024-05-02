@@ -19,20 +19,21 @@ These instructions are designed for community leaders and presenters who wish to
 ## Assets you will need to redeliver this session
 
 * Watch the recording of Ignite 2023 session ['Build your own Copilot with Azure AI Studio'](https://ignite.microsoft.com/sessions/a630f4eb-a148-43cd-8a36-38dec7ed7098?source=sessions) to learn the basics of Azure AI Studio.
-* Powerpoint Presentation available [here]("")
-* Demo videos are all available unlisted on YouTube and embedded in the deck, they include:
-    1. Demo 1 - Tour of the Studio
-    2. Demo 2 - Add your own data to your copilot
-    3. Demo 3 - Models-as-a-Service (MaaS), fine-tuning and GPT4 Vision
-    4. Demo 4 - Evaluations and Deployments
+* Powerpoint Presentation available in zip download [here]("https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Getting.Started.with.Azure.AI.Studio.May2024.zip")
+* Demo videos are also available unlisted on YouTub, in a [YouTube Playlist](https://www.youtube.com/playlist?list=PL-049HD1kG2g6CC3R8Q5wv2EUdGCqQWLV) and included in the [.zip file](https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Getting.Started.with.Azure.AI.Studio.May2024.zip), they include:
+    1. [Demo 1 - Tour of the Studio](https://studio.youtube.com/video/I9ekiqMyiSI/edit)
+    2. [Demo 2 - Add your own data to your copilot](https://youtu.be/slJzhRu1I3I)
+    3. [Demo 3 Part 1 - Models-as-a-Service (MaaS) and fine-tuning](https://youtu.be/5-lnzrHyYow)
+    4. [Demo 3 Part 2 - Multi-modality](https://youtu.be/UnATh9TsM3o)
+    5. [Demo 4 - Evaluations and Deployments](https://youtu.be/j73U-mppwWw)
 
-## Session Details
+> Note: Videos are not currently added into the deck, as part of the lerning journey please include them in the assigned sections
 
 For ease of delivery we have provided video demos which we recommend speaking over for the maximum impact and delivery of message.
 
-Find below some step by step details to support you learning the pace and steps the demos include:
+Find below some step-by-step details to support you learning the pace and steps the demos include:
 
-### Demo 1 - Tour the studio 
+### Demo 1 - Tour the studio
 
 **Goal: Give a quick overview of studio**
 
@@ -50,3 +51,49 @@ Find below some step by step details to support you learning the pace and steps 
 * Enter one manual (How much do the TrailWalker hiking shoes cost?)
 * Show how to import more test data using the dataset: contoso-outdoor-evaluation
 * Run All and review results
+
+### Demo 2 - Add your own data
+
+**Goal: Show the ease and power of adding your own data to the conversation**
+
+* Add data (dataset: contoso-outdoor-products-and-climate)
+* Create Index (index: contoso-outdoor-products-and-climate-index)
+* "Add your own data" in the playground environment
+* Hybrid Search
+* Use model: gpt-4-turbo
+* Ask question "What products are suitable for the San Francisco climate?" - call out references to data provided
+
+### Demo 3 Part 1 - Models-as-a-Service (MaaS) and fine-tuning
+
+**Goal: Show the ease of customization and diversity of models**
+
+* Show Model Benchmarking
+* Deploy Llama 2.7b text  as Pay As You Go
+* Fine-tune Llama 2.7b text - providing training and validation datasets
+* Deploy Fine-tuned model as Pay As You Go, open in playground and test
+
+### Demo 3 Part 2 - Multi-modality
+
+**Goal: Show the power of multi-modality**
+
+* Generate images with Dall-e 3
+* Use speech to text in playground to ask a question
+* Multi Vision (Create half day itinerary based on photo)
+* Use AI Vision service enhancements toggle to extract what is in the image.
+
+### Demo 4 - Evaluations and Deployments
+
+**Goal: The ability to evaluate and test before going to production and easy deployment and production monitoring**
+
+Prompt Flow:
+* Show the "Contoso Outdoor RAG" prompt flow
+
+Evaluate:
+* Show Built-in Evaluation wizard with question and answer pairs
+* Show output of evaluation metrics: Groundedness, Relevance and Coherence
+
+Deploy:
+* Show deployment wizard steps
+* Show deployed flow and test
+* Show monitoring you can enable for your production model based on evaluation metrics monitoring over time
+* Gradually switch traffic from one model deployment to another as engineering best practice.
