@@ -31,6 +31,8 @@ These instructions are designed for community leaders and presenters who wish to
 
 For ease of delivery we have provided video demos which we recommend speaking over for the maximum impact and delivery of message.
 
+## Demo Breakdown
+
 Find below some step-by-step details to support you learning the pace and steps the demos include:
 
 ### Demo 1 - Tour the studio
