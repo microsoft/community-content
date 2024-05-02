@@ -54,6 +54,8 @@ Find below some step-by-step details to support you learning the pace and steps 
 * Show how to import more test data using the dataset: contoso-outdoor-evaluation
 * Run All and review results
 
+[![Demo 1 - Tour the studio](https://img.youtube.com/vi/I9ekiqMyiSI/0.jpg)](https://www.youtube.com/watch?v=I9ekiqMyiSI)
+
 ### Demo 2 - Add your own data
 
 **Goal: Show the ease and power of adding your own data to the conversation**
@@ -65,6 +67,8 @@ Find below some step-by-step details to support you learning the pace and steps 
 * Use model: gpt-4-turbo
 * Ask question "What products are suitable for the San Francisco climate?" - call out references to data provided
 
+[![Demo 2 - Add your own data](https://img.youtube.com/vi/slJzhRu1I3I/0.jpg)](https://www.youtube.com/watch?v=slJzhRu1I3I)
+
 ### Demo 3 Part 1 - Models-as-a-Service (MaaS) and fine-tuning
 
 **Goal: Show the ease of customization and diversity of models**
@@ -74,6 +78,8 @@ Find below some step-by-step details to support you learning the pace and steps 
 * Fine-tune Llama 2.7b text - providing training and validation datasets
 * Deploy Fine-tuned model as Pay As You Go, open in playground and test
 
+[![Demo 3 Part 1 - Models-as-a-Service and fine-tuning](https://img.youtube.com/vi/5-lnzrHyYow/0.jpg)](https://www.youtube.com/watch?v=5-lnzrHyYow)
+
 ### Demo 3 Part 2 - Multi-modality
 
 **Goal: Show the power of multi-modality**
@@ -82,6 +88,8 @@ Find below some step-by-step details to support you learning the pace and steps 
 * Use speech to text in playground to ask a question
 * Multi Vision (Create half day itinerary based on photo)
 * Use AI Vision service enhancements toggle to extract what is in the image.
+
+[![Demo 3 Part 2 - Multi-modality](https://img.youtube.com/vi/UnATh9TsM3o/0.jpg)](https://www.youtube.com/watch?v=UnATh9TsM3o)
 
 ### Demo 4 - Evaluations and Deployments
 
@@ -99,3 +107,5 @@ Deploy:
 * Show deployed flow and test
 * Show monitoring you can enable for your production model based on evaluation metrics monitoring over time
 * Gradually switch traffic from one model deployment to another as engineering best practice.
+
+[![Demo 4 - Evaluations and Deployment](https://img.youtube.com/vi/j73U-mppwWw/0.jpg)](https://www.youtube.com/watch?v=j73U-mppwWw)
