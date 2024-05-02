@@ -5,10 +5,8 @@ This folder contains prepared "content-in-a-box" that anyone can use to do a tec
 Each topic includes slides and presentation notes. Some will included pre-recorded demos and videos to help you prepare and/or present. Demo code will be available in separate repos linked from each presentation.
 
 ## Available content
-*Check back soon! Season of AI content will be available by early May.*
 
-Available topics:
-- Generative AI for Developers (.NET)
+- [Generative AI for Developers](https://github.com/microsoft/community-content/blob/main/SeasonOfAI/generative-ai-dotnet-devs.md) (.NET)
 - [Getting Started with Azure AI Studio](https://github.com/microsoft/community-content/blob/main/SeasonOfAI/getting-started-azure-ai-studio.md) (General)
 
 ## QR Code/Attendee Survey
