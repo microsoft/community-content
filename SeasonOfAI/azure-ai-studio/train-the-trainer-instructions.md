@@ -21,7 +21,7 @@ These instructions are designed for community leaders and presenters who wish to
 * Watch the recording of Ignite 2023 session ['Build your own Copilot with Azure AI Studio'](https://ignite.microsoft.com/sessions/a630f4eb-a148-43cd-8a36-38dec7ed7098?source=sessions) to learn the basics of Azure AI Studio.
 * Powerpoint Presentation available in zip download [here]("https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Getting.Started.with.Azure.AI.Studio.May2024.zip")
 * Demo videos are also available unlisted on YouTub, in a [YouTube Playlist](https://www.youtube.com/playlist?list=PL-049HD1kG2g6CC3R8Q5wv2EUdGCqQWLV) and included in the [.zip file](https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Getting.Started.with.Azure.AI.Studio.May2024.zip), they include:
-    1. [Demo 1 - Tour of the Studio](https://studio.youtube.com/video/I9ekiqMyiSI/edit)
+    1. [Demo 1 - Tour of the Studio](https://youtu.be/I9ekiqMyiSI)
     2. [Demo 2 - Add your own data to your copilot](https://youtu.be/slJzhRu1I3I)
     3. [Demo 3 Part 1 - Models-as-a-Service (MaaS) and fine-tuning](https://youtu.be/5-lnzrHyYow)
     4. [Demo 3 Part 2 - Multi-modality](https://youtu.be/UnATh9TsM3o)
