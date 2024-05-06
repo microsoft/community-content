@@ -20,7 +20,7 @@ In this talk, you will discover how to use .NET, C#, and Azure to create amazing
 
 ## Assets you will need to redeliver this session
 
-* Watch the train-the-trainer video for this session preapred by @Aaron Powell ([available in .zip download](https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Generative.AI.for.Dotnet.Developers.May2024.zip))
+* Watch the [train-the-trainer video](https://www.youtube.com/watch?v=6QRNDFurwCM) (YouTube) for this session preapred by @Aaron Powell ([also available in .zip download](https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Generative.AI.for.Dotnet.Developers.May2024.zip))
 * Download the Powerpoint Presentation for talk [here](https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Generative.AI.for.dotnet.Devs.May2024.pptx)
 
 > Note: The slides + the train-the-trainer video are available for download together as a [single .zip file](https://github.com/microsoft/community-content/releases/download/SeasonOfAI/Generative.AI.for.Dotnet.Developers.May2024.zip)
