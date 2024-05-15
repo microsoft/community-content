@@ -19,18 +19,20 @@ The first 250 speakers who secure a speaking slot in one of the Meetup Pro Netwo
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft AI talk to occur between **24 May and 31 August, 2024**
--	Eligible Meetup Pro network user groups include:
+1.	**Schedule** 📆 your Microsoft AI talk to occur between **May 24 and August 31, 2024**
+-	Eligible programs include:
     - .NET Community- https://www.meetup.com/pro/dotnet/
     - Azure Tech Groups - https://www.meetup.com/pro/azuretechgroups/
     - Azure Data Groups - https://www.meetup.com/pro/azuredatatechgroups/
-    - Global AI - https://www.meetup.com/pro/the-global-ai-community/
+    - Global AI - https://www.meetup.com/pro/the-global-ai-community/ or https://globalai.community/events/
     - Microsoft Reactor - https://www.meetup.com/pro/microsoft-reactor/
+    - India Azure Developer Community - https://azdev.reskilll.com/event/calendar2024
+    - Gold Student Ambassadors - https://mvp.microsoft.com/studentambassadors
 -	Work with local user group leaders to schedule a Microsoft AI event.
 -	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step.
 2.	**Register** for the free gift 🎁 here: https://aka.ms/registerSeasonofAI
 -	The free gift offer ends on June 30th at 9 am Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
--	We’ll promptly notify you regarding your eligibility.
+-	We’ll notify you within 2-4 business days regarding your eligibility.
 3.	**Prepare** and deliver your talk 🗣️
 -	Shortly after Microsoft Build, find prepared Microsoft AI content-in-a-box here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
