@@ -29,7 +29,7 @@ The first 250 speakers who secure a speaking slot in one of the Meetup Pro Netwo
     - India Azure Developer Community - https://azdev.reskilll.com/event/calendar2024
     - Gold Student Ambassadors - https://mvp.microsoft.com/studentambassadors
 -	Work with local user group leaders to schedule a Microsoft AI event.
--	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step.
+-	Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step.
 2.	**Register** for the free gift 🎁 here: https://aka.ms/registerSeasonofAI
 -	The free gift offer ends on June 30th at 9 am Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
 -	We’ll notify you within 2-4 business days regarding your eligibility.
