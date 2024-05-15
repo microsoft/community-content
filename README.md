@@ -13,7 +13,7 @@
 
 Microsoft wants to thank MVPs, user group leaders, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
 
-The first 250 speakers who secure a speaking slot in one of the Meetup Pro Networks below will be eligible for a speaker gift and stickers to hand out at their event. 
+The first 250 speakers who secure a speaking slot in one of the eligible programs below will be eligible for a speaker gift and stickers to hand out at their event. 
 
 #### [> Browse confirmed events](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
 
