@@ -25,7 +25,7 @@ The first 250 speakers who secure a speaking slot in one of the eligible program
     - Azure Tech Groups - https://www.meetup.com/pro/azuretechgroups/
     - Azure Data Groups - https://www.meetup.com/pro/azuredatatechgroups/
     - Global AI - https://www.meetup.com/pro/the-global-ai-community/ or https://globalai.community/events/
-    - Microsoft Reactor - https://www.meetup.com/pro/microsoft-reactor/
+    - Microsoft Reactor - https://www.meetup.com/pro/microsoft-reactor/ or https://developer.microsoft.com/en-us/reactor/
     - India Azure Developer Community - https://azdev.reskilll.com/event/calendar2024
     - Gold Student Ambassadors - https://mvp.microsoft.com/studentambassadors
 -	Work with local user group leaders to schedule a Microsoft AI event.
