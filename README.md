@@ -32,7 +32,7 @@ The first 250 speakers who secure a speaking slot in one of the Meetup Pro Netwo
 -	Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step.
 2.	**Register** for the free gift 🎁 here: https://aka.ms/registerSeasonofAI
 -	The free gift offer ends on June 30th at 9 am Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
--	We’ll notify you within 2-4 business days regarding your eligibility.
+-	We’ll notify you within 2-4 business days regarding your eligibility. Look for an email from Azure-Tech-Groups at azure-tech-groups@microsoft.com
 3.	**Prepare** and deliver your talk 🗣️
 -	Shortly after Microsoft Build, find prepared Microsoft AI content-in-a-box here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
