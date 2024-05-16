@@ -27,7 +27,7 @@ These instructions are designed for community leaders and presenters who wish to
     4. [Demo 3 Part 2 - Multi-modality](https://youtu.be/UnATh9TsM3o)
     5. [Demo 4 - Evaluations and Deployments](https://youtu.be/j73U-mppwWw)
 
-> Note: Videos are not currently added into the deck, as part of the lerning journey please include them in the assigned sections
+> Note: Videos are not currently added into the deck, as part of the learning journey please include them in the assigned sections
 
 For ease of delivery we have provided video demos which we recommend speaking over for the maximum impact and delivery of message.
 
