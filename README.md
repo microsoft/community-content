@@ -27,7 +27,7 @@ The first 250 speakers who secure a speaking slot in one of the eligible program
 -	The free gift offer ends on June 30th at 9 am Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
 -	We’ll notify you within 2-4 business days regarding your eligibility. Look for an email from Azure-Tech-Groups at azure-tech-groups@microsoft.com.
 3.	**Prepare** and deliver your talk 🗣️
--	Shortly after Microsoft Build, find prepared Microsoft AI content-in-a-box here on GitHub.
+-	Shortly after Microsoft Build, find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
 -	After the event, encourage attendees to participate in a post-event survey via a QR code that will be included in the presentation materials.
 
