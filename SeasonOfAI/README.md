@@ -4,6 +4,9 @@ This folder contains prepared "content-in-a-box" that anyone can use to do a tec
 
 Each topic includes slides and presentation notes. Some will include pre-recorded demos and videos to help you prepare and/or present. Demo code will be available in separate repos linked from each presentation.
 
+#### BEFORE YOU BEGIN
+Do you want to brush up on generative AI basics? Get started with [Generative AI for Beginniners](https://microsoft.github.io/generative-ai-for-beginners/) on GitHub
+
 ## Available content
 
 - [Generative AI for Developers](https://github.com/microsoft/community-content/blob/main/SeasonOfAI/generative-ai-dotnet-devs.md) (.NET)
