@@ -1,6 +1,6 @@
 # Generative AI for .NET Developers
 
-These instructions are designed for community leaders and presenters who wish to pick up this Azure AI Studio session and re-deliver it at community events. Below, you’ll find all the necessary assets and relevant instructions for each stage of the presentation.
+These instructions are designed for community leaders and presenters who wish to pick up this Azure OpenAI session and re-deliver it at community events. Below, you’ll find all the necessary assets and relevant instructions for each stage of the presentation.
 
 ## Session Details
 
