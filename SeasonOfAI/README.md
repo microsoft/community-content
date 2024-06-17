@@ -10,7 +10,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 ## Available content
 
 - [Generative AI for Developers](./generative-ai-dotnet-devs.md) (.NET)
-- [Intro to AI with .NET, OpenAI, and Semantic Kernel](./generative-ai-dotnet-devs.md) (.NET)
+- [Intro to AI with .NET, OpenAI, and Semantic Kernel](./intro-to-ai-with-dotnet-and-semantic-kernel.md) (.NET)
 - [Getting Started with Azure AI Studio](./getting-started-azure-ai-studio.md) (General)
 
 ## QR Code/Attendee Survey
