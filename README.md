@@ -13,7 +13,7 @@
 
 Microsoft wants to thank MVPs, user group leaders, Student Ambassadors, India Developer Community enablers, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
 
-The opportunity for the free gift offer ended June 30th and you can still register your event for promotion by Microsoft. 
+The opportunity for the free gift offer ended June 30th, but you can still register your event for promotion by Microsoft. 
 
 #### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
 
