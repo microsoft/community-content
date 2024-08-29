@@ -6,7 +6,7 @@ This demos for this session currently use VS Code and TypeScript.
 
 ## Session Details
 
-**Session Title:** Advanced Prompt Crafting with GitHub Copilot
+**Session Title:** Prompt Crafting techniques for GitHub Copilot every developer should know
 
 **Session Abstract:** Do you ever feel like maybe you're not getting the productivity gains you should out of GitHub Copilot? Or maybe you're not convinced AI for developers is little more than hype? It's easy to feel this way when dealing with any AI, but the secret is always in _how_ you work with the AI. GitHub Copilot is no different - the value you get out of it is directly related to how you work with it.
 
