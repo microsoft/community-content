@@ -7,22 +7,20 @@
 - **WHEN**: Content in this repo will be updated quarterly. 📆 Check back often for new content-in-a-box resources. Old topics will be archived and new topics will be added so there's always something fresh to share with your community.
 - **HOW**: Simply clone or fork this repo and practice the content. 🗣️ Most content-in-a-box sessions include slides, supporting sample code (which may be linked in an external repository), and additional guidance for delivering the talk (sometimes including a video of the session being delivered so you can see an example in action). Some slides may need updates (like your bio); others are ready to go. You can use everything as prepared, or if you have your own style or time constraints, you can remix to fit your situation. Content is designed to fit in a 30 to 45 minute session (leaving time for Q&A).
 
-# "Season of AI" (May to August, 2024)
+# Season of AI - Season 2 - "Copilots" (Oct to Dec, 2024)
 <!-- Add link to registration form -->
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
 
-Microsoft wants to thank MVPs, user group leaders, Student Ambassadors, India Developer Community enablers, and influencers in the developer community for helping us pilot Microsoft AI content-in-a-box and its use in meetups and user groups.  
-
-The opportunity for the free gift offer ended June 30th, but you can still register your event for promotion by Microsoft. 
+Stay tuned for details on "Season 2" of Season of AI and how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season.
 
 #### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft AI talk to occur by **August 31, 2024** Make sure you are listed as the speaker for your event.
+1.	**Schedule** 📆 your Microsoft AI talk to occur by **October 31, 2024** Make sure you are listed as the speaker for your event.
 2.	**Register** to promote your event using your URL here: https://aka.ms/registerSeasonofAI
 3.	**Prepare** and deliver your talk 🗣️
--	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI) here on GitHub.
+-	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S2-Copilots) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
 -	After the event, encourage attendees to participate in a post-event survey via a QR code that is included in the presentation materials.
 
