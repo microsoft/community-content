@@ -4,7 +4,8 @@
 
 Stay tuned for details on "Season 2" of Season of AI and how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season.
 
-<!--#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
+<!--
+#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
 
 ### How to participate:
 
@@ -15,7 +16,8 @@ Stay tuned for details on "Season 2" of Season of AI and how you can register to
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
 -	After the event, encourage attendees to participate in a post-event survey via a QR code that is included in the presentation materials.
 
-Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).-->
+Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
+-->
 
 # Community Content Repo
 ### Prepared "content-in-a-box" from Microsoft for user groups, meetups, and events
