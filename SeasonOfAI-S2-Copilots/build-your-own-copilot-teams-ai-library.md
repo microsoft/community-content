@@ -19,7 +19,7 @@ This demos for this session currently use Visual Studio 2022 and Teams Toolkit.
 **Speaker Expectation/Skills:** Mid level theory content, a demo with instructions
 
 ## Assets you will need to redeliver this session
-* Download the PowerPoint Presentation for talk [here](./build.your.own.copilot.with.teams.ai.library.pptx)
+* Download the PowerPoint Presentation for talk [here](./build.your.own.copilot.with.teams.ai.library.pptx).
 * Follow the demo instructions below.
 
 ## Demo instructions
