@@ -19,4 +19,4 @@ Join us for a hands-on experience where you’ll explore various Copilot feature
 **Speaker Expectation/Skills:** Basic programming knowledge, simple coding demos (Challenges available in JavaScript, Python and C#)
 
 ## Assets you will need to redeliver this session
-* Download the PowerPoint Presentation and a Train the Trainer (TTT) video for the talk [here]()
+* _[Available Soon]_ Download the PowerPoint Presentation and a Train the Trainer (TTT) video for the talk
