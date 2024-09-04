@@ -11,6 +11,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 
 - [Prompt Crafting Techniques for GitHub Copilot](./prompt-crafting-techniques-github-copilot.md) (VS Code, JavaScript)
 - [Build Your Own Copilot Using Teams AI Library and .NET](./build-your-own-copilot-teams-ai-library.md) (M365, .NET, Microsoft Copilot)
+- [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code, JavaScript)
 
 ## QR Code/Attendee Survey
 Whether you use the content provided here directly or adapt to make it your own, please include the provided "Season of AI" QR code slide at the end of your talk. The code links to an attendee survey that helps us better understand how this content is being used so we can keep making more of it in the future!
