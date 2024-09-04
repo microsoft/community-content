@@ -1,5 +1,28 @@
 # Build your own copilot using Teams AI library and .NET
 
+These instructions are designed for community leaders and presenters who wish to pick up this session on Build your own copilot using Teams AI library and .NET at community events. Below, you’ll find all the necessary assets and relevant instructions for each stage of the presentation.
+
+This demos for this session currently use Visual Studio 2022 and Teams Toolkit.
+
+## Session Details
+
+**Session Title:** Build your own copilot using Teams AI library and .NET
+
+**Session Abstract:** Unlock the potential of your .NET apps by crafting a custom copilot using Teams AI library, Teams Toolkit, and Azure OpenAI. In this session, you will learn how to integrate advanced AI capabilities with .NET, enhancing productivity and collaboration within Microsoft Teams. We'll explore how to leverage the Teams AI library for intelligent features, utilize the Teams Toolkit for streamlined development, and harness the power of Azure OpenAI to bring in Generative AI models. Join us to gain practical insights and skills to create impactful, AI-powered custom copilots tailored to your organization’s needs.
+
+**Level:** 200
+
+**Goal of the session:** Provide an overview of how Teams Toolkit works and how to build your own copilot using Teams Toolkit for Visual Studio, Teams AI library and .NET.
+
+**Duration:** 45 Minutes + Q&A Time
+
+**Speaker Expectation/Skills:** Mid level theory content, a demo with instructions
+
+## Assets you will need to redeliver this session
+* Download the PowerPoint Presentation for talk [here](./build.your.own.copilot.with.teams.ai.library.pptx).
+* Follow the demo instructions below.
+
+## Demo instructions
 >**Pre-requisites**
 >- Microsoft 365 account
 >- Teams Toolkit for Visual Studio installed
