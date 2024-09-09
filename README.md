@@ -1,5 +1,5 @@
 # Season of AI - Season 2 - "Copilots" (Oct to Dec, 2024)
-<!-- Add link to registration form -->
+<https://aka.ms/registerSeasonofAI>
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
 
 Stay tuned for details on "Season 2" of Season of AI and how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season.
