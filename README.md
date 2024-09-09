@@ -9,7 +9,7 @@ Stay tuned for details on "Season 2" of Season of AI and how you can register to
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft AI talk to occur by **December 31, 2024** Make sure you are listed as the speaker for your event.
+1.	**Schedule** 📆 your Microsoft AI - Copilots talk to occur between **October 1 and December 31, 2024** Make sure you are listed as the speaker for your event.
 2.	**Register** to promote your event using your URL here: https://aka.ms/registerSeasonofAI
 3.	**Prepare** and deliver your talk 🗣️
 -	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S2-Copilots) here on GitHub.
