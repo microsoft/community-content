@@ -6,7 +6,7 @@ Stay tuned for details on "Season 2" of Season of AI and how you can register to
 
 <!--
 #### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
-
+-->
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft AI - Copilots talk to occur between **October 1 and December 31, 2024** Make sure you are listed as the speaker for your event.
@@ -17,7 +17,7 @@ Stay tuned for details on "Season 2" of Season of AI and how you can register to
 -	After the event, encourage attendees to participate in a post-event survey via a QR code that is included in the presentation materials.
 
 Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
--->
+
 
 # Community Content Repo
 ### Prepared "content-in-a-box" from Microsoft for user groups, meetups, and events
