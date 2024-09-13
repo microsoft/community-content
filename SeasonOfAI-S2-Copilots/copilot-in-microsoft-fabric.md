@@ -17,5 +17,5 @@ These instructions are designed for community leaders and presenters who wish to
 **Speaker Expectation/Skills:** Knowledge of Microsoft Fabric (Data Factory, Data Engineering & Data Science, Power BI & Data Warehousing), programming in Python.
 
 ## Assets you will need to redeliver this session
-* _[Available Soon]_ Download the PowerPoint Presentation
+* [Download the PowerPoint Presentation](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Copilots/copilot.in.microsoft.fabric.pptx)
 * For each of the copilot experiences, follow the demo instructions [here](https://aka.ms/FabricCopilotTutorial)
