@@ -37,14 +37,14 @@ This presentation is based on the [Podcast Copilot with Azure OpenAI Service, .N
 
 ### Preparation
 
-- Download the PowerPoint presentation for the session here **TODO: Add link**
+- Download the PowerPoint presentation for the session [here](https://github.com/gomomohapi/community-content/releases/download/v1.0.0/Podcast.Copilot.with.Azure.OpenAI.Service.NET.and.Copilot.Studio.pptx)
 - Demo videos are available unlisted on YouTube. They include:
     - [Demo 1 | Overview of Azure Resources](https://youtu.be/bTki7KC3V_w)
     - [Demo 2 | Creating Azure OpenAI Service model deployments + Environment Variables](https://youtu.be/Kj__GuGwsZA)
     - [Demo 3 | Setting up a NET API with the NET Azure OpenAI SDK](https://youtu.be/9jtxzCkTlJs)
     - [Demo 4 | Configuring a Custom Connector from Visual Studio](https://youtu.be/zkKyuNXLr2E)
     - [Demo 5 | Integrating with a Copilot Studio custom copilot](https://youtu.be/qoHZNGUvOuo)
-- Demo videos are also included in this zip file **TODO: Add link**
+- Demo videos are also included in this [zip file](https://github.com/gomomohapi/community-content/releases/download/v1.0.0/Podcast.Copilot.with.Azure.OpenAI.Service.NET.and.Copilot.Studio.zip)
 
 > **Note:** For ease of delivery we have provided the above video demos which we recommend speaking over for maximum impact and delivery of message.
 >
