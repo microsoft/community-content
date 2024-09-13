@@ -15,6 +15,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 - [Prompt Crafting Techniques for GitHub Copilot](./prompt-crafting-techniques-github-copilot.md) (VS Code, JavaScript)
 - [Build Your Own Copilot Using Teams AI Library and .NET](./build-your-own-copilot-teams-ai-library.md) (M365, .NET, Microsoft Copilot)
 - [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code, JavaScript)
+- [Copilot in Microsoft Fabric](./copilot-in-microsoft-fabric.md) (Microsoft Fabric)
 - [Build a .NET client-server application with Visual Studio and GitHub Copilot](./client-server-app-vs-copilot.md) (Blazor, Minimal Web API, .NET, Visual Studio, GitHub Copilot, Azure)
 
 ### QR Code/Attendee Survey
