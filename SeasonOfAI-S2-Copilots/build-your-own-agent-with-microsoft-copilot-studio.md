@@ -1,4 +1,4 @@
-# Build your own agemt using Microsoft Copilot Studio
+# Build your own agent using Microsoft Copilot Studio
 
 These instructions are designed for community leaders and presenters who wish to pick up this session on Build your own agent using Microsoft Copilot Studio. Below, you’ll find all the necessary assets and relevant instructions for each stage of the presentation.
 
