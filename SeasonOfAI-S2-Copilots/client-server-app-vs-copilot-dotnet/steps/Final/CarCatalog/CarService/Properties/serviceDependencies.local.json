@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "secretStore": null,
+      "type": "storage.emulator",
+      "connectionId": "AzureTableStorage",
+      "dynamicId": null
+    }
+  }
+}
