@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage",
+      "connectionId": "AzureTableStorage",
+      "dynamicId": null
+    }
+  }
+}

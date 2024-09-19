@@ -1,0 +1,53 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<table>
+    <thead>
+        <tr>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Year</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Cars)
+        {
+            <tr>
+                <td>@car.Make</td>
+                <td>@car.Model</td>
+                <td>@car.Year</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public class Car
+    {
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
+    }
+
+    public List<Car> Cars { get; set; } = new List<Car>();
+
+    protected override void OnInitialized()
+    {
+        Cars = GetCars();
+    }
+
+    private List<Car> GetCars()
+    {
+        return new List<Car>
+        {
+            new Car { Make = "Toyota", Model = "Camry", Year = 2022 },
+            new Car { Make = "Honda", Model = "Accord", Year = 2022 },
+            new Car { Make = "Ford", Model = "Mustang", Year = 2022 }
+        };
+    }
+}
