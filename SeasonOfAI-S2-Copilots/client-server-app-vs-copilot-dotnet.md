@@ -1,4 +1,4 @@
-# Creating an client-server application with GitHub Copilot, .NET and Visual Studio
+# Creating a client-server application with GitHub Copilot, .NET and Visual Studio
 
 These instructions are designed for community leaders and presenters who wish to pick up this session, and present it at community events. Below, you'll find all the necessary assets and relevant instructions for each stage of the presentation.
 
