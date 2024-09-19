@@ -39,9 +39,9 @@ If you want to deploy to Azure, we will also need the following:
 
 Large Language Models (LLMs) are non-deterministic (aka stochastic). Asking the same question twice may or may not result in a different answer. As such, it is quite difficult to write a lab that is going to work in the exact same manner 100% of the time.
 
-To make things easier, we provide [code snippets for each step](./client-server-dotnet/snippets), to show what GitHub Copilot *should* suggest. It is possible that the actual result you get is different from what we get.
+To make things easier, we provide [code snippets for each step](./client-server-app-vs-copilot-dotnet/snippets), to show what GitHub Copilot *should* suggest. It is possible that the actual result you get is different from what we get.
 
-In case of doubt, we also provided the various steps of the projects in the [steps folder](./client-server-dotnet/steps). You can always use these steps as a starting point at any moment of the lab.
+In case of doubt, we also provided the various steps of the projects in the [steps folder](./client-server-app-vs-copilot-dotnet/steps). You can always use these steps as a starting point at any moment of the lab.
 
 ## Pay attention to the vocabulary
 
@@ -79,15 +79,15 @@ This inline window is useful when you want to include some code directly inside 
 
 8. Make sure that the options are set as described on the picture below, then press `Create`.
 
-![Additional information](./client-server-dotnet/img/2024-09-12_17-11-55.png)
+![Additional information](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-11-55.png)
 
 9. Wait until the project is fully open, then run the application by pressing Ctrl-F5.
 
 At this point, your web browser will open, and you will see the following page.
 
-![Initial page](./client-server-dotnet/img/2024-09-12_17-13-44.png)
+![Initial page](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-13-44.png)
 
-> You can find the first step completed [in this folder](./client-server-dotnet/steps/Step1/).
+> You can find the first step completed [in this folder](./client-server-app-vs-copilot-dotnet/steps/Step1/).
 
 #### Creating the first draft in Razor
 
@@ -106,7 +106,7 @@ Create a collection called Cars. This collection is a list of Car instances. Eac
 
 6. Review the code. If it seems alright to you, press Accept.
 
-> You can see the code that [Copilot should create here](./client-server-dotnet/snippets/snippet1.cs).
+> You can see the code that [Copilot should create here](./client-server-app-vs-copilot-dotnet/snippets/snippet1.cs).
  
 7. Place the cursor below the line reading `Welcome to your new app` again.
 8. Press `Alt-/` and enter the following prompt:
@@ -117,13 +117,13 @@ Create a table of cars taking its source in the Cars collection.
 
 9. Review the code. If it seems alright to you, press Accept.
 
-> You can see the code that [Copilot should create here](./client-server-dotnet/snippets/snippet2.razor).
+> You can see the code that [Copilot should create here](./client-server-app-vs-copilot-dotnet/snippets/snippet2.razor).
 
 10. Run the application again. You should see a list of 3 cars, with Make, Model and Year but without styling.
 
-> You can find the second step completed [in this folder](./client-server-dotnet/steps/Step2/).
+> You can find the second step completed [in this folder](./client-server-app-vs-copilot-dotnet/steps/Step2/).
 
-![First list of cars](./client-server-dotnet/img/2024-09-12_17-16-35.png)
+![First list of cars](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-16-35.png)
 
 #### Refactoring in code-behind
 
@@ -141,7 +141,7 @@ Move the selected code in a code-behind file
 
 > Saving with the name `Home.razor.cs` shows the new file under the `Home.razor` in the Solution Explorer file as shown below.
 
-![Embedded Home.razor.cs file](./client-server-dotnet/img/2024-09-13_9-01-02.png)
+![Embedded Home.razor.cs file](./client-server-app-vs-copilot-dotnet/img/2024-09-13_9-01-02.png)
 
 ##### If compilation fails
 
@@ -150,7 +150,7 @@ If the code cannot be compiled, follow the steps:
 1. In `Home.razor.cs`, place your cursor on the first word following the `namespace` keyword.
 2. Then press `Ctrl-.` and select `Change namespace to match folder structure` from the context menu.
 
-> You can find this step completed [in this folder](./client-server-dotnet/steps/Step3/).
+> You can find this step completed [in this folder](./client-server-app-vs-copilot-dotnet/steps/Step3/).
 
 #### Styling the page
 
@@ -161,12 +161,12 @@ If the code cannot be compiled, follow the steps:
 Add some styling for the table
 ```
 
-3. Review the code proposed. This should look like [the snippet here](./client-server-dotnet/snippets/snippet3.razor).
+3. Review the code proposed. This should look like [the snippet here](./client-server-app-vs-copilot-dotnet/snippets/snippet3.razor).
 4. Run the application again by pressing `Ctrl-F5`. You should now see the list of 3 cars, with make, model and year, with a nicer appearance.
 
-> You can find this step completed [in this folder](./client-server-dotnet/steps/Step4/).
+> You can find this step completed [in this folder](./client-server-app-vs-copilot-dotnet/steps/Step4/).
 
-![Styled page](./client-server-dotnet/img/2024-09-12_17-24-22.png)
+![Styled page](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-24-22.png)
 
 ### Creating the backend
 
@@ -174,7 +174,7 @@ Add some styling for the table
 
 > The Solution is the top item in the Solution Explorer.
 
-![CarCatalog solution](./client-server-dotnet/img/2024-09-12_17-28-20.png)
+![CarCatalog solution](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-28-20.png)
 
 2. Search for the template named `ASP.NET Core Web API` and click on `Next`.
 3. Change the project name to `CarService` and select a location. You can either place this project in the upper CarCatalog folder, or in another location altogether.
@@ -184,7 +184,7 @@ Add some styling for the table
     1. Uncheck `Use controllers`.
 5. Click on `Create`.
 
-![Additional information](./client-server-dotnet/img/2024-09-12_17-32-18.png)
+![Additional information](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-32-18.png)
 
 6. In the Solution Explorer, open `Program.cs`. Make sure to select the `Program.cs` file under the `CarService` project and not the one under `CarCatalog`!
 7. Delete everything between `app.UseHttpsRedirection();` and `app.Run();`. Also delete the `WeatherForecast` record. After the deletion, [your code should look like this](snippets/snippet4.cs).
@@ -195,7 +195,7 @@ Add some styling for the table
 Create a minimal API GET method returning a list of 3 cars in JSON format. Each car should have a Make, Model and Year properties. The method should return the list of cars without converting it to JSON.
 ```
 
-10. Review the code and if it looks OK, you can `Accept` it. After the change, [your code should look like this](./client-server-dotnet/snippets/snippet5.cs).
+10. Review the code and if it looks OK, you can `Accept` it. After the change, [your code should look like this](./client-server-app-vs-copilot-dotnet/snippets/snippet5.cs).
 
 > NOTE: Sometimes GitHub Copilot proposes code that is too complex. Make sure that your `MapGet` call looks like this:
 
@@ -219,7 +219,7 @@ app.MapGet("/api/cars", () =>
 
 Because we enabled OpenAPI support, you will see a Swagger page in your web browser looking like this:
 
-![Swagger test page](./client-server-dotnet/img/2024-09-12_17-49-25.png)
+![Swagger test page](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-49-25.png)
 
 To test the API, you can follow these steps:
 
@@ -227,17 +227,17 @@ To test the API, you can follow these steps:
 3. Click on `Try it out`.
 4. You should be able to see the JSON code in the response body.
 
-![Response body](./client-server-dotnet/img/2024-09-12_17-50-08.png)
+![Response body](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-50-08.png)
 
 5. Copy on the URL displayed in the `Request URL` field. It should be looking like `https://localhost:7071/api/cars`.
 
-![Request URL](./client-server-dotnet/img/2024-09-12_17-50-37.png)
+![Request URL](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-50-37.png)
 
 > It's very possible that your URL's port number is different. That's OK.
 
 **Make sure to keep the web application running!**
 
-> You can find this step completed [in this folder](./client-server-dotnet/steps/Step5/).
+> You can find this step completed [in this folder](./client-server-app-vs-copilot-dotnet/steps/Step5/).
 
 ### Connecting the front-end to the backend
 
@@ -252,7 +252,7 @@ Connect to the web application to get the list of cars in JSON formats. Make sur
 4. Add a `using` reference to the `JsonSerializer` class. To do this, place the cursor on the `JsonSerializer` where the "red squiggly lines" are shown and press `Ctrl-.`. This opens Intellisense.
 5. Select `using System.Text.Json` from the pop-up menu.
 
-![Adding the using](./client-server-dotnet/img/2024-09-12_17-58-40.png)
+![Adding the using](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-58-40.png)
 
 6. Replace the URL that is used by the HttpClient with the URL you copied earlier in the Swagger window.
 7. Right-click on the `CarCatalog` project and select `Debug / Start Without Debugging`.
@@ -261,7 +261,7 @@ Connect to the web application to get the list of cars in JSON formats. Make sur
 
 At this point you should see an error in the web browser window. To understand errors in the web application, the easiest way is to use the browser tools.
 
-![Unhandled error](./client-server-dotnet/img/2024-09-12_18-00-17.png)
+![Unhandled error](./client-server-app-vs-copilot-dotnet/img/2024-09-12_18-00-17.png)
 
 1. In the web browser, press `F12` to display these tools.
 2. Select the Console tool. It is probably showing a message mentioning the CORS policy.
@@ -275,7 +275,7 @@ CORS (Cross-Origin Resource Sharing) is a protection mechanism where a server-si
 Set up CORS in the web API application so my Blazor app can call it. I want any application to be able to call the web API.
 ```
 
-Copilot will propose some code changes to the Program.cs file. What we really want is the instruction that starts with `builder.Services.AddCors` as well as the line that reads `app.UseCors("AllowAll");`. Modify your code to add these instructions. After the change, [your code should look like this](./client-server-dotnet/snippets/snippet6.cs).
+Copilot will propose some code changes to the Program.cs file. What we really want is the instruction that starts with `builder.Services.AddCors` as well as the line that reads `app.UseCors("AllowAll");`. Modify your code to add these instructions. After the change, [your code should look like this](./client-server-app-vs-copilot-dotnet/snippets/snippet6.cs).
 
 > You can ignore the other instructions from Copilot. Our project is already configured correctly, all we need is really just these two additions to the Program.cs file.
 
@@ -284,7 +284,7 @@ Copilot will propose some code changes to the Program.cs file. What we really wa
 
 At this point, the client application should be able to get the list of cars from the Web API application.
 
-> You can find this step completed [in this folder](./client-server-dotnet/steps/Step6/).
+> You can find this step completed [in this folder](./client-server-app-vs-copilot-dotnet/steps/Step6/).
 
 ### Getting the data from the Azure Tables service
 
@@ -330,17 +330,17 @@ It's possible that GitHub Copilot proposes to save the `Car` entity class in a s
 
 > Entity classes are classes implementing the `ITableEntity` interface. They facilitate the communication with the Azure Data table.
 
-You can see how the `Car` entity class looks like [in this snippet](./client-server-dotnet/snippets/snippet7.cs).
+You can see how the `Car` entity class looks like [in this snippet](./client-server-app-vs-copilot-dotnet/snippets/snippet7.cs).
 
 #### Creating the minimal API call
 
-GitHub Copilot is proposing code for the Program.cs file. You can review the code and if it looks good to you, make the necessary changes. After the modification, your code [should look like this](./client-server-dotnet/snippets/snippet8.cs).
+GitHub Copilot is proposing code for the Program.cs file. You can review the code and if it looks good to you, make the necessary changes. After the modification, your code [should look like this](./client-server-app-vs-copilot-dotnet/snippets/snippet8.cs).
 
 > Make sure to delete the `Car` class from Program.cs, as this would cause a conflict with the `Car` entity class we just created.
 
 ##### Security concern!!!
 
-[In the snippet](./client-server-dotnet/snippets/snippet8.cs), you will see that GitHub Copilot is proposing to store the connection string directly in the Program.cs file. This is a **big security concern** because it means you would probably save this in GitHub or in another source control repository. Repeat after me: **You should NEVER save connection strings or other secrets in source control**.
+[In the snippet](./client-server-app-vs-copilot-dotnet/snippets/snippet8.cs), you will see that GitHub Copilot is proposing to store the connection string directly in the Program.cs file. This is a **big security concern** because it means you would probably save this in GitHub or in another source control repository. Repeat after me: **You should NEVER save connection strings or other secrets in source control**.
 
 This shows that GitHub Copilot just like other LLMs can propose code that is not safe, or that doesn't compile. It's up to you, the developer, to make sure that the proposed code is correct and safe.
 
@@ -371,17 +371,17 @@ After you install Azure Storage Explorer, run the tool and follow the steps.
 1. Run the Web Api application by right-clicking on the `CarService` project in Visual Studio, and selecting `Debug / Start Without Debugging`.
 2. In the Azure Storage Explorer panel, expand `Emulator & Attached` > `Storage Accounts` > `(Emulator - Default Ports) (Key)` > `Tables`.
 
-![Azure Storage Explorer](./client-server-dotnet/img/2024-09-12_18-21-06.png)
+![Azure Storage Explorer](./client-server-app-vs-copilot-dotnet/img/2024-09-12_18-21-06.png)
 
 3. Right click on the Tables and select `Create Table`.
 
-![Create table](./client-server-dotnet/img/2024-09-12_18-21-50.png)
+![Create table](./client-server-app-vs-copilot-dotnet/img/2024-09-12_18-21-50.png)
 
 4. Enter the name of the table `Cars`.
 5. Click on the `Cars` table to open it.
 6. Click on the `Add` button.
 
-![Add entity](./client-server-dotnet/img/2024-09-12_18-22-39.png)
+![Add entity](./client-server-app-vs-copilot-dotnet/img/2024-09-12_18-22-39.png)
 
 7. In the `Add Entity` window, set `PartitionKey` to `Test Make 1`.
 8. Set RowKey to `Test Model 1`.
@@ -406,7 +406,7 @@ In order to change this, let's ask Copilot how we should do things properly.
 Where can I add the connection string for my Azure Table Storage account?
 ```
 
-3. Following Copilot's suggestion, open the appsettings.json file and add the connection string. After your change, [it should look like this](./client-server-dotnet/snippets/snippet9.json).
+3. Following Copilot's suggestion, open the appsettings.json file and add the connection string. After your change, [it should look like this](./client-server-app-vs-copilot-dotnet/snippets/snippet9.json).
 4. Set the `AzureTableStorage` connection string to `UseDevelopmentStorage=true`.
 
 > The `UseDevelopmentStorage=true` connection string is specifically used to connect to the local emulator. When we deploy our application to Azure, we will configure a different connection string in the settings, connecting our application to the actual storage account.
@@ -438,9 +438,9 @@ The Response body should show the entities you entered in the Azure Storage Expl
 
 If everything was configured properly, you should see the list of entities in the Blazor application.
 
-![Final project running locally](./client-server-dotnet/img/2024-09-13_10-34-35.png)
+![Final project running locally](./client-server-app-vs-copilot-dotnet/img/2024-09-13_10-34-35.png)
 
-> [You can see the final project in this folder](./client-server-dotnet/steps/Final/).
+> [You can see the final project in this folder](./client-server-app-vs-copilot-dotnet/steps/Final/).
 
 ## Deployment
 
@@ -461,7 +461,7 @@ At this point, your code is not saved in a repository yet.
 
 > It is always recommended to save your code in source control, because it makes it much easier to avoid accidents, lose code, to revert to a previous version, etc. Note that you can use source control locally too, without saving your code to GitHub or anther source control provider.
 
-![Git Changes window](./client-server-dotnet/img/2024-09-13_12-40-28.png)
+![Git Changes window](./client-server-app-vs-copilot-dotnet/img/2024-09-13_12-40-28.png)
 
 3. Click on `Create Git Repository` button.
 4. On the side, under `Push to a new remote`, select `GitHub`.
@@ -481,11 +481,11 @@ When you are done entering the details, press `Create and Push`. After a short w
 
 On top of the Git Changes window, you should see a notification. You can click on `Git Repository window` to open that window. Alternatively, you can use the feature search (`Ctrl-Q`) to open that window. This will show your source code with all the history.
 
-![Notification](./client-server-dotnet/img/2024-09-13_12-50-34.png)
+![Notification](./client-server-app-vs-copilot-dotnet/img/2024-09-13_12-50-34.png)
 
 To see the code in GitHub, you can expand the `remotes/origin` folder on the right. Then right-click on the `main` branch in this folder, and select `Open in browser`.
 
-![Open in browser](./client-server-dotnet/img/2024-09-13_12-49-49.png)
+![Open in browser](./client-server-app-vs-copilot-dotnet/img/2024-09-13_12-49-49.png)
 
 ### Creating the Web App
 
@@ -499,11 +499,11 @@ The API (`CarService`) will be hosted in a Web App.
 4. In the `Create a resource` window, enter `Web App` in the search box.
 5. Select `Web App` from the results.
 
-![Web App](./client-server-dotnet/img/2024-09-13_12-56-08.png)
+![Web App](./client-server-app-vs-copilot-dotnet/img/2024-09-13_12-56-08.png)
 
 6. Press on `Create`.
 
-![Create a Web App](./client-server-dotnet/img/2024-09-13_12-57-06.png)
+![Create a Web App](./client-server-app-vs-copilot-dotnet/img/2024-09-13_12-57-06.png)
 
 7. In the `Create Web App` window, enter the following details:
     1. Project Details
@@ -553,7 +553,7 @@ Remember that the `Cars` table that we created in Azurite is used only for local
 2. Click on `Create a resource`.
 3. In the search box, enter `Storage account`.
 
-![Storage account](./client-server-dotnet/img/2024-09-13_13-15-47.png)
+![Storage account](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-15-47.png)
 
 4. Select the Storage account from the result.
 5. Press `Create`.
@@ -578,17 +578,17 @@ After a few moments, the resource is created. We will now create the table and a
 1. Click on `Go to resource`.
 2. On the left hand side, click on `Storage browser`.
 
-![Storage browser](./client-server-dotnet/img/2024-09-13_13-40-49.png)
+![Storage browser](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-40-49.png)
 
 3. Click on `Tables`.
 
-![Tables](./client-server-dotnet/img/2024-09-13_13-41-15.png)
+![Tables](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-41-15.png)
 
 4. Click on `Add table`.
 5. Enter the table name `Cars` then press `OK`.
 6. Click on the `Cars` table.
 
-![Cars table](./client-server-dotnet/img/2024-09-13_13-42-35.png)
+![Cars table](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-42-35.png)
 
 7. Click on `Add entity`.
 8. Enter the following details:
@@ -607,22 +607,22 @@ Now we will configure the connection string for the Web App. If you remember, we
 
 1. On the left hand side, expand `Security + networking` and then `Access keys`.
 
-![Access keys](./client-server-dotnet/img/2024-09-13_13-52-44.png)
+![Access keys](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-52-44.png)
 
 2. Under `key1`, `Connection string`, press `Show`.
 3. Press on the small `Copy` icon at the right of the Connection string field.
 
-![Copy the connection string](./client-server-dotnet/img/2024-09-13_13-53-56.png)
+![Copy the connection string](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-53-56.png)
 
 4. Click on `Home` again.
 5. Click on the web app `carcatalog` (App service).
 6. On the left hand side, expand `Settings` and then select `Environment variables`.
 
-![Environment variables](./client-server-dotnet/img/2024-09-13_13-56-13.png)
+![Environment variables](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-56-13.png)
 
 7. Press the `Connection strings` tab.
 
-![Connection strings tab](./client-server-dotnet/img/2024-09-13_13-56-46.png)
+![Connection strings tab](./client-server-app-vs-copilot-dotnet/img/2024-09-13_13-56-46.png)
 
 8. Click on `Add`.
 9. Enter the `Name`: `AzureTableStorage`.
@@ -652,7 +652,7 @@ For the front-end, we are going to deploy to a Static Web App. You could of cour
 3. Enter `Static web app` in the search box.
 4. Select the Static Web App service from the results and click it.
 
-![Static web app](./client-server-dotnet/img/2024-09-13_15-05-48.png)
+![Static web app](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-05-48.png)
 
 5. Click on `Create`.
 6. Enter the following details:
@@ -679,7 +679,7 @@ When the deployment is complete, press on `Go to resources`.
 
 In the `Essentials` area, you can see the URL of the front-end application.
 
-![Essentials in the Static Web App](./client-server-dotnet/img/2024-09-13_15-15-50.png)
+![Essentials in the Static Web App](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-15-50.png)
 
 Click on the link to open the Static Web App. It's probable that it's still empty at this point, since the GitHub action is not finished running.
 
@@ -690,7 +690,7 @@ The GitHub action that was created by the Azure portal will run automatically wh
 1. Go to the GitHub repository where you saved the code. We explained how to open this repository from Visual Studio at the end of the step titled [Putting the code in GitHub](#putting-the-code-in-github) here above.
 2. Click on the Actions tab.
 
-![Actions tab](./client-server-dotnet/img/2024-09-13_15-20-50.png)
+![Actions tab](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-20-50.png)
 
 Now you can see some workflows run. The first one was the one deploying the code to the Web App. The last one is the one that just ran to deploy the Static Web app. Once the small checkmark next to the action is green, you can refresh the Blazor app to see the change.
 
@@ -698,11 +698,11 @@ Now you can see some workflows run. The first one was the one deploying the code
 
 We're not completely done yet. The application is not working, and an error notification is shown at the bottom of the page.
 
-![Error notification](./client-server-dotnet/img/2024-09-12_18-00-17.png)
+![Error notification](./client-server-app-vs-copilot-dotnet/img/2024-09-12_18-00-17.png)
 
 Press on F12 to open the developer tools in the web browser. You should see an error similar to the one displayed here in the Console.
 
-![Developer tools](./client-server-dotnet/img/2024-09-13_15-26-52.png)
+![Developer tools](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-26-52.png)
 
 This should remind you that we hard-coded the URL of the backend service in the Home.razor.cs page. Let's fix this now.
 
@@ -718,17 +718,17 @@ var response = await httpClient.GetAsync("https://localhost:7071/api/cars");
 5. Go to the `Git Changes` window in Visual Studio.
 6. Enter a message in the field, and then press `Commit All`.
 
-![Committing the change](./client-server-dotnet/img/2024-09-13_15-32-59.png)
+![Committing the change](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-32-59.png)
 
 7. Press on the `Push` button.
 
-![Push to GitHub](./client-server-dotnet/img/2024-09-13_15-33-52.png)
+![Push to GitHub](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-33-52.png)
 
 > If you see a `Git - Push failed` popup, simply press on `Pull then Push`. It means that the changes from GitHub will be downloaded locally first, and then your local changes will be pushed.
 
 Go back to the GitHub repository's Actions tab and see that the action triggered automatically. Your change is being deployed to the Static Web App. Once the deployment is complete with a green checkmark, go back to the Blazor application and refresh the page. You should now see the cars being displayed.
 
-![Final result in Azure](./client-server-dotnet/img/2024-09-13_15-40-47.png)
+![Final result in Azure](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-40-47.png)
 
 ## Conclusion
 
@@ -746,17 +746,17 @@ Remember that even though we selected the free tier of Azure services, some mino
 2. Go to the `CarCatalog` resource group.
 3. Press the `Delete resource group` button.
 
-![Delete resource group](./client-server-dotnet/img/2024-09-13_15-45-11.png)
+![Delete resource group](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-45-11.png)
 
 4. Enter the resource group name in the field titled `Enter resource group name to confirm deletion` and press `Delete`.
 
-![Deleting the resource group](./client-server-dotnet/img/2024-09-13_15-46-11.png)
+![Deleting the resource group](./client-server-app-vs-copilot-dotnet/img/2024-09-13_15-46-11.png)
 
 ## Slides
 
 You can use the slide deck below to introduce the lab and give a small part of theory.
 
-[![Slide deck](./client-server-dotnet/img/2024-09-19_10-55-49.png)](./client-server-dotnet/SeasonOfAI_GHCopilot_NET.pptx)
+[![Slide deck](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-55-49.png)](./client-server-app-vs-copilot-dotnet/SeasonOfAI_GHCopilot_NET.pptx)
 
 ## Videos
 
@@ -766,34 +766,34 @@ This section contains videos showing the whole process. You can use the videos t
 
 Part 1 shows how to build the front-end locally with the help of Visual Studio and GitHub Copilot.
 
-[![Part 1: Building the Front-End](./client-server-dotnet/img/2024-09-19_10-29-25.png)](https://www.youtube.com/watch?v=6LqVUv0rVgE&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz)
+[![Part 1: Building the Front-End](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-29-25.png)](https://www.youtube.com/watch?v=6LqVUv0rVgE&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz)
 
 ### Part 2: Building the Backend
 
 Part 2 shows how to build the backend with .NET Minimal APIs, with the help of Visual Studio and GitHub Copilot.
 
-[![Part 2: Building the Backend](./client-server-dotnet/img/2024-09-19_10-32-39.png)](https://www.youtube.com/watch?v=3WZsdlGwe44&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=2)
+[![Part 2: Building the Backend](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-32-39.png)](https://www.youtube.com/watch?v=3WZsdlGwe44&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=2)
 
 ### Part 3: Connecting the front-end
 
 Part 3 shows how to connect the front-end to the backend with the help of Visual Studio and GitHub Copilot. It also shows how to use GitHub Copilot to get help on configuring CORS.
 
-[![Part 3: Connecting the front-end](./client-server-dotnet/img/2024-09-19_10-34-28.png)](https://www.youtube.com/watch?v=sTPYywG65nI&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=3)
+[![Part 3: Connecting the front-end](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-34-28.png)](https://www.youtube.com/watch?v=sTPYywG65nI&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=3)
 
 ### Part 4: Using local Azure Tables
 
 Part 4 shows how we use Azure Tables locally for the data storage, and connect the backend to it with the help of Visual Studio and GitHub Copilot. It also shows how to use the storage emulator Azurite to run the application locally.
 
-[![Part 4: Using local Azure Tables](./client-server-dotnet/img/2024-09-19_10-35-16.png)](https://www.youtube.com/watch?v=XRNxfEszD_8&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=4)
+[![Part 4: Using local Azure Tables](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-35-16.png)](https://www.youtube.com/watch?v=XRNxfEszD_8&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=4)
 
 ### Part 5: Deploying the Backend
 
 Part 5 shows how to create a new Web App on Azure and use a GitHub action to deploy our Backend to it.
 
-[![Part 5: Deploying the Backend](./client-server-dotnet/img/2024-09-19_10-35-55.png)](https://www.youtube.com/watch?v=LkIBjf6dzxE&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=5)
+[![Part 5: Deploying the Backend](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-35-55.png)](https://www.youtube.com/watch?v=LkIBjf6dzxE&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=5)
 
 ### Part 6: Deploying the Front-end
 
 Part 6 shows how to create a Static Web App on Azure, and deploy our front-end to it with a GitHub action.
 
-[![Part 6: Deploying the Front-end](./client-server-dotnet/img/2024-09-19_10-36-26.png)](https://www.youtube.com/watch?v=a-UFB5K-mbw&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=6)
+[![Part 6: Deploying the Front-end](./client-server-app-vs-copilot-dotnet/img/2024-09-19_10-36-26.png)](https://www.youtube.com/watch?v=a-UFB5K-mbw&list=PLl8yjZLsL_WqC-PWSyFEpa-Uxxs00q0iz&index=6)
