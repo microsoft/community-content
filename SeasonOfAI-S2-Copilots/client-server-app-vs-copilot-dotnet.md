@@ -187,7 +187,7 @@ Add some styling for the table
 ![Additional information](./client-server-app-vs-copilot-dotnet/img/2024-09-12_17-32-18.png)
 
 6. In the Solution Explorer, open `Program.cs`. Make sure to select the `Program.cs` file under the `CarService` project and not the one under `CarCatalog`!
-7. Delete everything between `app.UseHttpsRedirection();` and `app.Run();`. Also delete the `WeatherForecast` record. After the deletion, [your code should look like this](snippets/snippet4.cs).
+7. Delete everything between `app.UseHttpsRedirection();` and `app.Run();`. Also delete the `WeatherForecast` record. After the deletion, [your code should look like this](./client-server-app-vs-copilot-dotnet/snippets/snippet4.cs).
 8. Place your cursor just *before* the line reading `app.Run();`.
 9. Type `Alt-/` and enter the prompt.
 
