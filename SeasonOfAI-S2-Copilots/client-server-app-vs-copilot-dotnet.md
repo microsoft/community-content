@@ -133,7 +133,7 @@ Create a table of cars taking its source in the Cars collection.
 1. Select the whole code within the `@code` block.
 2. Open the GitHub Copilot Chat window and type the following prompt.
 
-![GitHub Copilot Chat button](img/2024-09-16_172538.png)
+![GitHub Copilot Chat button](./client-server-app-vs-copilot-dotnet/img/2024-09-16_172538.png)
 
 ```txt
 Move the selected code in a code-behind file
