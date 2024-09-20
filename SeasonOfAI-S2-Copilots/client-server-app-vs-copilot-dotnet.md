@@ -70,6 +70,9 @@ This inline window is useful when you want to include some code directly inside 
 1. Open Visual Studio.
 2. Select `Create a new project`.
 3. Search for the template named `Blazor WebAssembly Standalone App` and press `Next`.
+
+> NOTE: If you cannot find this template, look at the [Blazor docs](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/install).
+
 4. In the `Configure your new project` window, change the name to `CarCatalog`.
 5. Select a location for the new project, then press `Next`.
 6. In the `Additional information` window, unselect the checkbox `Include sample pages`.
@@ -129,6 +132,8 @@ Create a table of cars taking its source in the Cars collection.
 
 1. Select the whole code within the `@code` block.
 2. Open the GitHub Copilot Chat window and type the following prompt.
+
+![GitHub Copilot Chat button](img/2024-09-16_172538.png)
 
 ```txt
 Move the selected code in a code-behind file
@@ -442,7 +447,7 @@ If everything was configured properly, you should see the list of entities in th
 
 > [You can see the final project in this folder](./client-server-app-vs-copilot-dotnet/steps/Final/).
 
-## Deployment
+## Deployment (Optional)
 
 > This part of the workshop is optional, and can be done if you still have time.
 
