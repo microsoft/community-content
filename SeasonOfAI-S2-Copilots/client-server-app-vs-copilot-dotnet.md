@@ -49,7 +49,7 @@ In this lab, we are using two ways of communicating with GitHub Copilot.
 
 ### The GitHub Copilot Chat window
 
-This is a window (that can be docked) where you can have a dialog with GitHub Copilot. To open this window, press `Ctrl-Q` to open the feature search. Then type `GitHub Copilot chat`. You can now open this window.
+This is a window (that can be docked) where you can have a dialog with GitHub Copilot. To open this window, press `Ctrl-Q` to open the Visual Studio Feature Search. Then type `GitHub Copilot chat`. You can now open this window.
 
 Whenever the instructions ask you to type a prompt in the *GitHub Copilot Chat* window, this is where you should do it.
 
@@ -308,9 +308,9 @@ GitHub Copilot is going to propose multiple steps to you. Let's review.
 
 > As always, these steps might look different on your machine, since GitHub Copilot can propose different solutions to the same prompt. You can either follow GitHub Copilot's instructions precisely, or follow the instructions here.
 
-#### Installing the Nuget packages
+#### Installing the NuGet packages
 
-GitHub Copilot proposes one or more ways to install the Nuget packages necessary to connect to an Azure Data table. For instance:
+GitHub Copilot proposes one or more ways to install the NuGet packages necessary to connect to an Azure Data table. For instance:
 
 ```txt
 Open the NuGet Package Manager in Visual Studio and install the following packages:
@@ -323,7 +323,7 @@ Install-Package Microsoft.AspNetCore.OpenApi
 ```
 
 1. Copy the first line `Install-Package Azure.Data.Tables`.
-2. Press `Ctrl-Q` to open the Visual Studio Feature search.
+2. Press `Ctrl-Q` to open the Visual Studio Feature Search.
 3. Search for `package manager console`.
 4. In the Package Manager Console, make sure that the `Default project` dropdown is set to `CarService`.
 5. In the Package Manager Console, paste the line you copied and press `Enter`.
@@ -359,7 +359,7 @@ In order to test this change locally, we will use the Azure Storage emulator cal
 
 **Azurite is installed with Visual Studio**, so you don't need to install it separately. However you will need to configure your project with the following steps:
 
-1. Press `Ctrl-Q` to open the Feature Search. Then look for `Connected Services`.
+1. Press `Ctrl-Q` to open the Visual Studio Feature Search. Then look for `Connected Services`.
 2. In the search box, select `Azure Storage`, `Project > Connected Services > Add > Azure Storage`.
 3. In the `Connect to dependency` window, select `Storage Azurite emulator (Local)`.
 4. For the `Connection string name` field, enter `AzureTableStorage`.
@@ -460,7 +460,7 @@ In order to run this on Azure, we are going to deploy using GitHub Actions.
 First, we will create a GitHub repository for the code, and commit/push the code to it. We can do all this from Visual Studio directly.
 
 1. In Visual Studio, with the `CarCatalog` solution open, you should see both projects (`CarCatalog` front-end and `CarService` backend) in the Solution Explorer.
-2. Press `Ctrl-Q` to open the feature search, and type `Git changes`. Open that window.
+2. Press `Ctrl-Q` to open the Visual Studio Feature Search, and type `Git changes`. Open that window.
 
 At this point, your code is not saved in a repository yet.
 
@@ -484,7 +484,7 @@ At this point, your code is not saved in a repository yet.
 
 When you are done entering the details, press `Create and Push`. After a short wait, the code is committed (saved locally), then pushed (saved to GitHub).
 
-On top of the Git Changes window, you should see a notification. You can click on `Git Repository window` to open that window. Alternatively, you can use the feature search (`Ctrl-Q`) to open that window. This will show your source code with all the history.
+On top of the Git Changes window, you should see a notification. You can click on `Git Repository window` to open that window. Alternatively, you can use the Visual Studio Feature Search (`Ctrl-Q`) to open that window. This will show your source code with all the history.
 
 ![Notification](./client-server-app-vs-copilot-dotnet/img/2024-09-13_12-50-34.png)
 
