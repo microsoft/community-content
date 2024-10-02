@@ -19,4 +19,6 @@ Join us for a hands-on experience where you’ll explore various Copilot feature
 **Speaker Expectation/Skills:** Basic programming knowledge, simple coding demos (Challenges available in JavaScript, Python and C#)
 
 ## Assets you will need to redeliver this session
-* _[Available Soon]_ Download the PowerPoint Presentation and a Train the Trainer (TTT) video for the talk
+* [Download the PowerPoint Presentation](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Copilots/CopilotAdventures-2024.pptx)
+
+* _[Available Soon]_ Train the Trainer (TTT) video for the talk
