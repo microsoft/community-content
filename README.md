@@ -4,9 +4,8 @@
 
 See below for details on Season of AI - Copilots and learn how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season.
 
-<!--
 #### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
--->
+
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft AI - Copilots talk to occur between **October 1 and December 31, 2024** Make sure you are listed as the speaker for your event.
