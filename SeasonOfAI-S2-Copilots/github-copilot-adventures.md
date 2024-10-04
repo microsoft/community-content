@@ -21,4 +21,4 @@ Join us for a hands-on experience where you’ll explore various Copilot feature
 ## Assets you will need to redeliver this session
 * [Download the PowerPoint Presentation](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Copilots/CopilotAdventures-2024.pptx)
 
-* _[Available Soon]_ Train the Trainer (TTT) video for the talk
+* [Train the Trainer (TTT) video](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Copilots/AI.Adventures.TTT_.GitHub.Copilot.mp4) for the talk
