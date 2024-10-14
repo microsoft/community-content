@@ -18,12 +18,12 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 - [Podcast Copilot with Azure OpenAI Service, .NET, and Copilot Studio](./podcast-copilot-azure-openai-dotnet-copilot-studio.md) (Azure OpenAI Service, Copilot Studio)
 
 **JavaScript** 
-- [Prompt Crafting Techniques for GitHub Copilot](./prompt-crafting-techniques-github-copilot.md) (VS Code)
 - [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
+- [Prompt Crafting Techniques for GitHub Copilot](./prompt-crafting-techniques-github-copilot.md) (VS Code)
 
 **Python**
-- [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
 - [Copilot in Microsoft Fabric](./copilot-in-microsoft-fabric.md) (Microsoft Fabric)
+- [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
 
 **Low Code/No Code**
 - [Build Your Own Agent Using Microsoft Copilot Studio](./build-your-own-agent-with-microsoft-copilot-studio.md) (Copilot Studio)
