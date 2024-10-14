@@ -25,7 +25,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 - [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
 - [Copilot in Microsoft Fabric](./copilot-in-microsoft-fabric.md) (Microsoft Fabric)
 
-**Low Oode/No Code**
+**Low Code/No Code**
 - [Build Your Own Agent Using Microsoft Copilot Studio](./build-your-own-agent-with-microsoft-copilot-studio.md) (Copilot Studio)
 
 ### QR Code/Attendee Survey
