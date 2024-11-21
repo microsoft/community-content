@@ -11,7 +11,7 @@ Each topic includes slides and presentation notes. Some will include pre-recorde
 Do you want to brush up on generative AI basics? Get started with [Generative AI for Beginniners](https://microsoft.github.io/generative-ai-for-beginners/) on GitHub
 
 ### Available content
-_[Comming Soon]_
+_[Coming Soon]_
 
 ### QR Code/Attendee Survey
 
