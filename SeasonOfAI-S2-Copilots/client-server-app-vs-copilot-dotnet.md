@@ -250,7 +250,7 @@ To test the API, you can follow these steps:
 2. Place the cursor inside the `GetCars` method and press `Alt-/`. Then enter the following prompt.
 
 ```txt
-Connect to the web application to get the list of cars in JSON formats. Make sure to ignore the casing of the properties.
+Connect to the Web API to get the list of cars in JSON formats. Make sure to ignore the casing of the properties.
 ```
 
 3. Notice how GitHub Copilot is doing the right thing and proposing to make the corresponding code asynchronous. If you are satisfied with the code, click on `Accept`.
