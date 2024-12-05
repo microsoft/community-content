@@ -62,42 +62,51 @@ Open `prompts > chat > config.json`, replace it with the following snippet and c
 
 ```
 {
-  "schema": 1.1,
-  "description": "A bot that can chat with users",
-  "type": "completion",
-  "completion": {
-    "completion_type": "chat",
-    "include_history": true,
-    "include_input": true,
-    "max_input_tokens": 2800,
-    "max_tokens": 1000,
-    "temperature": 0.9,
-    "top_p": 0.0,
-    "presence_penalty": 0.6,
-    "frequency_penalty": 0.0,
-    "data_sources": [
-      {
-          "type": "azure_search",
-          "parameters": {
-              "endpoint": “YOUR-AI-SEARCH-ENDPOINT”,
-              "index_name": "$indexName",
-              "authentication": {
-                  "type": "api_key",
-                  "key": “YOUR-AI-SEARCH-KEY”
-              },
-              "query_type":"vector",
-              "in_scope": true,
-              "strictness": 3,
-              "top_n_documents": 3,
-              "embedding_dependency": {
-                "type": "deployment_name",
-                "deployment_name": “YOUR-EMBEDDING-MODEL-NAME”
-              }
-          }
+  "data_sources": [
+    {
+      "type": "azure_search",
+      "parameters": {
+        "endpoint": "'$search_endpoint'",
+        "semantic_configuration": "default",
+        "query_type": "vector",
+        "fields_mapping": {},
+        "in_scope": true,
+        "role_information": "You are a career specialist named \"Career Genie\" that helps Human Resources team for writing job posts.\nYou are friendly and professional.\nYou always greet users with excitement and introduce yourself first.\nYou like using emojis where appropriate.",
+        "filter": null,
+        "strictness": 3,
+        "top_n_documents": 5,
+        "authentication": {
+          "type": "api_key",
+          "key": "'$search_key'"
+        },
+        "embedding_dependency": {
+          "type": "deployment_name",
+          "deployment_name": "text-embedding-ada-002"
+        },
+        "key": "'$search_key'",
+        "indexName": "'$search_index'"
       }
-    ]
-  }
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a career specialist named \"Career Genie\" that helps Human Resources team for writing job posts.\nYou are friendly and professional.\nYou always greet users with excitement and introduce yourself first.\nYou like using emojis where appropriate."
+    }
+  ],
+  "temperature": 0.7,
+  "top_p": 0.95,
+  "max_tokens": 800,
+  "stop": null,
+  "stream": true,
+  "past_messages": 10,
+  "frequency_penalty": 0,
+  "presence_penalty": 0,
+  "azureSearchEndpoint": "<YOUR-AI-SEARCH-ENDPOINT>",
+  "azureSearchKey": "<YOUR-AI-SEARCH-API-KEY>",
+  "azureSearchIndexName": "<YOUR-AI-SEARCH-INDEX-NAME>"
 }
+
 ```
 
 Now go back to Teams and ask similar questions to Career Genie. Recognize the change in its behavior, and it uses emojis as it was defined in the system prompt.
