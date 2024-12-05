@@ -11,7 +11,26 @@ Each topic includes slides and presentation notes. Some will include pre-recorde
 Do you want to brush up on generative AI basics? Get started with [Generative AI for Beginniners](https://microsoft.github.io/generative-ai-for-beginners/) on GitHub
 
 ### Available content
-_[Coming Soon]_
+
+**Agents and LLMs**
+- [Azure AI Foundry and the dev toolchain to infuse AI in all your apps](https://ignite.microsoft.com/en-US/sessions/BRK119)
+- [Coding the future of AI](https://ignite.microsoft.com/en-US/sessions/BRK115)
+- [What's new with Copilot Studio and agents](https://ignite.microsoft.com/en-US/sessions/BRK165)
+- [Developers guide to building your own agents](https://ignite.microsoft.com/en-US/sessions/BRK167)
+  
+**LLMs and SLMs**
+- [Solving the unsolvable: o1 models for breakthrough reasoning on Azure](https://ignite.microsoft.com/en-US/sessions/BRK110)
+- [AI customization: Optimize Phi and SLMs performance](https://ignite.microsoft.com/en-US/sessions/BRK114)
+
+**RAG**
+- [Azure AI Search: RAG for better results, larger scale, faster answers](https://ignite.microsoft.com/en-US/sessions/BRK105)
+
+**General AI**
+- [Making cloud deployment easier with GitHub Copilot for Azure](https://ignite.microsoft.com/en-US/sessions/LAB412)
+- [A guide to building tomorrows AI Solutions](https://ignite.microsoft.com/en-US/sessions/BRK132)
+
+
+Looking for a different AI topic from Ignite? Find more [AI at Ignite 2024 here](https://github.com/Azure/azure-ai-at-ignite). Open issues in this repo if you need help preparing any other Ignite session for delivery at your meetup.
 
 ### QR Code/Attendee Survey
 
