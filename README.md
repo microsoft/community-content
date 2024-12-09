@@ -9,13 +9,13 @@ See below for details on Season of AI - Best of AI @ Ignite and learn how you ca
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft AI - Best of AI @ Ignite talk to occur between **January 1 and March 31, 2025** Make sure you are listed as the speaker for your event.
-2.	**Register** to promote your event using your URL here: https://aka.ms/RegisterSeasonofAI
+	**Register** to promote your event using your URL here: https://aka.ms/RegisterSeasonofAI
    - The free gift offer ends on March 14, 2025 at 9 AM Pacific or while supplies last (whichever comes first).
    - Within 2-4 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
-3.	**Prepare** and deliver your talk 🗣️
+2.	**Prepare** and deliver your talk 🗣️
 -	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S3-BestOfIgnite) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
-4. **Feedback** Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
+3. **Feedback** Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
 
 Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
 
