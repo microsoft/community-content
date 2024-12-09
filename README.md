@@ -1,17 +1,19 @@
-# Season of AI - Season 2 - "Copilots" (Oct to Dec, 2024)
+# Season of AI - Season 3 - Best of AI @ Ignite (Jan to Mar, 2025)
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
 
-See below for details on Season of AI - Copilots and learn how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season.
+See below for details on Season of AI - Best of AI @ Ignite and learn how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season. The first 200 speakers to confirm a scheduled event are eligible to receive a free gift. We will offer 100 gift sets for in person events and 100 gift sets for virutal events. Limit one per speaker/user group. Terms apply, please review the Terms and Conditions. 
 
 #### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft AI - Copilots talk to occur between **October 1 and December 31, 2024** Make sure you are listed as the speaker for your event.
-2.	**Register** to promote your event using your URL here: https://aka.ms/RegisterEventSeasonofAI
-3.	**Prepare** and deliver your talk 🗣️
--	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S2-Copilots) here on GitHub.
+1.	**Schedule** 📆 your Microsoft AI - Best of AI @ Ignite talk to occur between **January 1 and March 31, 2025** Make sure you are listed as the speaker for your event.
+2.	**Register** to promote your event using your URL here: https://aka.ms/RegisterSeasonofAI
+   - The free gift offer ends on March 14, 2025 at 9 AM Pacific or while supplies last (whichever comes first).
+   - Within 2-4 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
+4.	**Prepare** and deliver your talk 🗣️
+-	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S3-BestOfIgnite) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
 -	After the event, encourage attendees to participate in a post-event survey via a QR code that is included in the presentation materials.
 
