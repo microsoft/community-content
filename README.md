@@ -4,7 +4,7 @@
 
 See below for details on Season of AI - Best of AI @ Ignite and learn how you can register to receive a special gift from Microsoft for registering to deliver a talk or host a meeting during this season. The first 200 speakers to confirm a scheduled event are eligible to receive a free gift. We will offer 100 gift sets for in person events and 100 gift sets for virtual events. Limit one per speaker/user group. Terms apply, please review the Terms and Conditions. 
 
-#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events)
+<!---#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events) --->
 
 ### How to participate:
 
