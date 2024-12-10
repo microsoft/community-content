@@ -28,6 +28,8 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 **General AI**
 - [Making cloud deployment easier with GitHub Copilot for Azure](https://ignite.microsoft.com/en-US/sessions/LAB412)
 - [A guide to building tomorrows AI Solutions](https://ignite.microsoft.com/en-US/sessions/BRK132)
+- [Building AI apps: Technical use cases and patterns](https://ignite.microsoft.com/en-US/sessions/BRK142)
+- [Accelerate and secure development with DevSecOps and AI](https://ignite.microsoft.com/en-US/sessions/BRK140)
 
 
 Looking for a different AI topic from Ignite? Find more [AI at Ignite 2024 here](https://github.com/Azure/azure-ai-at-ignite). Open issues in this repo if you need help preparing any other Ignite session for delivery at your meetup.
