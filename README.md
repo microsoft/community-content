@@ -2,7 +2,7 @@
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
 
-Register your Season of AI event and be eligible to receive a free gift. Be the first 200 speakers to confirm a scheduled event (100 in person and 100 virtual events). Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions).
+[Register](https://aka.ms/RegisterSeasonofAI) your Season of AI event and be eligible to receive a free gift. Be the first 200 speakers to confirm a scheduled event (100 in person and 100 virtual events). Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions).
 
 <!---#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events) --->
 
