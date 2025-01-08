@@ -1,7 +1,7 @@
 # Session Details
 
 ## Session Title: 
-[AI customization: Optimize Phi and SLMs performance] https://ignite.microsoft.com/en-US/sessions/BRK114 
+[AI customization: Optimize Phi and SLMs performance](https://ignite.microsoft.com/sessions/BRK114) 
 
 
 ## Session Abstract:
@@ -54,7 +54,7 @@ By the end of this session, participants will:
 - [FineTuning Lab](https://aka.ms/ignite/pre016)
 
 ## Session Presentation, Video and Transcript
-[Resources](https://ignite.microsoft.com/en-US/sessions/BRK114)
+[Resources](https://ignite.microsoft.com/sessions/BRK114)
 
 ## Demo
 - [Fine Tunining Samples and requirements](https://aka.ms/phi/finetuning-notebook)
