@@ -28,11 +28,9 @@ Advanced (300), technical
 * [Azure AI Foundry](https://learn.microsoft.com/azure/ai-studio/what-is-ai-studio) 
     * New [Tracing capabilities](https://learn.microsoft.com/azure/ai-studio/concepts/trace)
     * [Evaluation for text and image in the Azure AI Foundry SDK](https://learn.microsoft.com/azure/ai-studio/how-to/develop/evaluate-sdk)
-* GitHub Actions
+* [GitHub Actions](https://github.com/features/actions)
 
 ![GenAIOps Tools](./img/genaiops-tools.png)
 
-## Session Resources and references:
+## Extra Resources and references:
 * [What is Gen AI Ops? Blog](https://techcommunity.microsoft.com/blog/aiplatformblog/the-future-of-ai-the-paradigm-shifts-in-generative-ai-operations/4254216)
-* [AZD AI Template for demo application: Creative Writing Assitant](https://azure.github.io/ai-app-templates/repo/azure-samples/contoso-creative-writer/)
-* [GitHub repo for demo application: Creative Writing Assitant](https://github.com/Azure-Samples/contoso-creative-writer)
