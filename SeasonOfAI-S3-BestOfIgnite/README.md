@@ -13,7 +13,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 ### Available content
 
 **Agents and LLMs**
-- [Azure AI Foundry and the dev toolchain to infuse AI in all your apps](https://ignite.microsoft.com/en-US/sessions/BRK119)
+- [Azure AI Foundry and the dev toolchain to infuse AI in all your apps](./azure-ai-foundry-dev-toolchain.md)
 - [Coding the future of AI](https://ignite.microsoft.com/en-US/sessions/BRK115)
 - [What's new with Copilot Studio and agents](https://ignite.microsoft.com/en-US/sessions/BRK165) [[Slides with embedded demos](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S3-BestOfIgnite/What.s.new.with.Copilot.Studio.and.Agents_Ignite.2024_with.Demos.pptx), 1.44GB]
 - [Developers guide to building your own agents](https://ignite.microsoft.com/en-US/sessions/BRK167)
