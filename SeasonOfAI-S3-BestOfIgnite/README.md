@@ -20,7 +20,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
   
 **LLMs and SLMs**
 - [Solving the unsolvable: o1 models for breakthrough reasoning on Azure](https://ignite.microsoft.com/en-US/sessions/BRK110)
-- [AI customization: Optimize Phi and SLMs performance](https://ignite.microsoft.com/en-US/sessions/BRK114)
+- [AI customization: Optimize Phi and SLMs performance](./AI%20customization:%20Optimize%20Phi%20and%20SLMs%20performance.md)
 
 **RAG**
 - [Azure AI Search: RAG for better results, larger scale, faster answers](https://ignite.microsoft.com/en-US/sessions/BRK105)
