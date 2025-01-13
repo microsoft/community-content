@@ -27,7 +27,7 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 
 **General AI**
 - [Making cloud deployment easier with GitHub Copilot for Azure](https://ignite.microsoft.com/en-US/sessions/LAB412)
-- [A guide to building tomorrows AI Solutions](https://ignite.microsoft.com/en-US/sessions/BRK132)
+- [A guide to building tomorrows AI Solutions](./A%20guide%20to%20building%20tomorrows%20AI%20Solutions.md)
 - [Building AI apps: Technical use cases and patterns](https://ignite.microsoft.com/en-US/sessions/BRK142)
 - [Accelerate and secure development with DevSecOps and AI](https://ignite.microsoft.com/en-US/sessions/BRK140)
 
