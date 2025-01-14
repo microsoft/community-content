@@ -14,16 +14,16 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 **C# & .NET**
 - [Build a .NET client-server application with Visual Studio and GitHub Copilot](./client-server-app-vs-copilot-dotnet.md) (Blazor, Minimal Web API, Visual Studio, GitHub Copilot)
 - [Build Your Own Copilot Using Teams AI Library and .NET](./build-your-own-copilot-teams-ai-library.md) (M365, Microsoft Copilot)
-- [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
+- [GitHub Copilot Adventures](./github-copilot-adventures.md) (VS Code)
 - [Podcast Copilot with Azure OpenAI Service, .NET, and Copilot Studio](./podcast-copilot-azure-openai-dotnet-copilot-studio.md) (Azure OpenAI Service, Copilot Studio)
 
 **JavaScript** 
-- [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
+- [GitHub Copilot Adventures](./github-copilot-adventures.md) (VS Code)
 - [Prompt Crafting Techniques for GitHub Copilot](./prompt-crafting-techniques-github-copilot.md) (VS Code)
 
 **Python**
 - [Copilot in Microsoft Fabric](./copilot-in-microsoft-fabric.md) (Microsoft Fabric)
-- [GitHub Copilot Adventures](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S2-Copilots/github-copilot-adventures.md) (VS Code)
+- [GitHub Copilot Adventures](./github-copilot-adventures.md) (VS Code)
 
 **Low Code/No Code**
 - [Build Your Own Agent Using Microsoft Copilot Studio](./build-your-own-agent-with-microsoft-copilot-studio.md) (Copilot Studio)
