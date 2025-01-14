@@ -6,4 +6,4 @@ That said, much of this archived content is still relevant and usable, but you s
 ## Available archives:
 
 - [Season of AI: S1 -- AI](/archive/SeasonOfAI-S1-AzureAI)
-- Season of AI: S2 -- Copilots
+- [Season of AI: S2 -- Copilots](/archive/SeasonOfAI-S2-Copilots)
