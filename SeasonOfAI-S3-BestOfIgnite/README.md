@@ -13,21 +13,21 @@ Do you want to brush up on generative AI basics? Get started with [Generative AI
 ### Available content
 
 **Agents and LLMs**
-- [Azure AI Foundry and the dev toolchain to infuse AI in all your apps](https://ignite.microsoft.com/en-US/sessions/BRK119)
+- [Azure AI Foundry and the dev toolchain to infuse AI in all your apps](./azure-ai-foundry-dev-toolchain.md)
 - [Coding the future of AI](https://ignite.microsoft.com/en-US/sessions/BRK115)
 - [What's new with Copilot Studio and agents](https://ignite.microsoft.com/en-US/sessions/BRK165) [[Slides with embedded demos](https://github.com/microsoft/community-content/blob/main/SeasonOfAI-S3-BestOfIgnite/What.s.new.with.Copilot.Studio.and.Agents_Ignite.2024_with.Demos.pptx), 1.44GB]
 - [Developers guide to building your own agents](https://ignite.microsoft.com/en-US/sessions/BRK167)
   
 **LLMs and SLMs**
 - [Solving the unsolvable: o1 models for breakthrough reasoning on Azure](https://ignite.microsoft.com/en-US/sessions/BRK110)
-- [AI customization: Optimize Phi and SLMs performance](https://ignite.microsoft.com/en-US/sessions/BRK114)
+- [AI customization: Optimize Phi and SLMs performance](./AI%20customization:%20Optimize%20Phi%20and%20SLMs%20performance.md)
 
 **RAG**
 - [Azure AI Search: RAG for better results, larger scale, faster answers](https://ignite.microsoft.com/en-US/sessions/BRK105)
 
 **General AI**
 - [Making cloud deployment easier with GitHub Copilot for Azure](https://ignite.microsoft.com/en-US/sessions/LAB412)
-- [A guide to building tomorrows AI Solutions](https://ignite.microsoft.com/en-US/sessions/BRK132)
+- [A guide to building tomorrows AI Solutions](./A%20guide%20to%20building%20tomorrows%20AI%20Solutions.md)
 - [Building AI apps: Technical use cases and patterns](https://ignite.microsoft.com/en-US/sessions/BRK142)
 - [Accelerate and secure development with DevSecOps and AI](https://ignite.microsoft.com/en-US/sessions/BRK140)
 
