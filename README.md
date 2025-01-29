@@ -12,7 +12,7 @@
    
 	**Register** to promote your event using your URL here: https://aka.ms/RegisterSeasonofAI
    - The free gift offer ends on March 14, 2025 at 9 AM Pacific or while supplies last (whichever comes first).
-   - Within 2-4 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
+   - Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
 2.	**Prepare** and deliver your talk 🗣️
 -	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S3-BestOfIgnite) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
