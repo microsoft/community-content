@@ -1,18 +1,17 @@
 # Season of AI - Season 3 - Best of AI @ Ignite (Jan to Mar, 2025)
 
-[![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registerSeasonofAI)
+[![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-[Register](https://aka.ms/RegisterSeasonofAI) your Season of AI event and be eligible to receive a free gift. Be the first 200 speakers to confirm a scheduled event (100 in person and 100 virtual events). Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions).
+[Register](https://aka.ms/RegisterEventSeasonofAI) your Season of AI event and we will promote it for you on [Microsoft developer community](https://developer.microsoft.com/en-us/community)
 
-<!---#### [> See list of events here](https://github.com/microsoft/community-content/wiki/Season-of-AI-Events) --->
+
 
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft AI - Best of AI @ Ignite talk to occur between **January 1 and March 31, 2025** Make sure you are listed as the speaker for your event.
    
-	**Register** to promote your event using your URL here: https://aka.ms/RegisterSeasonofAI
-   - The free gift offer ends on March 14, 2025 at 9 AM Pacific or while supplies last (whichever comes first).
-   - Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
+	**Register** to promote your event using your URL here: https://aka.ms/RegisterEventSeasonofAI
+  
 2.	**Prepare** and deliver your talk 🗣️
 -	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S3-BestOfIgnite) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft AI topic you selected.
