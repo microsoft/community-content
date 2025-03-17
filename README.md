@@ -10,7 +10,7 @@
 
 1.	**Schedule** 📆 your Microsoft AI - Best of AI @ Ignite talk to occur between **January 1 and March 31, 2025** Make sure you are listed as the speaker for your event.
    
-	**Register** to promote your event using your URL here: https://aka.ms/RegisterEventSeasonofAI
+	**Register** to promote your event using the URL here: https://aka.ms/RegisterEventSeasonofAI
   
 2.	**Prepare** and deliver your talk 🗣️
 -	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/SeasonOfAI-S3-BestOfIgnite) here on GitHub.
