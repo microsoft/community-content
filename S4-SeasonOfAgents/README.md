@@ -12,15 +12,10 @@ Do you want to brush up on AI agents basics? Get started with [AI Agents for Beg
 
 ### Available content
 
-_Coming Soon_
-
-Build application with GitHub Copilot Agent mode
-
-Build Agents with Azure AI Foundry 
-
-Build your Own Agents with Microsoft Copilot Studio
-
-Unlock Productivity at Work
+- [Build application with GitHub Copilot Agent mode](build-applications-w-github-copilot-agent-mode.md)
+- Build Agents with Azure AI Foundry _[Coming Soon]_
+- Build your Own Agents with Microsoft Copilot Studio _[Coming Soon]_
+- Unlock Productivity at Work _[Coming Soon]_
 
 <!--### QR Code/Attendee Survey
 
