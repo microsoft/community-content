@@ -2,7 +2,7 @@
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-[Register](https://aka.ms/RegisterSeasonofAgents) your Season of Agents event to be elibible for free gifts. The first 200 speakers to confirm a scheduled talk are eligible to receive a free gift that includes a speaker kit and stickers for attendees. Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions). 
+[Register](https://aka.ms/RegisterSeasonofAgents) your Season of Agents event to be eligible for free gifts. The first 200 speakers to confirm a scheduled talk are eligible to receive a free gift that includes a speaker kit and stickers for attendees. Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions). 
 
 We will promote your event [Microsoft developer community](https://developer.microsoft.com/en-us/community). 
 
