@@ -13,6 +13,7 @@ We will promote your event [Microsoft developer community](https://developer.mic
  -	Work with local user group leaders to schedule a Microsoft of Agents event. 
 
  - 	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step. 
+
  **Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
 
  -	The free gift offer ends on June 13, 2025, at 9:00 AM Pacific Daylight Time, or while supplies last (whichever comes first). 
