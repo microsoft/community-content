@@ -1,0 +1,1107 @@
+1
+00:00:00,530 --> 00:00:05,310
+Hello, everyone. Welcome back. I'm going to be going into the skills exercise
+
+2
+00:00:05,311 --> 00:00:09,930
+for build applications with GitHub Copilot Agent Mode.
+
+3
+00:00:10,550 --> 00:00:13,590
+this is part of our GitHub Skills course catalog.
+
+4
+00:00:14,630 --> 00:00:18,390
+it is a self-service. all of the skills are self-service,
+
+5
+00:00:18,470 --> 00:00:22,470
+so any, any person can come into this,
+
+6
+00:00:22,910 --> 00:00:25,190
+organization and any of these repositories.
+
+7
+00:00:25,720 --> 00:00:27,880
+And run through these skills in their own,
+
+8
+00:00:28,500 --> 00:00:32,120
+user name or organization that they have within GitHub as well.
+
+9
+00:00:32,720 --> 00:00:36,300
+So I'm going to get started with kind of just a general read me
+
+10
+00:00:36,301 --> 00:00:38,880
+of this, as you can see here,
+
+11
+00:00:39,920 --> 00:00:43,940
+you know, we have a little welcome that walks through,
+
+12
+00:00:44,840 --> 00:00:47,680
+you know, about GitHub Copilot and what it can accomplish,
+
+13
+00:00:48,100 --> 00:00:50,520
+who this course is for, you know,
+
+14
+00:00:50,700 --> 00:00:53,530
+intermediate developers. What you learn,
+
+15
+00:00:53,750 --> 00:00:56,370
+what you'll build, any prerequisites,
+
+16
+00:00:56,570 --> 00:00:59,570
+and how long this should take about an hour.
+
+17
+00:01:01,030 --> 00:01:05,670
+And, that includes time for dealing with agent mode and
+
+18
+00:01:05,671 --> 00:01:08,910
+thinking and coming back into the conversation.
+
+19
+00:01:09,790 --> 00:01:14,330
+Both GitHub, Copilot Chat and Agent Mode in general are
+
+20
+00:01:14,331 --> 00:01:16,690
+very conversational. Obviously,
+
+21
+00:01:16,810 --> 00:01:21,510
+Agent Mode is able to make some assumptions based on context and walk through
+
+22
+00:01:21,511 --> 00:01:23,550
+things as well, but I'll get into that.
+
+23
+00:01:24,490 --> 00:01:28,770
+and then basically at this point, if you wanted to run this,
+
+24
+00:01:29,090 --> 00:01:33,710
+you could, right click. And then say open a new tab and then this
+
+25
+00:01:33,711 --> 00:01:38,510
+would allow you to create the repository under your username or organization
+
+26
+00:01:38,511 --> 00:01:41,990
+of your choice, and give it a description and then you can then start,
+
+27
+00:01:42,450 --> 00:01:43,090
+developing that.
+
+28
+00:01:43,890 --> 00:01:47,330
+the idea is that when you take this into your own repository,
+
+29
+00:01:47,331 --> 00:01:48,650
+once,
+
+30
+00:01:49,310 --> 00:01:51,850
+an action runs and it gets set up, This,
+
+31
+00:01:52,070 --> 00:01:56,010
+copy exercise would become gray, and then you would start the exercise,
+
+32
+00:01:56,590 --> 00:01:58,970
+and that's kind of what some of this dialogue here talks about,
+
+33
+00:01:59,090 --> 00:02:00,610
+so you can read through that as well.
+
+34
+00:02:02,290 --> 00:02:03,190
+and then,
+
+35
+00:02:03,410 --> 00:02:04,210
+we get into,
+
+36
+00:02:04,250 --> 00:02:06,250
+kind of the, the story,
+
+37
+00:02:06,730 --> 00:02:10,570
+this is just kind of showing a practical example of a fictitious,
+
+38
+00:02:11,670 --> 00:02:14,190
+high school called Mergenton High School, and
+
+39
+00:02:14,310 --> 00:02:16,410
+the Octofit Tracker Application Story.
+
+40
+00:02:17,220 --> 00:02:20,300
+four Mergington High School, where Paul Octo is,
+
+41
+00:02:20,320 --> 00:02:24,840
+has been a physical education teacher at Mergington High School for about eight years.
+
+42
+00:02:25,720 --> 00:02:27,700
+and despite his enthusiasm,
+
+43
+00:02:28,320 --> 00:02:32,860
+and creative approach to gym class, he's been increasingly concerned about his students,
+
+44
+00:02:36,020 --> 00:02:36,300
+you know,
+
+45
+00:02:37,520 --> 00:02:41,140
+that their physical activity is declined and many students admitted they're really actually,
+
+46
+00:02:41,760 --> 00:02:43,860
+exercise outside of PE class.
+
+47
+00:02:44,790 --> 00:02:48,850
+so really the objectives here for Paul is to make a fitness tracking app
+
+48
+00:02:48,851 --> 00:02:53,610
+fun and engaging, create positive peer pressure through friendly competition,
+
+49
+00:02:53,890 --> 00:02:57,170
+allow him to monitor student progress remotely,
+
+50
+00:02:57,850 --> 00:03:01,390
+and provide personalized guidance based on individual fitness levels.
+
+51
+00:03:02,670 --> 00:03:05,670
+and then this is where the birth of this app comes from,
+
+52
+00:03:06,090 --> 00:03:09,470
+and this just talks about the different user experience goals,
+
+53
+00:03:10,270 --> 00:03:11,910
+technical specifications,
+
+54
+00:03:13,560 --> 00:03:16,340
+and the current development status of where things are at,
+
+55
+00:03:17,140 --> 00:03:20,560
+and the next steps for Paul are with this basic infrastructure in place.
+
+56
+00:03:21,000 --> 00:03:24,640
+Paul's now focused on these items to start developing,
+
+57
+00:03:26,000 --> 00:03:28,800
+and then this workshop. You, the end user,
+
+58
+00:03:28,801 --> 00:03:32,440
+will set up a development environment using GitHub code spaces.
+
+59
+00:03:33,300 --> 00:03:36,660
+So, GitHub code spaces will have a full environment with a,
+
+60
+00:03:36,840 --> 00:03:41,280
+BS code IDE, as well as the ability to install packages and services,
+
+61
+00:03:42,300 --> 00:03:42,800
+and,
+
+62
+00:03:43,200 --> 00:03:44,000
+run, run them,
+
+63
+00:03:44,340 --> 00:03:47,120
+off of different ports as well, which we'll do as part of this app.
+
+64
+00:03:47,960 --> 00:03:49,200
+and then we'll use GitHub Copa,
+
+65
+00:03:49,600 --> 00:03:53,000
+Copa to accelerate the development across multiple technologies.
+
+66
+00:03:54,010 --> 00:03:56,950
+building key components for the OctoFit tracker app.
+
+67
+00:03:57,370 --> 00:03:58,290
+this was include,
+
+68
+00:03:58,690 --> 00:04:01,270
+user profiles, activity logging, tracking.
+
+69
+00:04:02,170 --> 00:04:04,770
+this talks just about the different models that are available.
+
+70
+00:04:06,030 --> 00:04:10,530
+so people can dig into that. And then we have some prompt engineering links
+
+71
+00:04:10,531 --> 00:04:12,990
+of how to do different techniques for prompt engineering,
+
+72
+00:04:12,991 --> 00:04:15,290
+as well as a link about agent mode,
+
+73
+00:04:15,510 --> 00:04:16,670
+the agent awakens blog,
+
+74
+00:04:17,350 --> 00:04:18,310
+that you can also,
+
+75
+00:04:18,730 --> 00:04:21,450
+if we were to bring this up here, they can read through this blog
+
+76
+00:04:21,451 --> 00:04:22,030
+directly,
+
+77
+00:04:22,550 --> 00:04:26,810
+about what, what that is. I'll close that now.
+
+78
+00:04:27,810 --> 00:04:30,590
+And then this talks about the React front end,
+
+79
+00:04:31,290 --> 00:04:35,750
+Python, Django back end, and a database MongoDB that we'll be using as part
+
+80
+00:04:35,751 --> 00:04:36,710
+of creating this app,
+
+81
+00:04:37,690 --> 00:04:39,050
+and some of the prerequisites.
+
+82
+00:04:39,890 --> 00:04:42,170
+the other thing that's, that's interesting, too,
+
+83
+00:04:42,350 --> 00:04:43,010
+is that,
+
+84
+00:04:44,670 --> 00:04:47,710
+trying to see the part about,
+
+85
+00:04:48,810 --> 00:04:51,550
+the other part I wanted to point out is that Paul is,
+
+86
+00:04:51,970 --> 00:04:52,410
+actively,
+
+87
+00:04:53,790 --> 00:04:56,730
+collaborating with the IT department and Jessica Cat,
+
+88
+00:04:57,690 --> 00:05:02,270
+is has been particularly impressed and pleased with OctoFit tracker
+
+89
+00:05:02,271 --> 00:05:05,310
+maintains the compliance with all the requirements specified.
+
+90
+00:05:05,870 --> 00:05:07,870
+And we have this file, this,
+
+91
+00:05:08,170 --> 00:05:08,510
+docs,
+
+92
+00:05:09,190 --> 00:05:09,750
+mergington,
+
+93
+00:05:10,150 --> 00:05:15,150
+techpolices.md that really Is a list of instructions
+
+94
+00:05:15,151 --> 00:05:18,110
+and guidance, forget of copilot agent mode,
+
+95
+00:05:18,170 --> 00:05:20,590
+as well as, if it was a human being, but in this case,
+
+96
+00:05:20,670 --> 00:05:23,930
+it's agent mode that's going through that dock and taking that,
+
+97
+00:05:24,730 --> 00:05:26,830
+to create the entire app for us.
+
+98
+00:05:27,150 --> 00:05:28,970
+We're just prompting it with different,
+
+99
+00:05:30,400 --> 00:05:35,000
+We're just giving you different prompts to guide through step-by-step to build this app
+
+100
+00:05:35,001 --> 00:05:37,040
+from the backend, the ground up,
+
+101
+00:05:37,060 --> 00:05:39,920
+the structure, all the way through, and we'll get into that now.
+
+102
+00:05:40,960 --> 00:05:42,440
+I also wanted to show to,
+
+103
+00:05:44,360 --> 00:05:47,380
+let's go to the pre,
+
+104
+00:05:47,820 --> 00:05:51,600
+the preparing. So, one of the things here in the preparing is that,
+
+105
+00:05:52,320 --> 00:05:55,620
+this is, you know, talks about the code space,
+
+106
+00:05:56,710 --> 00:05:58,190
+And this is where you would now,
+
+107
+00:05:58,910 --> 00:06:01,950
+right click and then open up this into a new,
+
+108
+00:06:02,050 --> 00:06:05,210
+and create a code space there. I happen to have mine up here.
+
+109
+00:06:05,211 --> 00:06:07,490
+So again, you have the same,
+
+110
+00:06:08,050 --> 00:06:10,290
+it's all the repositories checked out.
+
+111
+00:06:10,470 --> 00:06:12,750
+It's a fully functional development environment,
+
+112
+00:06:13,210 --> 00:06:14,110
+with VS code,
+
+113
+00:06:14,590 --> 00:06:18,370
+because this app is using multiple ports. I've opened those ports up and that's
+
+114
+00:06:18,371 --> 00:06:20,370
+already built in as part of the code space.
+
+115
+00:06:21,570 --> 00:06:24,170
+and this again is the read me for the story.
+
+116
+00:06:24,930 --> 00:06:27,910
+and then if I was going to then start this,
+
+117
+00:06:28,830 --> 00:06:30,510
+exercise I'd come back here,
+
+118
+00:06:30,910 --> 00:06:33,630
+my code space has been created. And at that point,
+
+119
+00:06:34,090 --> 00:06:36,350
+I've started to walk through,
+
+120
+00:06:36,610 --> 00:06:40,910
+you know, building this app. This just talks about also your repository in your,
+
+121
+00:06:40,911 --> 00:06:41,550
+in your,
+
+122
+00:06:42,210 --> 00:06:45,750
+you know, the full repo name that you've created that you've cloned this template
+
+123
+00:06:45,751 --> 00:06:47,430
+from. And,
+
+124
+00:06:47,670 --> 00:06:50,050
+you can create a branch, for example,
+
+125
+00:06:50,810 --> 00:06:52,310
+I get up copilot application,
+
+126
+00:06:52,950 --> 00:06:54,130
+and you can do things like that,
+
+127
+00:06:54,730 --> 00:06:56,050
+as well as part of this, but,
+
+128
+00:06:56,230 --> 00:06:57,790
+right now we'll dive into,
+
+129
+00:06:58,370 --> 00:07:01,590
+the bill, this is really the meat of it. So we have about,
+
+130
+00:07:02,050 --> 00:07:04,250
+really five or four main steps.
+
+131
+00:07:04,251 --> 00:07:07,210
+The first one's just a preparation. This gets into,
+
+132
+00:07:07,490 --> 00:07:09,550
+the application set up the directory structure,
+
+133
+00:07:09,890 --> 00:07:13,210
+the Python requirements, the Django project app,
+
+134
+00:07:13,510 --> 00:07:14,210
+and MongoDB,
+
+135
+00:07:15,800 --> 00:07:18,100
+So by just giving it this prompt,
+
+136
+00:07:18,560 --> 00:07:21,600
+we can start this process, and I'll kind of show an example of that.
+
+137
+00:07:21,800 --> 00:07:24,020
+So what they usually would do is they would, you know,
+
+138
+00:07:24,180 --> 00:07:26,420
+obviously in their code space, they could open up,
+
+139
+00:07:27,140 --> 00:07:28,620
+all of the same files.
+
+140
+00:07:29,760 --> 00:07:34,580
+I'm going to, we're going to ask them to open up this file as
+
+141
+00:07:34,581 --> 00:07:35,460
+well as our,
+
+142
+00:07:36,060 --> 00:07:40,280
+our story and our tech specs for Mergington High School.
+
+143
+00:07:41,060 --> 00:07:43,760
+and we're going to keep those open. I'll probably move this over here just
+
+144
+00:07:43,761 --> 00:07:45,180
+so it's the primary thing.
+
+145
+00:07:45,760 --> 00:07:49,920
+and now this is our co-pilot chat window where we're going to hit co-pilot
+
+146
+00:07:49,921 --> 00:07:53,280
+edits. And here we're going to select agent.
+
+147
+00:07:53,460 --> 00:07:55,840
+We're going to stay with the GPT4O model.
+
+148
+00:07:57,180 --> 00:07:57,580
+and
+
+149
+00:07:57,660 --> 00:07:58,340
+let me just move,
+
+150
+00:07:59,620 --> 00:08:03,020
+my video out of my video over here.
+
+151
+00:08:03,360 --> 00:08:04,760
+So I'm out of the way a bit.
+
+152
+00:08:05,840 --> 00:08:08,120
+and then you can see what's going on here a little bit better.
+
+153
+00:08:08,950 --> 00:08:11,230
+so then we would take this first prompt here,
+
+154
+00:08:11,650 --> 00:08:14,190
+we'll open this up, we'll, we'll copy this,
+
+155
+00:08:14,950 --> 00:08:17,870
+and we're going to do is we're going to say add context.
+
+156
+00:08:18,510 --> 00:08:22,530
+This pop-up will happen. It'll happen a couple times and you just click allow,
+
+157
+00:08:22,970 --> 00:08:25,830
+and we're going to say open editor. So then what that means is everything
+
+158
+00:08:25,831 --> 00:08:30,510
+that's open right now and our editor up here is what the context that
+
+159
+00:08:30,511 --> 00:08:31,390
+GitHub co-pilot.
+
+160
+00:08:32,250 --> 00:08:33,710
+agent mode is going to use,
+
+161
+00:08:34,250 --> 00:08:37,370
+for, for this effort. And then I'm going to paste this and we're going
+
+162
+00:08:37,371 --> 00:08:37,930
+to see what,
+
+163
+00:08:38,190 --> 00:08:40,690
+the magic that agent mode already has as part of it.
+
+164
+00:08:41,110 --> 00:08:44,890
+it's going to go through now. And it's going to read.
+
+165
+00:08:44,950 --> 00:08:47,650
+It's going to say, oh, you need to make this directory to create the
+
+166
+00:08:47,651 --> 00:08:48,090
+structure.
+
+167
+00:08:49,070 --> 00:08:51,930
+so it's going to open up a new terminal window to do that.
+
+168
+00:08:52,810 --> 00:08:55,010
+it's going to then say, okay, I need this requirements.
+
+169
+00:08:55,630 --> 00:08:58,510
+And it's going to touch this file to create the file.
+
+170
+00:08:58,690 --> 00:09:01,090
+And as you can see on the left side here, we're starting to create
+
+171
+00:09:01,091 --> 00:09:06,290
+the application. And here it's already created our requirements for the Python packages
+
+172
+00:09:06,291 --> 00:09:09,710
+that need to be installed. I'm going to keep that file because I want
+
+173
+00:09:09,711 --> 00:09:12,850
+to save it. We'll end up checking all these in as a user.
+
+174
+00:09:12,851 --> 00:09:16,110
+They'll also be checking these in. And then we can continue.
+
+175
+00:09:17,250 --> 00:09:20,910
+again, one of those allow block windows will open up and just hit allow.
+
+176
+00:09:32,740 --> 00:09:33,920
+and that's really the first,
+
+177
+00:09:35,900 --> 00:09:39,340
+prompt. Obviously I'm, I'm looking, I'm not looking at this in the nice pretty
+
+178
+00:09:39,341 --> 00:09:41,360
+markdown. This is the raw markdown file,
+
+179
+00:09:41,400 --> 00:09:41,700
+but
+
+180
+00:09:42,340 --> 00:09:44,220
+same, same thing that they would see,
+
+181
+00:09:44,900 --> 00:09:47,380
+the nice pretty version, or they can look at this too either way.
+
+182
+00:09:47,740 --> 00:09:51,620
+So at this point, we've now installed all of the Python packages that we
+
+183
+00:09:51,621 --> 00:09:55,080
+need for the back end to start to develop our app.
+
+184
+00:09:55,560 --> 00:09:58,080
+It is telling us like, do we want to set up the project?
+
+185
+00:09:58,660 --> 00:10:00,200
+We could say yes there,
+
+186
+00:10:01,000 --> 00:10:04,600
+I've designed this so that we are really kind of doing this step by
+
+187
+00:10:04,601 --> 00:10:06,440
+step to show the end user,
+
+188
+00:10:07,260 --> 00:10:11,020
+what they're building. So then we would copy this prompt and then we would
+
+189
+00:10:11,021 --> 00:10:14,140
+say, okay, now I'll create the,
+
+190
+00:10:14,240 --> 00:10:15,060
+the back end,
+
+191
+00:10:15,240 --> 00:10:19,380
+set up any additional configuration for the Django project app.
+
+192
+00:10:19,740 --> 00:10:23,400
+And we'll do that here. Now we created the app.
+
+193
+00:10:24,820 --> 00:10:26,180
+We are also going to do,
+
+194
+00:10:26,620 --> 00:10:27,940
+something that with,
+
+195
+00:10:28,300 --> 00:10:30,440
+Django, it does this, has this manager,
+
+196
+00:10:31,180 --> 00:10:32,940
+Python script that allows for,
+
+197
+00:10:33,360 --> 00:10:38,180
+making migrations and then, and migrating so we should see something that checks everything
+
+198
+00:10:38,181 --> 00:10:40,220
+out for us and everything looks good.
+
+199
+00:10:40,660 --> 00:10:43,780
+And at this point, we're very happy and we could actually run the server
+
+200
+00:10:43,781 --> 00:10:46,720
+if we wanted to. And just like that,
+
+201
+00:10:46,900 --> 00:10:49,240
+we have already the Django server up and running.
+
+202
+00:10:49,790 --> 00:10:53,730
+In our environment that is set to go obviously nothing's been set up for
+
+203
+00:10:53,731 --> 00:10:55,590
+our specific app, but the Django,
+
+204
+00:10:56,090 --> 00:10:58,490
+stack has been set up for us.
+
+205
+00:10:59,110 --> 00:11:01,490
+I'm going to close that, come back here,
+
+206
+00:11:02,550 --> 00:11:03,790
+and then we can go to,
+
+207
+00:11:04,410 --> 00:11:07,210
+installing. I'm not going to walk through every single step here,
+
+208
+00:11:07,970 --> 00:11:10,330
+but you get the idea at this point, we would install the database,
+
+209
+00:11:10,830 --> 00:11:12,550
+and we would do those things. So,
+
+210
+00:11:13,250 --> 00:11:15,350
+if you were to hop around to number three,
+
+211
+00:11:16,490 --> 00:11:20,230
+For example, then what we would do is start creating,
+
+212
+00:11:20,910 --> 00:11:24,570
+filling in the Django project of all of the files we need for URLs,
+
+213
+00:11:24,950 --> 00:11:27,490
+views, model serializers, settings,
+
+214
+00:11:27,730 --> 00:11:30,290
+and the admin files, any tests as well,
+
+215
+00:11:31,150 --> 00:11:31,970
+and then we would,
+
+216
+00:11:32,370 --> 00:11:35,070
+prompt to create the database structure,
+
+217
+00:11:35,210 --> 00:11:39,270
+the MongoDB database structure here with this prompt and this activity.
+
+218
+00:11:39,840 --> 00:11:41,040
+Then we would edit the,
+
+219
+00:11:41,280 --> 00:11:42,080
+Octofit tracker,
+
+220
+00:11:42,660 --> 00:11:45,180
+Django files here for each one of those,
+
+221
+00:11:45,720 --> 00:11:48,220
+that we already talked about in the last activity.
+
+222
+00:11:49,280 --> 00:11:53,440
+And then this last step here is last activity in this step is to
+
+223
+00:11:53,441 --> 00:11:56,980
+actually populate the database with some test data that we get,
+
+224
+00:11:57,060 --> 00:11:57,880
+you know, made up,
+
+225
+00:11:58,280 --> 00:12:02,400
+and then we're going to create this Python populate DB script that will automatically,
+
+226
+00:12:02,460 --> 00:12:06,780
+populate that database for us. And then once that's done,
+
+227
+00:12:07,420 --> 00:12:09,080
+Then what we can do is we can really,
+
+228
+00:12:09,560 --> 00:12:11,740
+set up the rest API framework,
+
+229
+00:12:12,720 --> 00:12:14,400
+for with, with the, with the Django,
+
+230
+00:12:14,500 --> 00:12:15,020
+rest framework.
+
+231
+00:12:16,040 --> 00:12:19,940
+when it comes set up initially, it's going to have local host as URL
+
+232
+00:12:19,941 --> 00:12:22,240
+and that really is not going to do anything for us.
+
+233
+00:12:22,420 --> 00:12:26,700
+So what these steps do is it actually helps replace with our code space.
+
+234
+00:12:26,701 --> 00:12:27,980
+So if I was to go,
+
+235
+00:12:28,480 --> 00:12:31,940
+back to my code space, this would be the name that I would replace.
+
+236
+00:12:32,900 --> 00:12:35,840
+in that step here at the top, you can see that,
+
+237
+00:12:36,780 --> 00:12:37,340
+and
+
+238
+00:12:38,400 --> 00:12:39,900
+sorry, go, yep.
+
+239
+00:12:40,400 --> 00:12:44,520
+we would replace that with our specific name so we would kind of take
+
+240
+00:12:44,521 --> 00:12:47,000
+from the bracket here and put the,
+
+241
+00:12:48,120 --> 00:12:52,080
+the name of our code space and then that would automatically replace
+
+242
+00:12:52,680 --> 00:12:56,560
+in the URLs and views, everything that's necessary so that then we have the
+
+243
+00:12:56,561 --> 00:12:58,220
+right end points and then,
+
+244
+00:12:58,460 --> 00:13:01,280
+we could get all of the information out of the database from that point
+
+245
+00:13:01,281 --> 00:13:03,700
+on. The last piece of this right now,
+
+246
+00:13:04,120 --> 00:13:06,360
+is to set up the front end,
+
+247
+00:13:07,040 --> 00:13:07,780
+react framework,
+
+248
+00:13:08,740 --> 00:13:10,240
+so that's what, oops,
+
+249
+00:13:10,720 --> 00:13:13,830
+in the wrong one. It would set up the React framework,
+
+250
+00:13:14,810 --> 00:13:16,690
+so we would, we would set up these different,
+
+251
+00:13:17,010 --> 00:13:21,570
+components as well as update the app and indexes of the React framework.
+
+252
+00:13:22,370 --> 00:13:26,210
+and with this we would have activities, the leaderboard team users and,
+
+253
+00:13:26,211 --> 00:13:30,230
+and workout, and that should also get the information back from what's in the
+
+254
+00:13:30,231 --> 00:13:30,990
+database today.
+
+255
+00:13:32,810 --> 00:13:36,890
+and these was just some other things, other, other activities of updating that front
+
+256
+00:13:36,891 --> 00:13:40,010
+end components and then to verify them and check the output at the very
+
+257
+00:13:40,011 --> 00:13:40,430
+end.
+
+258
+00:13:41,340 --> 00:13:43,940
+I plan to also add one more step,
+
+259
+00:13:44,140 --> 00:13:47,400
+maybe for generating some tests so people can see that as well to test
+
+260
+00:13:47,401 --> 00:13:47,920
+the app.
+
+261
+00:13:48,700 --> 00:13:52,020
+but overall this is pretty complete that we could create a full stack app
+
+262
+00:13:52,021 --> 00:13:54,160
+at this point if we wanted to.
+
+263
+00:13:54,830 --> 00:13:56,430
+so I hope this was informative.
+
+264
+00:13:57,050 --> 00:14:00,610
+I may do follow up videos as we kind of finalize the skill.
+
+265
+00:14:00,870 --> 00:14:03,150
+It's still kind of in a draft form,
+
+266
+00:14:03,151 --> 00:14:06,290
+but most of the details and it working is there.
+
+267
+00:14:06,930 --> 00:14:07,890
+I just wanted to,
+
+268
+00:14:08,190 --> 00:14:11,050
+get it out there before it's finalized and we're all complete.
+
+269
+00:14:11,490 --> 00:14:15,710
+just because there's some other iterations I'd like to do on peer reviews and
+
+270
+00:14:15,711 --> 00:14:16,050
+having,
+
+271
+00:14:16,750 --> 00:14:18,750
+having some of the documentation may be updated,
+
+272
+00:14:18,751 --> 00:14:21,530
+as well. We can use Copilot as a peer reviewer.
+
+273
+00:14:21,531 --> 00:14:24,210
+Or so I also might run it through co-pilot to review it before we
+
+274
+00:14:24,211 --> 00:14:25,070
+check everything in,
+
+275
+00:14:25,670 --> 00:14:26,650
+and finalize it. But
+
+276
+00:14:26,710 --> 00:14:29,670
+thank you for the time. I hope this was useful, and we'll see you
+
+277
+00:14:29,671 --> 00:14:30,050
+again soon.
