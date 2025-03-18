@@ -10,8 +10,13 @@ We will promote your event [Microsoft developer community](https://developer.mic
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft Season of Agents talk to occur between **April 1 and June 30, 2025** Make sure you are listed as the speaker for your event.
-   
-	**Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
+ -	Work with local user group leaders to schedule a Microsoft of Agents event. 
+
+ - 	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step. 
+ **Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
+
+ -	The free gift offer ends on June 13, 2025, at 9:00 AM Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
+-	Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
   
 2.	**Prepare** and deliver your talk 🗣️
 -	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
