@@ -15,7 +15,7 @@ We will promote your event [Microsoft developer community](https://developer.mic
  - 	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step. 
  **Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
 
- -	The free gift offer ends on June 13, 2025, at 9:00 AM Pacific Daylight Time (GMT-8), or while supplies last (whichever comes first). 
+ -	The free gift offer ends on June 13, 2025, at 9:00 AM Pacific Daylight Time, or while supplies last (whichever comes first). 
 -	Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
   
 2.	**Prepare** and deliver your talk 🗣️
