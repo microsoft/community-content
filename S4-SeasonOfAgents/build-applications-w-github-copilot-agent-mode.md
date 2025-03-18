@@ -44,7 +44,7 @@ By the end of this session, participants will understand:
   - Autonomous operation
   - Multi-Step tasks
   - Tools for task completion
-  - Iteraton and self-healing
+  - Iteration and self-healing
   - User control and review
   - Context management
   - Undo and redo
