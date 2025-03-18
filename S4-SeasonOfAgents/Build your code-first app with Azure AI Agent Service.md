@@ -18,16 +18,14 @@ Dive into the world of intelligent conversational agents with the Azure AI Agent
 45 minutes
 
 ## Speaker Expectation/Skills:
-
 Speakers should be familar with LLMs, RAG pattern and agentic AI main concepts. Basic Python programming skills are required too, as the session includes hands-on demos using Azure AI Foundry Python SDK.
 The core of the session is the scenario-driven agent sample, so the speaker should spend most of the time by demoing it and deep diving into the code.
 The presentation is designed to be delivered by one presenter, but can be delivered by 2 co-speakers too.
 
 ## Session overview: 
 The session will cover the following topics:
-- AI Agent components and tools
-- Agentic services and frameworks: Azure AI Agent Service, Semantic Kernel and Autogen
-- Multi-agents pattern
+- A scenario-driven Agent sample built with Azure AI Agent Service 
+- Azure AI Agent Service: features and capabilities
 
 ## Key Audience Takeaways:
 By the end of this session, participants will walk away with a clear understanding of the features and capabilities within Azure AI to build agentic solutions. They will also get hands-on experience with a sample built with the Azure AI Agent Service and the Azure AI Foundry Python SDK.

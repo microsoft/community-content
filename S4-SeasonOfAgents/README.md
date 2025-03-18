@@ -11,8 +11,9 @@ Each topic includes slides and presentation notes. Some will include pre-recorde
 Do you want to brush up on AI agents basics? Get started with [AI Agents for Beginniners](https://github.com/microsoft/ai-agents-for-beginners) on GitHub
 
 ### Available content
-
-_Coming Soon_
+- [Getting Started with AI Agents](./Getting Started with AI Agents.md)
+- [Interacting with Multimodal models and Agents in Azure AI Foundry](./Interacting with Multimodal models and Agents in Azure AI Foundry.md)
+- [Build your code-first app with Azure AI Agent Service](./Build your code-first app with Azure AI Agent Service.md)
 
 <!--### QR Code/Attendee Survey
 
