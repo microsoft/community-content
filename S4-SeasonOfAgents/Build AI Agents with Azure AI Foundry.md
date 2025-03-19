@@ -1,0 +1,10 @@
+# Build AI Agents with Azure AI Foundry
+
+We are glad to provide you with a set of curated sessions designed to inspire and empower developers to build AI Agents using Azure AI Foundry.
+By clicking on each session title, you'll get a dedicated file with details and assets to help you deliver the content effectively. Pick the one which is a better fit for your event and audience and good luck!
+
+| Title                                               |Abstract                     | Level | Format |
+|---|----------------------------|-------|--------|
+| [Getting Started with AI Agents](Getting%20Started%20with%20AI%20Agents.md)    | 2025 has been called the year of AI Agents. But getting started and getting through all the hype can still be a struggle. In this session we will look at the how to get started building AI Agents, examine key use cases, understand the tools and techniques that are available and finally, build an AI Agent using the Azure AI Agent Service. | 100   | Breakout |
+| [Build your code-first app with Azure AI Agent Service](Build%20your%20code-first%20app%20with%20Azure%20AI%20Agent%20Service.md) |  Dive into the world of intelligent conversational agents with the Azure AI Agent Service, a seamless blend of service and SDK that simplifies the development of robust AI-driven solutions. In this session, you'll learn how to build your own code-first AI agent with Azure that can answer questions, perform data analysis, and integrate external data sources, to deliver enhanced business insights. | 200/300   | Breakout |
+| [Interacting with Multimodal models and Agents in Azure AI](Interacting%20with%20Multimodal%20models%20and%20Agents%20in%20Azure%20AI.md) | Innovate with Azure OpenAI's GPT-4o multimodal model in this hands-on experience in Azure AI Foundry. Learn the core concepts and best practices to effectively generate with text, sound, and images using GPT-4o-mini, DALL-E and GPT-4o-realtime. Create AI Agents that enhance user experiences and drive innovation. | 100   | Workshop |
