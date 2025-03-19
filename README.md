@@ -20,7 +20,7 @@ We will promote your event [Microsoft developer community](https://developer.mic
 -	Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
   
 2.	**Prepare** and deliver your talk 🗣️
--	Find [prepared Microsoft AI content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
+-	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
 -	Engage your audience and share your insights on the Microsoft Season of Agents topic you selected.
 3. **Feedback** Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
 
