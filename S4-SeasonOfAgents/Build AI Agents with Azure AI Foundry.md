@@ -1,7 +1,6 @@
 # Build AI Agents with Azure AI Foundry
 
-We are glad to provide you with a set of curated sessions designed to inspire and empower developers to build AI Agents using Azure AI Foundry.
-By clicking on each session title, you'll get a dedicated file with details and assets to help you deliver the content effectively. Pick the one which is a better fit for your event and audience and good luck!
+For this topic, we are providing a set of curated sessions designed to inspire and empower developers to build AI Agents using Azure AI Foundry. This set of sessions is designed to help you pick the best content for your audience, depending on their familiarity and comfort with AI agents. For each session, you'll find a dedicated file with details and assets to help you deliver the content effectively.
 
 | Title                                               |Abstract                     | Level | Format |
 |---|----------------------------|-------|--------|
