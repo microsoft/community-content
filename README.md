@@ -9,7 +9,7 @@ We will promote your event [Microsoft developer community](https://developer.mic
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft Season of Agents talk to occur between **April 1 and June 30, 2025** Make sure you are listed as the speaker for your event.
+1.	**Schedule** 📆 your Microsoft Season of Agents talk to occur between **April 1 and June 30, 2025** 
  -	Work with local user group leaders to schedule a Microsoft of Agents event. 
 
  - 	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step. 
