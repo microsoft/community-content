@@ -15,7 +15,6 @@ Do you want to brush up on AI agents basics? Get started with [AI Agents for Beg
 - [Build Agents with Azure AI Foundry](Build%20AI%20Agents%20with%20Azure%20AI%20Foundry.md)
 - [Build your Own Agents with Microsoft Copilot Studio](build-agents-w-copilot-studio.md)
 - Unlock Productivity at Work _[Coming Soon]_
-- [Build AI Agents with Azure AI Foundry](Build%20AI%20Agents%20with%20Azure%20AI%20Foundry.md)
 
 <!--### QR Code/Attendee Survey
 
