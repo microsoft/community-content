@@ -11,7 +11,6 @@ Each topic includes slides and presentation notes. Some will include pre-recorde
 Do you want to brush up on AI agents basics? Get started with [AI Agents for Beginniners](https://github.com/microsoft/ai-agents-for-beginners) on GitHub
 
 ### Available content
-
 - [Build application with GitHub Copilot Agent mode](build-applications-w-github-copilot-agent-mode.md)
 - Build Agents with Azure AI Foundry _[Coming Soon]_
 - [Build your Own Agents with Microsoft Copilot Studio](build-agents-w-copilot-studio.md)
