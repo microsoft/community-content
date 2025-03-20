@@ -25,9 +25,9 @@ Speakers are expected to be familiar with Microsoft Copilot
   *	Plan the menu
   *	Ideate ambience and music
   *	Create branding material
--	Summary and overview (10 minutes)
-  *	Recap of what was learned
-  * Reflection on the importance of generative AI
+- Summary and overview (10 minutes)
+  - Recap of what was learned
+  - Reflection on the importance of generative AI
 
 ## Key Audience Takeaways
 By the end of this session, participants will understand:
@@ -39,7 +39,7 @@ By the end of this session, participants will understand:
 - Microsoft Copilot
 
 ## Session Presentation, Videos, and Demo Scripts
-- Instructor Guide, Presentation Slides in multiple language
+- [Instructor Guide, Presentation Slides in multiple language](assets/instructor-materials)
 - [Guinness World Record registration and attestation slides](assets/AISF%20Instructor%20Registration%20%26%20Attestation%20Slides%20(English).pptx)
 -	Video - [Demo video](https://aka.ms/HeyCopilot)
 - [README outline](assets/START%20HERE%20for%20Design%20a%20Dream%20Destination.pdf)
