@@ -27,4 +27,4 @@ Speakers are expected to be familiar with Minecraft
 ## Session Presentation, Videos, and Demo Scripts
 - [Instructor guide](https://aka.ms/AIAdventurersDownload)
 - [Parent guide](https://aka.ms/AIAdventurersGuide)
-- README outline
+- [README outline](assets/START%20HERE%20for%20Design%20a%20Dream%20Destination.pdf)
