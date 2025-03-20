@@ -16,6 +16,11 @@ Do you want to brush up on AI agents basics? Get started with [AI Agents for Beg
 - [Build your Own Agents with Microsoft Copilot Studio](build-agents-w-copilot-studio.md)
 - Unlock Productivity at Work _[Coming Soon]_
 
+### Available content for student learners
+- Microsoft Copilot: [Design a Dream Destination](students/design-a-dream-destination.md)
+- Minecraft: [AI Adventures](students/ai-adventures.md)
+- Minecraft: [Fantastic Fairgrounds](students/fantastic-fairgrounds.md)
+
 <!--### QR Code/Attendee Survey
 
 Whether you use the content provided here directly or adapt to make it your own, please include the provided "Season of AI" QR code slide at the end of your talk. The code links to an attendee survey that helps us better understand how this content is being used so we can keep making more of it in the future!
