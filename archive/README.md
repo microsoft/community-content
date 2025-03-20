@@ -7,3 +7,4 @@ That said, much of this archived content is still relevant and usable, but you s
 
 - [Season of AI: S1 -- AI](/archive/SeasonOfAI-S1-AzureAI)
 - [Season of AI: S2 -- Copilots](/archive/SeasonOfAI-S2-Copilots)
+- [Season of AI: S3 -- Best of AI @ Ignite 2024](SeasonOfAI-S3-BestOfIgnite)
