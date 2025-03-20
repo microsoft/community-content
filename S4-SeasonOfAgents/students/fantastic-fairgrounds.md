@@ -28,5 +28,5 @@ By the end of this lesson, students will be able to:
 ## Session Presentation, Videos, and Demo Scripts
 - [Instructor guide](https://aka.ms/FantasticFairgroundsEduGuide)
 - [Fantastic Fairgrounds Instructor PPT](https://aka.ms/FantasticFairgroundsPPT)
-- README outline
+- [README outline](assets/START%20HERE%20for%20Design%20a%20Dream%20Destination.pdf)
 - Minecraft world available for Minecraft Education and [free on the Minecraft Marketplace](https://www.minecraft.net/marketplace/pdp?id=d24d84a8-cf87-4919-a478-46b2d41a5126)
