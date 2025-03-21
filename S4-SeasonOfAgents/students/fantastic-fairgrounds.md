@@ -1,10 +1,10 @@
 # Session Details
 
 ## Session Title
-[Fantastic Fairgrounds](https://education.minecraft.net/lessons/fantastic-fairgrounds)
+[Fantastic Fairgrounds](https://aka.ms/AISkillsFest/FantasticFairgrounds?wt.mc_id=aiskillsfest_eventpage_general_wwl_edu)
 
 ## Session Abstract
-[Fantastic Fairgrounds](https://education.minecraft.net/lessons/fantastic-fairgrounds), an immersive Minecraft Education experience designed to build a strong foundation in AI Literacy. Students take on the role of a problem-solver in this single-player map, working alongside an AI assistant to help Park Director Leslie address various issues within the park’s pavilions. Through interactive challenges learners will gain practical understanding of AI foundations, data analysis, ethical considerations, and real-world AI applications. Minecraft needs to be downloaded for these materials, but no credentials are required. This lesson requires familiarity with Minecraft Education and the actual world.
+[Fantastic Fairgrounds](https://aka.ms/AISkillsFest/FantasticFairgrounds?wt.mc_id=aiskillsfest_eventpage_general_wwl_edu), an immersive Minecraft Education experience designed to build a strong foundation in AI Literacy. Students take on the role of a problem-solver in this single-player map, working alongside an AI assistant to help Park Director Leslie address various issues within the park’s pavilions. Through interactive challenges learners will gain practical understanding of AI foundations, data analysis, ethical considerations, and real-world AI applications. Minecraft needs to be downloaded for these materials, but no credentials are required. This lesson requires familiarity with Minecraft Education and the actual world.
 
 ## Session level
 Introductory (Target audience – Ages 8-18)
@@ -28,5 +28,4 @@ By the end of this lesson, students will be able to:
 ## Session Presentation, Videos, and Demo Scripts
 - [Instructor guide](https://aka.ms/FantasticFairgroundsEduGuide)
 - [Fantastic Fairgrounds Instructor PPT](https://aka.ms/FantasticFairgroundsPPT)
-- [README outline](assets/START%20HERE%20for%20Design%20a%20Dream%20Destination.pdf)
 - Minecraft world available for Minecraft Education and [free on the Minecraft Marketplace](https://www.minecraft.net/marketplace/pdp?id=d24d84a8-cf87-4919-a478-46b2d41a5126)
