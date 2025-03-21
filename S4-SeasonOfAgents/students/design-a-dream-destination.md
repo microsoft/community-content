@@ -1,10 +1,10 @@
 # Session Details
 
 ## Session Title
-[Design A Dream Destination]()
+[Design A Dream Destination with AI]()
 
 ## Session Abstract
-In this course, based on the Microsoft learn module Design a dream destination with AI, also referred to as Explore AI, students will learn the basics of generative AI and its everyday applications. They will explore how generative AI works, create effective prompts, and use AI tools like Microsoft Copilot to generate unique content. Through hands-on activities, students will gain practical skills and a solid understanding of generative AI concepts. 
+In this course, based on the Microsoft learn module Design a Dream Destination with AI, also referred to as Explore AI, students will learn the basics of generative AI and its everyday applications. They will explore how generative AI works, create effective prompts, and use AI tools like Microsoft Copilot to generate unique content. Through hands-on activities, students will gain practical skills and a solid understanding of generative AI concepts. 
 
 ## Session level
 Introductory (Target audience – Ages 13+)
@@ -41,6 +41,6 @@ By the end of this session, participants will understand:
 ## Session Presentation, Videos, and Demo Scripts
 - [Instructor Guide, Presentation Slides in multiple language](assets/instructor-materials)
 - [Guinness World Record registration and attestation slides](assets/AISF%20Instructor%20Registration%20%26%20Attestation%20Slides%20(English).pptx)
--	Video - [Demo video](https://aka.ms/HeyCopilot)
+-	Video - [Demo video](https://aka.ms/AISkillsFest_HeyCopilot?wt.mc_id=aiskillsfest_eventpage_general_wwl_edu)
 - [README outline](assets/START%20HERE%20for%20Design%20a%20Dream%20Destination.pdf)
 
