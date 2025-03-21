@@ -4,25 +4,27 @@
 
 [Register](https://aka.ms/RegisterSeasonofAgents) your Season of Agents event to be eligible for free gifts. The first 200 speakers to confirm a scheduled talk are eligible to receive a free gift that includes a speaker gift bundle and stickers for attendees. Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions). 
 
-We will promote your event [Microsoft developer community](https://developer.microsoft.com/en-us/community). 
+We will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
 
 ### How to participate:
 
 1.	**Schedule** 📆 your Microsoft Season of Agents talk to occur between **April 1 and June 30, 2025** 
- -	Work with local user group leaders to schedule a Microsoft of Agents event. 
+ -	Work with local user group leaders to schedule a Microsoft Season of Agents event. 
 
- - 	Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step. 
+ - Ensure you’re listed as a speaker for the Meetup event and have the URL to the event handy. You’ll need it for the next step. 
 
- **Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
+2. **Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
 
  -	The free gift offer ends on June 13, 2025, at 9:00 AM Pacific Daylight Time, or while supplies last (whichever comes first). 
--	Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
-  
-2.	**Prepare** and deliver your talk 🗣️
--	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
--	Engage your audience and share your insights on the Microsoft Season of Agents topic you selected.
-3. **Feedback** Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
+ -	Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
+
+3.	**Prepare** and deliver your talk 🗣️
+ -	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
+ -	Engage your audience and share your insights on the Microsoft Season of Agents topic you selected.
+   
+4. **Feedback**
+- Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
 
 Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
 
