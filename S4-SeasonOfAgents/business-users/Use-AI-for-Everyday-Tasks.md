@@ -24,6 +24,6 @@ By the end of this session, participants will understand:
 -	Microsoft Copilot
 <!--  
 ## Session Presentation, Videos, and Demo Scripts
--	Instructor Guide, Presentation Slides in multiple languages - 
--	Video – upload 
+-	Instructor Guide, Presentation Slides in multiple languages 
+-	[Video](assets/AI%20Skills%20Fest_Business%20User_Day%200_Walkthrough_English_compressed.mp4)
 -->
