@@ -22,8 +22,8 @@ By the end of this session, participants will understand:
 -	How to write an effective prompt
 ## Session Key technologies
 -	Microsoft Copilot
-<!--  
+ 
 ## Session Presentation, Videos, and Demo Scripts
--	Instructor Guide, Presentation Slides in multiple languages 
--	[Video](assets/AI%20Skills%20Fest_Business%20User_Day%200_Walkthrough_English_compressed.mp4)
--->
+-	[Instructor Guide, Presentation Slides in multiple languages](assets/instructor-materials)
+-	[Presentation videos](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Agents/UseAIforEverydayTasks-Videos-withSubTitles.zip) [zip, 900MB]
+-	[Train-the-trainer video](assets/AI%20Skills%20Fest_Business%20User_Day%200_Walkthrough_English_compressed.mp4)
