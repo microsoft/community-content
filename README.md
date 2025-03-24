@@ -6,7 +6,7 @@
 
 We will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
-Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](https://aiskillsfest.event.microsoft.com/)
+Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](https://aiskillsfest.event.microsoft.com/).
 
 ### How to participate:
 
