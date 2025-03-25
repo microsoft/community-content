@@ -1,7 +1,7 @@
 # Session Details
 
 ## Session Title: 
-[Build your code-first app with Azure AI Agent Service](https://github.com/microsoft/aitour-azure-openai-assistants/) 
+[Build your code-first app with Azure AI Agent Service](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/) 
 
 
 ## Session Abstract:
