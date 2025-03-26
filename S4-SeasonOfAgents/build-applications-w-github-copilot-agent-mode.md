@@ -2,7 +2,7 @@
 
 ## Session Title
 
-[Build applications with GitHub Copilot agent mode](https://developer.microsoft.com/en-us/reactor/events/25391/?wt.mc_id=linkedin_25391_organicsocial_reactor)
+[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mod)
 
 ## Session Abstract
 
@@ -72,10 +72,10 @@ By the end of this session, participants will understand:
   - [Microsoft AI SKills Fest - Build applications with GitHub Copilot agent mode](../assets/build_applications_w_github_copilot/Microsoft%20AI%20SKills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode.pptx)
 - Videos
   - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.mp4)
-  - [Train the trainer - GitHub skills build applications with GitHub Copilot agent mode](https://microsoft-my.sharepoint.com/:v:/p/arilivigni/EdOgrrmjzpdFhIAvjRSDdQsBa4U3AfBOIQqq0ujz-4rdHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OaTRaC)
+  - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](https://microsoft-my.sharepoint.com/:v:/p/arilivigni/EZbKToVsoFhPq0E-elOeY-oBRnT7m0lR_HlFaYqp2z77Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xg8tcf)
   - Video summaries
     - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.pdf)
-    - [Train the trainer - GitHub skills build applications with GitHub Copilot agent mode](../assets/build_applications_w_github_copilot/train-the-trainer-github-skills-build-applications-w-copilot-agent-mode.pdf)
+    - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](../assets/build_applications_w_github_copilot/AI%20Skills%20Fest%20-%20Train-the-Trainer%20-%20Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode.pdf)
   - Transcripts
     - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.srt)
-    - [Train the trainer - GitHub skills build applications with GitHub Copilot agent mode](../assets/build_applications_w_github_copilot/train-the-trainer-github-skills-build-applications-w-copilot-agent-mode.srt)
+    - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](../assets/build_applications_w_github_copilot/AI%20Skills%20Fest%20-%20Train-the-Trainer%20-%20Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode.srt)
