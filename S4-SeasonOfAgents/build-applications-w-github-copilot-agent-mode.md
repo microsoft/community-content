@@ -2,7 +2,7 @@
 
 ## Session Title
 
-[Build applications with GitHub Copilot agent mode](https://developer.microsoft.com/en-us/reactor/events/25391/?wt.mc_id=linkedin_25391_organicsocial_reactor)
+[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mod)
 
 ## Session Abstract
 
