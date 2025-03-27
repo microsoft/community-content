@@ -72,7 +72,7 @@ By the end of this session, participants will understand:
   - [Microsoft AI SKills Fest - Build applications with GitHub Copilot agent mode](../assets/build_applications_w_github_copilot/Microsoft%20AI%20SKills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode.pptx)
 - Videos
   - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.mp4)
-  - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](https://microsoft-my.sharepoint.com/:v:/p/arilivigni/EZbKToVsoFhPq0E-elOeY-oBRnT7m0lR_HlFaYqp2z77Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xg8tcf)
+  - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](https://aka.ms/AAva08z)
   - Video summaries
     - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.pdf)
     - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](../assets/build_applications_w_github_copilot/AI%20Skills%20Fest%20-%20Train-the-Trainer%20-%20Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode.pdf)
