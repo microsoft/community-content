@@ -2,7 +2,7 @@
 
 ## Session Title
 
-[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mod)
+[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode)
 
 ## Session Abstract
 
