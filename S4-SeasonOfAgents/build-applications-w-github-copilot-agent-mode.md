@@ -1,8 +1,12 @@
 # Session Details
+Copilot agent mode is the next evolution in AI-assisted coding. Acting as an autonomous peer programmer, it performs multi-step coding tasks at your command — analyzing your codebase, reading relevant files, proposing file edits, and running terminal commands and tests. It responds to compile and lint errors, monitors terminal and test output, and auto-corrects in a loop until the task is completed.
 
 ## Session Title
+GitHub Copilot Agent Mode
 
-[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode)
+## Microsoft Learn Module
+
+[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/training/modules/github-copilot-agent-mode)
 
 ## Session Abstract
 
