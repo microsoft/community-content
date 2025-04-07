@@ -6,7 +6,12 @@
 
 We will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
-Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](https://aiskillsfest.event.microsoft.com/).
+
+**New for Season 4!**
+
+ - Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](https://aiskillsfest.event.microsoft.com/).
+
+ - Venue pilot - If you are interested in hosting an in-person event at a select Microsoft office , check out the details here: [Microsoft Venue Request Pilot](https://aka.ms/MVPVenuePilot)
 
 ### How to participate:
 
@@ -27,7 +32,7 @@ Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](htt
 4. **Feedback**
 - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
 
-Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [FAQs](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
+Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
 
 
 # Community Content Repo
