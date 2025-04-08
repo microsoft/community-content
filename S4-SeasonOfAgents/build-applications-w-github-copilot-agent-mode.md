@@ -84,4 +84,4 @@ By the end of this session, participants will understand:
     - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.srt)
     - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](../assets/build_applications_w_github_copilot/AI%20Skills%20Fest%20-%20Train-the-Trainer%20-%20Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode.srt)
   - Prompts Troubleshooting
-    - [Prompts/Troubleshooting Guide](./mona-high-school-fitness-tracker.md)
+    - [Prompts/Troubleshooting Guide](./mona-high-school-fitness-tracker.md) 
