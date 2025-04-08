@@ -11,7 +11,7 @@ We will promote your event via the [Microsoft developer community](https://devel
 
  - Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](https://aiskillsfest.event.microsoft.com/).
 
- - Venue pilot - If you are interested in hosting an in-person event at a select Microsoft office , check out the details here: [Microsoft Venue Request Pilot](https://aka.ms/MVPVenuePilot)
+ - MVP Venue Pilot - If you are interested in hosting an in-person event at a select Microsoft office , check out the details here: [Microsoft Venue Request Pilot](https://aka.ms/MVPVenuePilot)
 
 ### How to participate:
 
