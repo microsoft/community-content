@@ -1,8 +1,12 @@
 # Session Details
+Copilot agent mode is the next evolution in AI-assisted coding. Acting as an autonomous peer programmer, it performs multi-step coding tasks at your command — analyzing your codebase, reading relevant files, proposing file edits, and running terminal commands and tests. It responds to compile and lint errors, monitors terminal and test output, and auto-corrects in a loop until the task is completed.
 
 ## Session Title
+GitHub Copilot Agent Mode
 
-[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode)
+## Microsoft Learn Module
+
+[Build applications with GitHub Copilot agent mode](https://learn.microsoft.com/training/modules/github-copilot-agent-mode)
 
 ## Session Abstract
 
@@ -40,7 +44,7 @@ By the end of this session, participants will understand:
 - Understand how to develop with VS Code IDE in a GitHub Codespace
 - Prompt GitHub Copilot agent mode to create an application
 - Leverage documentation files to instruct GitHub Copilot agent mode
-- GitHub Copilot agent mode features:​
+- GitHub Copilot agent mode features:
   - Autonomous operation
   - Multi-Step tasks
   - Tools for task completion
@@ -77,4 +81,6 @@ By the end of this session, participants will understand:
     - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview - video summary](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.pdf)
   - Transcripts
     - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview - transcript](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.srt)
+  - Prompts Troubleshooting
+    - [Prompts/Troubleshooting Guide](./mona-high-school-fitness-tracker.md)
 

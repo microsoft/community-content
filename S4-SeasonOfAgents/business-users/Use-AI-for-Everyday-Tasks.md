@@ -25,5 +25,5 @@ By the end of this session, participants will understand:
  
 ## Session Presentation, Videos, and Demo Scripts
 -	[Instructor Guide, Presentation Slides in multiple languages](assets/instructor-materials)
--	[Presentation videos](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Agents/UseAIforEverydayTasks-Demos_Videos.en_jp_pt_es.zip) [zip, 1.06GB]
+-	[Presentation videos](https://github.com/microsoft/community-content/releases/download/SeasonOfAI-Agents/UseAIforEverydayTasks-Demos_and_Videos.en_jp_pt_es.zip) [zip, 1.95GB]
 -	[Train-the-trainer video](assets/AI%20Skills%20Fest_Business%20User_Day%200_Walkthrough_English_compressed.mp4)
