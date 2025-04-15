@@ -44,7 +44,7 @@ By the end of this session, participants will understand:
 - Understand how to develop with VS Code IDE in a GitHub Codespace
 - Prompt GitHub Copilot agent mode to create an application
 - Leverage documentation files to instruct GitHub Copilot agent mode
-- GitHub Copilot agent mode features:​
+- GitHub Copilot agent mode features:
   - Autonomous operation
   - Multi-Step tasks
   - Tools for task completion
@@ -76,12 +76,11 @@ By the end of this session, participants will understand:
   - [Microsoft AI SKills Fest - Build applications with GitHub Copilot agent mode](../assets/build_applications_w_github_copilot/Microsoft%20AI%20SKills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode.pptx)
 - Videos
   - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.mp4)
-  - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](https://aka.ms/AAva08z)
+  - [AI Skills Fest - live reactor series event video - Build Applications with GitHub Copilot Agent Mode](https://www.youtube.com/watch?v=dLFlXzJJVoU)
   - Video summaries
-    - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.pdf)
-    - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](../assets/build_applications_w_github_copilot/AI%20Skills%20Fest%20-%20Train-the-Trainer%20-%20Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode.pdf)
+    - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview - video summary](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.pdf)
   - Transcripts
-    - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.srt)
-    - [AI Skills Fest - Train-the-Trainer - Build Applications with GitHub Copilot Agent Mode](../assets/build_applications_w_github_copilot/AI%20Skills%20Fest%20-%20Train-the-Trainer%20-%20Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode.srt)
+    - [Microsoft AI Skills Fest - Build applications with GitHub Copilot agent mode - slides overview - transcript](../assets/build_applications_w_github_copilot/Microsoft%20AI%20Skills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode%20-%20slides%20overview.srt)
   - Prompts Troubleshooting
-    - [Prompts/Troubleshooting Guide](./mona-high-school-fitness-tracker.md) 
+    - [Prompts/Troubleshooting Guide](./mona-high-school-fitness-tracker.md)
+
