@@ -2,7 +2,8 @@
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-[Register](https://aka.ms/RegisterSeasonofAgents) your Season of Agents event to be eligible for free gifts. The first 200 speakers to confirm a scheduled talk are eligible to receive a free gift that includes a speaker gift bundle and stickers for attendees. Limit one per speaker/user group. Terms apply, please review the [Terms and Conditions](https://github.com/microsoft/community-content/wiki/Season-of-AI-Terms-and-Conditions). 
+We've been overwhelmed by your enthusiasm and have reached the limit of our free gifts. Thank you for your amazing response! While we can’t offer any more gifts at this time, we can still promote your event. 
+[Register your event ](https://aka.ms/RegisterEventSeasonofAI) 
 
 We will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
@@ -20,10 +21,9 @@ We will promote your event via the [Microsoft developer community](https://devel
 
  - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
 
-2. **Register** to promote your event using the URL here: https://aka.ms/RegisterSeasonofAgents
+2. **Register** to promote your event using the URL here: https://aka.ms/RegisterEventSeasonofAI
 
- -	The free gift offer ends on June 13, 2025, at 9:00 AM Pacific Daylight Time, or while supplies last (whichever comes first). 
- -	Within 2-5 business days of submitting your registration form, you will receive an email from Azure-Tech-Groups azure-tech-groups@microsoft.com to let you know if you are eligible. 
+ -	We have reached the limit of our free gifts. Thank you for your response! 
 
 3.	**Prepare** and deliver your talk 🗣️
  -	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
