@@ -2,7 +2,7 @@
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-We've been overwhelmed by your enthusiasm and have reached the limit of our free gifts. Thank you for your amazing response! While we can’t offer any more gifts at this time, we can still promote your event. 
+### We've been overwhelmed by your enthusiasm and have reached the limit of our free gifts. Thank you for your amazing response! While we can’t offer any more gifts at this time, we can still promote your event. 
 [Register your event ](https://aka.ms/RegisterEventSeasonofAI) We will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
 
