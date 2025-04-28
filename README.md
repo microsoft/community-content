@@ -21,9 +21,9 @@ We will promote your event via the [Microsoft developer community](https://devel
 
  - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
 
-2. **Register** to promote your event using the URL here: https://aka.ms/RegisterEventSeasonofAI
+2. **Register** your event using the URL here: https://aka.ms/RegisterEventSeasonofAI and we will promote it on the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
- -	We have reached the limit of our free gifts. Thank you for your response! 
+ -	Please note: We have reached the limit of our free gifts. Thank you for your response! 
 
 3.	**Prepare** and deliver your talk 🗣️
  -	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
