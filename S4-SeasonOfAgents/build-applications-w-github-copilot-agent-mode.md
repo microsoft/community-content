@@ -58,19 +58,19 @@ By the end of this session, participants will understand:
 ## Session Key technologies
 
 - GitHub
-- Github Pull requests
+- GitHub Pull requests
 - GitHub Copilot
-  - Inline suggesstions
+  - Inline suggestions
   - Chat
   - Edits
-  - Pull request summarries/outlines
+  - Pull request summaries / outlines
   - Agent mode
-- React.js
+- ReactJS
 - Node.js
 - Python Django
 - MongoDB
 
-## Session Presentation, Videos, and Transcripts
+## Session Presentation, Videos and Transcripts
 
 - Presentation
   - [Microsoft AI SKills Fest - Build applications with GitHub Copilot agent mode](../assets/build_applications_w_github_copilot/Microsoft%20AI%20SKills%20Fest%20-%20Build%20applications%20with%20GitHub%20Copilot%20agent%20mode.pptx)
