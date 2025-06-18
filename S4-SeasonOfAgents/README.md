@@ -1,6 +1,6 @@
 # Season 4 - Season of Agents
 
-## April to June, 2025
+## April to July, 2025
 
 This folder contains prepared "content-in-a-box" that anyone can use to do a technical talk as part of the "Season of Agents" at a user group, meetup, or community event. At the end of the "season", the content in this repo will be archived, and a new season of content will be published.
 
