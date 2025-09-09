@@ -1,6 +1,7 @@
-# Season of AI - Season 3 - Best of AI at Ignite 2024
+# Season of AI - Season 3 - Best of AI at Ignite 2024 (Archive)
 
 ## Jan 1 to Mar 31, 2025
+### NOTE: Archived content is not guaranteed to be up-to-date. Please evaluate this content for freshness and accuracy before using.
 
 This folder contains prepared "content-in-a-box" that anyone can use to do a technical talk on "Best of AI at Ignite" concepts at a user group, meetup, or community event. At the end of the "season", the content in this repo will be archived, and a new season of content will be published.
 

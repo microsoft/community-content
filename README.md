@@ -1,34 +1,35 @@
-# Season of Agents - Season 4 (April to June, 2025)
+# Season of AI - Season 5: Model Context Provider (MCP) 
+### (Oct 2025 to Jan 2026)
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-### We've been overwhelmed by your enthusiasm and have reached the limit of our free gifts. Thank you for your amazing response! While we can’t offer any more gifts at this time, we can still promote your event. 
-[Register your event](https://aka.ms/RegisterEventSeasonofAI) and we will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
+<!--### We've been overwhelmed by your enthusiasm and have reached the limit of our free gifts. Thank you for your amazing response! While we can’t offer any more gifts at this time, we can still promote your event. 
+[Register your event](https://aka.ms/RegisterEventSeasonofAI) and we will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website.--> 
 
 
-**New for Season 4!**
+<!--**New for Season 4!**
 
  - Season of Agents speakers can register NOW for the [Microsoft AI Skill Fest](https://aiskillsfest.event.microsoft.com/).
 
- - MVP Venue Pilot - MVPs interested in hosting an in-person event at a select Microsoft office , check out the details here: [Microsoft Venue Request Pilot](https://aka.ms/MVPVenuePilot)
+ - MVP Venue Pilot - MVPs interested in hosting an in-person event at a select Microsoft office , check out the details here: [Microsoft Venue Request Pilot](https://aka.ms/MVPVenuePilot)-->
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft Season of Agents talk to occur between **April 1 and June 30, 2025** 
- -	Work with local user group leaders to schedule a Microsoft Season of Agents event. 
+1.	**Schedule** 📆 your Microsoft Season of AI talk to occur between **October 1, 2025 and January 31, 2026** 
+    -	Work with local user group leaders to schedule a Microsoft Season of Agents event. 
 
- - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
+    - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
 
 2. **Register** your event using the URL here: https://aka.ms/RegisterEventSeasonofAI and we will promote it on the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
- -	Please note: We have reached the limit of our free gifts. Thank you for your response! 
+    -	Please note: We do not have speaker gifts for this Season of AI
 
 3.	**Prepare** and deliver your talk 🗣️
- -	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
- -	Engage your audience and share your insights on the Microsoft Season of Agents topic you selected.
+    -	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
+    -	Engage your audience and share your insights on the Microsoft Season of Agents topic you selected.
    
 4. **Feedback**
-- Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
+    - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
 
 Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
 
