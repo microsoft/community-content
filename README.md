@@ -1,4 +1,4 @@
-# Season of AI - Season 5: Model Context Provider (MCP) 
+# Season of AI - Season 5: Model Context Protocol (MCP) 
 ### (Oct 2025 to Jan 2026)
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
