@@ -18,7 +18,7 @@
     -	Please note: We do not have speaker gifts for this Season of AI
 
 3.	**Prepare** and deliver your talk 🗣️
-    -	Find [prepared Microsoft Season of Agents content-in-a-box](https://github.com/microsoft/community-content/tree/main/S4-SeasonOfAgents) here on GitHub.
+    -	Find [prepared Microsoft Season of AI- MCP content-in-a-box](https://github.com/microsoft/community-content/tree/main/S5-Season-of-MCP) here on GitHub.
     -	Engage your audience and share your insights on the Microsoft Season of AI- MCP topic you selected.
    
 4. **Feedback**
