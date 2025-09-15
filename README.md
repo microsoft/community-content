@@ -3,7 +3,7 @@
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-[Register your event](https://aka.ms/RegisterEventSeasonofAI) and we will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website.
+[Register your event]  coming soon and we will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website.
 
 
 ### How to participate:
@@ -13,7 +13,7 @@
 
     - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
 
-2. **Register** your event using the URL here: https://aka.ms/RegisterEventSeasonofAI and we will promote it on the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
+2. **Register** your event using the URL here: link coming soon and we will promote it on the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
 
     -	Please note: We do not have speaker gifts for this Season of AI
 
