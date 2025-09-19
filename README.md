@@ -8,7 +8,7 @@
 
 ### How to participate:
 
-1.	**Schedule** 📆 your Microsoft Season of AI talk to occur between **October 1, 2025 and January 31, 2026** 
+1.	**Schedule** 📆 your Microsoft Season of AI  - MCP talk to occur between **October 1, 2025 and January 31, 2026** 
     -	Work with local user group leaders to schedule a Microsoft Season of AI - MCP event. 
 
     - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
