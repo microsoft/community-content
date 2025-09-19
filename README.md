@@ -1,7 +1,7 @@
 # Season of AI - Model Context Protocol (MCP)
 ### Season 5  - October 2025 to January 2026
 
-[![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
+![Season of AI](assets/Season-of-AI-MCP-1.png)
 
 [Register your event](https://aka.ms/soai/mcp/registerevent) and we will promote your event via the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website.
 
