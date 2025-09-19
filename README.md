@@ -13,7 +13,7 @@
 
     - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
 
-2. **Register** your event using the URL here: link coming soon and we will promote it on the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website. 
+2. **[Register your event](https://aka.ms/soai/mcp/registerevent)** and we will promote it on the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website. 
 
 
 3.	**Prepare** and deliver your talk 🗣️
