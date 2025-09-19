@@ -3,7 +3,7 @@
 
 [![Season of AI](assets/season-of-ai-banner-v1.png)](https://aka.ms/registereventSeasonofAI)
 
-[Register your event]  coming soon and we will promote your event via the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website.
+[Register your event](https://aka.ms/soai/mcp/registerevent) and we will promote your event via the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website.
 
 
 ### How to participate:
@@ -13,15 +13,15 @@
 
     - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
 
-2. **Register** your event using the URL here: link coming soon and we will promote it on the [Microsoft developer community](https://developer.microsoft.com/en-us/community) website. 
+2. **Register** your event using the URL here: link coming soon and we will promote it on the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website. 
 
 
 3.	**Prepare** and deliver your talk 🗣️
-    -	Find [prepared Microsoft Season of AI- MCP content-in-a-box](https://github.com/microsoft/community-content/tree/main/S5-Season-of-MCP) here on GitHub.
+    -	Find [prepared Microsoft Season of AI- MCP content-in-a-box](https://aka.ms/soai/mcp/ciab) here on GitHub.
     -	Engage your audience and share your insights on the Microsoft Season of AI- MCP topic you selected.
    
 4. **Feedback**
-    - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/AttendeesurveySeasonofAI that is included in the presentation materials.
+    - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/soai/mcp/attendeesurvey that is included in the presentation materials.
 
 Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://github.com/microsoft/community-content/wiki/Season-of-AI:-FAQs).
 
