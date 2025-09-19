@@ -1,4 +1,4 @@
-# Season 5 - Season of MCP
+# Season of AI - MCP (Season 5)
 
 ## Oct 2025 to Jan 2026
 
