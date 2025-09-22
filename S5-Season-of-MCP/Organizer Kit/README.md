@@ -38,7 +38,7 @@ Your event name should follow this format: `Season of AI - MCP'.
 This makes it easy to identify your event as part of our global initiative.
 
 - [ ] Check with your venue which information they need to allow access and include this information in your registration form (i.e. name, email, experience level with GitHub, etc).
-- [ ] **Use our templates to create banners for your event page and social media (Instagram, LinkedIn, etc.).** You can find all [available templates in the marketing folder](../marketing/).
+- [ ] **Use our templates to create banners for your event page and social media (Instagram, LinkedIn, etc.).** You can find all [available templates in the marketing folder](https://github.com/microsoft/community-content/tree/main/S5-Season-of-MCP/Marketing%20Kit).
 
 **It’s important that your registration page includes the event description, content agenda, date, time, location, banner, and event name for Season of AI - MCP. This ensures consistency and helps participants easily find all the necessary information.**
 
