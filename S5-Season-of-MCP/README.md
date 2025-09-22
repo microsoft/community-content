@@ -17,7 +17,7 @@ Do you want to skill up on MCP basics? Get started with [MCP for Beginniners](ht
 Let's learn about the Model Context Protocol (MCP), a cutting-edge framework designed to standardize interactions between AI models and client applications. Through this beginner-friendly session, we'll introduce you to MCP and guide you through creating your first MCP server.
 
 #### Slides
-- [Let's Learn MCP (Model Context Protocol)](https://github.com/microsoft/community-content/raw/refs/heads/main/S5-Season-of-MCP/Lets-Learn-MCP-2025.pptx) (PPTX, 15MB)
+- [Let's Learn MCP (Model Context Protocol)](https://github.com/microsoft/community-content/raw/refs/heads/main/S5-Season-of-MCP/Lets-Learn-MCP-2025.pptx) (PPTX, 14MB)
 
 #### Supporting Demo Code
 - C#: [https://aka.ms/letslearnmcp-csharp](https://aka.ms/letslearnmcp-csharp)
