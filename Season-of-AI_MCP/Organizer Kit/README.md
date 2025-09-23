@@ -59,10 +59,10 @@ This makes it easy to identify your event as part of our global initiative.
 - [ ] **Welcome attendees** introduce yourself and speaker/s.
 - [ ] **Manage the time** of presentations and activities.
 - [ ] Coordinate **breaks** or icebreakers to keep participants engaged.
-- [ ] Take **photos** great for social media and [Impact Report](https://aka.ms/soai/mcp/impactreport).
+- [ ] Take **photos** great for social media.
 
 ### 📝 7. Post-Event
 
 - [ ] Thank **speakers** and participants for their contribution.
 - [ ] Collect **feedback** from participants about their experience. [Attendee survey](https://aka.ms/soai/mcp/attendeesurvey)
-- [ ] We kindly ask you to share a feedback about the content and Season of AI experience during the workshop, including challenges, suggestions for more labs, and any other feedback you may have. This will help us improve the content for future events. [Organizer survey](https://aka.ms/soai/mcp/organizersurvey)
+- [ ] We kindly ask you to share a feedback about the content and Season of AI experience during the workshop, including challenges, suggestions for more labs, and any other feedback you may have. This will help us improve the content for future events.
