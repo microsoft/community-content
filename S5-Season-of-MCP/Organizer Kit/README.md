@@ -26,8 +26,7 @@ To assist you in organizing your event, we've created a practical checklist cove
 
 ### 🎤 3. Content: Speakers & Facilitators
 
-- [ ] Identify and invite speaker/s to lead the presentations.
-- [ ] Recruit facilitators to run the workshop. 
+- [ ] Identify and invite speaker/s to lead the presentation.
 - [ ] Share the content resources with all speakers and facilitators so they are well-prepared.
 - [ ] Prepare a **backup plan** in case a speaker or facilitator is unable to attend.
 
