@@ -1,0 +1,763 @@
+1
+00:00:05,390 --> 00:00:08,610
+Welcome to build applications with co-pilot agent mode.
+
+2
+00:00:09,290 --> 00:00:13,810
+We're in the continuous co-pilot org, and now we'll copy the exercise to our
+
+3
+00:00:13,811 --> 00:00:17,010
+GitHub handle, or an organization of our chosen.
+
+4
+00:00:17,710 --> 00:00:19,930
+As you can see, I'm going to use my GitHub handle,
+
+5
+00:00:20,370 --> 00:00:22,950
+and I'll add an additional note to the description,
+
+6
+00:00:23,510 --> 00:00:26,330
+and then once that is complete,
+
+7
+00:00:26,750 --> 00:00:29,590
+I'll be ready to create the repository.
+
+8
+00:00:34,070 --> 00:00:38,090
+This will just take a moment, and the repository will come up.
+
+9
+00:00:38,770 --> 00:00:41,010
+It will look identical to what we just saw,
+
+10
+00:00:41,370 --> 00:00:45,730
+but instead, if we refresh an action is running in the background,
+
+11
+00:00:46,130 --> 00:00:48,490
+that will turn copy exercise, gray,
+
+12
+00:00:48,830 --> 00:00:50,950
+and start exercise, green,
+
+13
+00:00:51,290 --> 00:00:56,910
+which allows us to begin. Now
+
+14
+00:00:56,911 --> 00:00:59,590
+we'll right click on open in GitHub code spaces,
+
+15
+00:01:00,190 --> 00:01:02,270
+and we'll say create new code space.
+
+16
+00:01:02,810 --> 00:01:07,350
+This is a fully featured development environment that has all
+
+17
+00:01:07,351 --> 00:01:11,210
+the extensions we need, including GitHub Copilot and Copilot Chat.
+
+18
+00:01:11,810 --> 00:01:15,590
+It'll take a moment for the configuration and environment to come up.
+
+19
+00:01:18,070 --> 00:01:22,890
+And as you can see, our extensions are installing by that blue time
+
+20
+00:01:22,891 --> 00:01:27,910
+circle on the left. Now
+
+21
+00:01:27,911 --> 00:01:31,710
+GitHub Copilot Chat is installed and we can begin chatting.
+
+22
+00:01:33,150 --> 00:01:36,150
+Let's go to the first prompt, copy it,
+
+23
+00:01:36,450 --> 00:01:40,090
+and then we'll hit Command-I or Control-I if you're on Windows.
+
+24
+00:01:41,250 --> 00:01:46,070
+Paste that in and ask Copilot to help us with the command
+
+25
+00:01:46,071 --> 00:01:50,930
+to create a branch. We'll now also
+
+26
+00:01:50,931 --> 00:01:55,810
+ask Copilot and prompt it to create a specific branch called
+
+27
+00:01:55,811 --> 00:01:57,050
+BuildOctoFitApp.
+
+28
+00:02:01,720 --> 00:02:03,880
+Once that's complete, we can run that command,
+
+29
+00:02:04,260 --> 00:02:06,880
+and if we look here, we have the new branch created.
+
+30
+00:02:09,020 --> 00:02:12,940
+Now, we can now proceed to the next step.
+
+31
+00:02:14,340 --> 00:02:20,260
+We'll open some files to get ready. We're
+
+32
+00:02:20,261 --> 00:02:24,720
+going to open up a readme that has all of the information about another
+
+33
+00:02:24,721 --> 00:02:28,040
+repository app that we're modeling for this app.
+
+34
+00:02:29,470 --> 00:02:34,110
+So we'll open those files, so this way Copilot Chat Agent Mode can use
+
+35
+00:02:34,111 --> 00:02:36,430
+that as references and content to look at.
+
+36
+00:02:37,870 --> 00:02:41,950
+We'll copy the first prompt and make sure we're in Agent Mode from the
+
+37
+00:02:41,951 --> 00:02:49,250
+drop down in the chat window. We'll paste the prompt and
+
+38
+00:02:49,251 --> 00:02:51,570
+we'll wait for the return and response.
+
+39
+00:03:00,550 --> 00:03:04,090
+So GitHub Copilot has identified that we want to make the structure for this
+
+40
+00:03:04,091 --> 00:03:06,190
+application OctoFid tracker app.
+
+41
+00:03:07,550 --> 00:03:10,550
+We also want to create a virtual environment as well.
+
+42
+00:03:11,990 --> 00:03:17,650
+This allows us to write everything and develop everything in Python in
+
+43
+00:03:17,651 --> 00:03:20,830
+a virtual environment instead of installing it directly in the code space.
+
+44
+00:03:25,670 --> 00:03:30,230
+You'll also now create our requirements.txt which has all of the modules
+
+45
+00:03:30,231 --> 00:03:34,850
+and libraries that will need to create
+
+46
+00:03:34,851 --> 00:03:39,150
+this app and install Our Jane go back end that we'll show later.
+
+47
+00:03:40,070 --> 00:03:42,310
+All these requirements will take a moment to install,
+
+48
+00:03:42,890 --> 00:03:47,530
+but what's great about this is that Copilot Agent Mode has not
+
+49
+00:03:47,531 --> 00:03:52,410
+only identified the requirements based on the reference app that we're using from
+
+50
+00:03:52,411 --> 00:03:56,930
+another repository, but it's generating all of the requirements in a
+
+51
+00:03:56,931 --> 00:03:59,590
+text but we can then check in and use later on.
+
+52
+00:04:09,890 --> 00:04:14,450
+We'll also keep that file, and now we'll ask Copilot Chat
+
+53
+00:04:18,270 --> 00:04:19,590
+To create the backend.
+
+54
+00:04:24,470 --> 00:04:29,070
+This Django backend will be where we set up our project and set up
+
+55
+00:04:29,071 --> 00:04:31,730
+our REST API so that the front end can talk to it.
+
+56
+00:04:33,290 --> 00:04:38,390
+Once it's done, we'll run some system commands related to Django about migrating
+
+57
+00:04:38,391 --> 00:04:39,090
+the database.
+
+58
+00:04:43,150 --> 00:04:45,390
+As you can see, everything is come back okay,
+
+59
+00:04:45,770 --> 00:04:50,430
+and we're ready to proceed to the next step. Or say the next activity.
+
+60
+00:04:52,530 --> 00:04:55,530
+At this point, we're also going to install a database,
+
+61
+00:04:55,930 --> 00:05:00,910
+so we'll install MongoDB and Copilot will take the
+
+62
+00:05:00,911 --> 00:05:04,990
+reference command of installing MongoDB and know how to do that and return that
+
+63
+00:05:04,991 --> 00:05:09,710
+and we can run that command. Now we're installing MongoDB
+
+64
+00:05:09,711 --> 00:05:15,590
+and this will just take a moment as it's updating all of the packages
+
+65
+00:05:15,591 --> 00:05:20,240
+on the in the code space. And it's also then installing the MongoDB
+
+66
+00:05:20,241 --> 00:05:24,840
+package as well. Now if we go to the next prompt,
+
+67
+00:05:25,060 --> 00:05:28,640
+we want to start the MongoDB service and make sure that it's running.
+
+68
+00:05:45,570 --> 00:05:50,170
+Now we're ready to go to step three. Let's see the
+
+69
+00:05:50,171 --> 00:05:53,010
+first activity which is creating and populating the database.
+
+70
+00:05:54,690 --> 00:05:57,570
+I should say setting up the structure for the database.
+
+71
+00:06:00,540 --> 00:06:04,180
+So this will create all of the collections that we want with all of
+
+72
+00:06:04,181 --> 00:06:06,380
+the components, leaderboard,
+
+73
+00:06:06,660 --> 00:06:12,220
+activities, users, team, and
+
+74
+00:06:12,221 --> 00:06:16,920
+also workouts. Uh, we'll also make sure that it's actually Korean
+
+75
+00:06:16,921 --> 00:06:19,800
+created and you can see all of the collections that we have here.
+
+76
+00:06:22,660 --> 00:06:27,140
+Now we also want to update some of the files that are going to
+
+77
+00:06:27,141 --> 00:06:32,090
+set up the Django app. And
+
+78
+00:06:32,091 --> 00:06:34,470
+this includes views, serializers,
+
+79
+00:06:35,270 --> 00:06:39,770
+URLs, models, just to name a few.
+
+80
+00:06:44,610 --> 00:06:49,390
+So what co-pilot agent mode's doing now is it's going through identifying
+
+81
+00:06:49,391 --> 00:06:52,870
+where it needs to create these files, the names of the files,
+
+82
+00:06:52,871 --> 00:06:55,110
+and also the contents of them.
+
+83
+00:06:55,590 --> 00:07:00,270
+And we'll be asked to keep these files as they're created Or we
+
+84
+00:07:00,271 --> 00:07:03,790
+can also decide to undo them. In this case, we are going to keep
+
+85
+00:07:03,791 --> 00:07:07,950
+them because we trust that copilot agent mode is creating these in the right
+
+86
+00:07:07,951 --> 00:07:10,570
+manner and the right contents are inside.
+
+87
+00:07:16,490 --> 00:07:18,710
+As all of these pop-up will just press keep,
+
+88
+00:07:18,890 --> 00:07:22,030
+you can do this in the chat panel directly or you can do it
+
+89
+00:07:22,031 --> 00:07:25,570
+file by file in the editor and the inline editor in the middle.
+
+90
+00:07:30,140 --> 00:07:33,920
+It's also going to create an admin.py and a test.py for us as well.
+
+91
+00:07:43,360 --> 00:07:45,600
+Yep, we're going to keep all these files.
+
+92
+00:07:47,640 --> 00:07:52,240
+So now we have the database created all
+
+93
+00:07:52,241 --> 00:07:57,080
+of the structure for the Django project that
+
+94
+00:07:57,081 --> 00:07:59,340
+will be our backend that talks to the database.
+
+95
+00:08:03,300 --> 00:08:07,100
+And now we want to write a script that will populate the database from
+
+96
+00:08:07,101 --> 00:08:10,850
+the Django backend. First we'll do another migrate.
+
+97
+00:08:17,230 --> 00:08:21,350
+Just to make sure everything is clean and there are no issues there.
+
+98
+00:08:23,290 --> 00:08:26,070
+As you can see also in the lower right, um,
+
+99
+00:08:26,410 --> 00:08:30,090
+this is running. We could pause or stop in that chat window.
+
+100
+00:08:31,490 --> 00:08:34,190
+Um, but obviously we want to keep the commands coming.
+
+101
+00:08:34,550 --> 00:08:38,670
+It makes it convenient that agent mode can identify what needs to run and
+
+102
+00:08:38,671 --> 00:08:39,850
+let us run those commands.
+
+103
+00:08:52,860 --> 00:08:55,120
+Now we'll write a script to populate the database.
+
+104
+00:08:56,680 --> 00:09:00,420
+So, wrote a script called populate underscore db.py,
+
+105
+00:09:00,800 --> 00:09:03,240
+and now we'll do another migrate.
+
+106
+00:09:11,990 --> 00:09:16,110
+The next thing it should do is now run the populate to put all
+
+107
+00:09:16,111 --> 00:09:18,890
+the contents we want and the sample data in the database.
+
+108
+00:09:46,150 --> 00:09:48,630
+So, we're successful there. We'll move on to step four.
+
+109
+00:09:48,770 --> 00:09:52,960
+We've populated the database. And now we want to create the rest API endpoints.
+
+110
+00:09:53,280 --> 00:09:57,540
+We want to use the actual name of our code space,
+
+111
+00:09:57,600 --> 00:09:59,880
+which you can see in the, uh,
+
+112
+00:10:00,040 --> 00:10:02,240
+top title bar that I'm highlighting right now.
+
+113
+00:10:03,100 --> 00:10:05,900
+And I'm only taking up to the point where it gets to,
+
+114
+00:10:05,901 --> 00:10:08,920
+uh, dash, or sorry,
+
+115
+00:10:09,080 --> 00:10:14,080
+dot, github.dev. And
+
+116
+00:10:14,081 --> 00:10:18,680
+I'm going to replace this in the prompt where it says replace this
+
+117
+00:10:18,681 --> 00:10:22,820
+with your code space. Name in two places.
+
+118
+00:10:23,360 --> 00:10:27,760
+And what this will do is it will update in the views.py,
+
+119
+00:10:28,040 --> 00:10:33,000
+the actual code space endpoint with the port 8000,
+
+120
+00:10:33,160 --> 00:10:37,460
+that's for the Django backend. Since that will be set up,
+
+121
+00:10:37,900 --> 00:10:42,540
+we can then talk directly to those endpoints instead of trying to bring
+
+122
+00:10:42,541 --> 00:10:45,580
+it up with local hosts, which will not work in the browser.
+
+123
+00:10:47,260 --> 00:10:50,440
+So what Copilot will do is it will look for what it needs to
+
+124
+00:10:50,441 --> 00:10:51,000
+change.
+
+125
+00:10:59,230 --> 00:11:04,150
+And as you can see, it's swapped out the name localhost for
+
+126
+00:11:04,151 --> 00:11:08,250
+the name of our code space and the port,
+
+127
+00:11:08,570 --> 00:11:11,350
+um, and the extension GitHub dev.
+
+128
+00:11:18,670 --> 00:11:20,710
+We're not going to run the server from there.
+
+129
+00:11:21,010 --> 00:11:24,510
+We're going to follow the instructions here and we have some preloaded Uh,
+
+130
+00:11:24,710 --> 00:11:29,150
+launch.json in the vs.bsco directory that we can then run the app.
+
+131
+00:11:29,570 --> 00:11:30,950
+We'll make the port public.
+
+132
+00:11:36,690 --> 00:11:41,290
+We'll see that it's running. You can make it public
+
+133
+00:11:41,291 --> 00:11:43,790
+when the when it pops up or you can open the browser.
+
+134
+00:11:43,791 --> 00:11:48,090
+In this case, I went into the port directly here on this option and
+
+135
+00:11:48,091 --> 00:11:51,870
+I made it public. I actually made Uh,
+
+136
+00:11:52,030 --> 00:11:54,390
+both ports 3,000 and 8,000 public.
+
+137
+00:11:55,070 --> 00:11:58,050
+Because that will be for the React front end. As you can see,
+
+138
+00:11:58,310 --> 00:12:02,310
+we have all the data that, the sample data that was populated by PopulateDB.
+
+139
+00:12:02,850 --> 00:12:05,470
+We have the endpoints where we can look at the API,
+
+140
+00:12:05,750 --> 00:12:08,790
+we can get all of that information, we can also post back to it
+
+141
+00:12:08,791 --> 00:12:12,230
+as well. So here is the front end,
+
+142
+00:12:12,870 --> 00:12:14,950
+uh, made up of the React framework, some,
+
+143
+00:12:15,090 --> 00:12:17,370
+uh, bootstrap and the React,
+
+144
+00:12:17,630 --> 00:12:19,970
+uh, DOM router. Uh,
+
+145
+00:12:20,070 --> 00:12:23,290
+and some other Node.js components. Uh,
+
+146
+00:12:23,470 --> 00:12:26,630
+we created these files on all the components.
+
+147
+00:12:32,250 --> 00:12:37,150
+Now we want to actually format into more tables and
+
+148
+00:12:37,151 --> 00:12:39,290
+for each component and make it look nice and neat.
+
+149
+00:12:39,970 --> 00:12:41,990
+Um, you'll see what it looks like now before.
+
+150
+00:12:42,510 --> 00:12:46,330
+We actually implement that. So while this is working,
+
+151
+00:12:46,800 --> 00:12:49,320
+We're actually updating all of the component files,
+
+152
+00:12:49,520 --> 00:12:52,420
+all the JavaScript files for each component, so for activities,
+
+153
+00:12:52,800 --> 00:12:54,960
+teams, users, leaderboard,
+
+154
+00:12:55,940 --> 00:12:58,220
+workouts, um,
+
+155
+00:12:59,720 --> 00:13:02,760
+and as you can see, those are all the components, all the JavaScript files
+
+156
+00:13:02,761 --> 00:13:04,500
+right there on the left side.
+
+157
+00:13:09,100 --> 00:13:12,040
+Now we'll look at it before it's updated and see how it's just like
+
+158
+00:13:12,041 --> 00:13:14,720
+stacked links. Not very pretty,
+
+159
+00:13:14,880 --> 00:13:17,080
+it's got the main React JS, uh,
+
+160
+00:13:17,320 --> 00:13:21,820
+default image. That's the rest API. Um,
+
+161
+00:13:22,340 --> 00:13:24,580
+so we noticed too by clicking there,
+
+162
+00:13:24,680 --> 00:13:27,460
+it wasn't actually going to any of the data. So we really have to
+
+163
+00:13:27,461 --> 00:13:30,560
+make these ports public. Um, I'm gonna make both the Java,
+
+164
+00:13:30,561 --> 00:13:32,580
+uh, sorry, the React, uh,
+
+165
+00:13:32,700 --> 00:13:34,760
+front end, 3,000 and the,
+
+166
+00:13:34,900 --> 00:13:37,580
+um, Django back end, 8,000 port public.
+
+167
+00:13:37,960 --> 00:13:40,960
+And now if we click it, let's do refresh,
+
+168
+00:13:41,260 --> 00:13:45,320
+yeah. And actually while we were going to click that,
+
+169
+00:13:45,720 --> 00:13:47,880
+um, all of the updates to our,
+
+170
+00:13:48,020 --> 00:13:52,800
+uh, components were, were done. So now we can see everything as,
+
+171
+00:13:53,000 --> 00:13:55,240
+um, a nice little format,
+
+172
+00:13:55,340 --> 00:13:58,080
+but you see it hasn't propagated through all of the files yet.
+
+173
+00:13:58,460 --> 00:14:01,320
+So if we go back, you can see that it's still editing all of
+
+174
+00:14:01,321 --> 00:14:04,260
+these component JavaScript files for each of our,
+
+175
+00:14:04,261 --> 00:14:06,740
+uh, error, you know,
+
+176
+00:14:06,820 --> 00:14:09,040
+all of the, um, whether it's workouts, activities,
+
+177
+00:14:09,320 --> 00:14:12,930
+leaderboard teams and users. Now if we look,
+
+178
+00:14:12,990 --> 00:14:16,290
+it's starting to need it up across the board and be consistent with all
+
+179
+00:14:16,291 --> 00:14:20,570
+of the, um, the tables. Our API still works.
+
+180
+00:14:20,730 --> 00:14:22,730
+Have all the data there just like we're looking there.
+
+181
+00:14:29,570 --> 00:14:33,350
+So now we can start to add some color or some background and do
+
+182
+00:14:33,351 --> 00:14:36,730
+other things to beautify this app that we've created.
+
+183
+00:14:38,130 --> 00:14:42,010
+This kind of shows where we're headed. We can actually let users in the
+
+184
+00:14:42,011 --> 00:14:45,310
+course kind of, uh, put their own,
+
+185
+00:14:45,370 --> 00:14:48,990
+uh, prompts in agent mode of things that they may want to change the
+
+186
+00:14:48,991 --> 00:14:51,590
+app to look like. Maybe you want to add features. Um,
+
+187
+00:14:51,591 --> 00:14:56,110
+and that's the subsequent, um, exercise activities as
+
+188
+00:14:56,111 --> 00:14:59,310
+we go. Um, so I'm going to make some changes here,
+
+189
+00:14:59,470 --> 00:15:01,970
+but you guys get to just, uh, thank you.
+
+190
+00:15:02,070 --> 00:15:04,710
+I hope this was helpful for training the trainer for our,
+
+191
+00:15:04,830 --> 00:15:06,370
+um, our AI skills.

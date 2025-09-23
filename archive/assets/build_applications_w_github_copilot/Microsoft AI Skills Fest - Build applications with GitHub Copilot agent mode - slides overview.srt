@@ -1,0 +1,599 @@
+1
+00:00:00,011 --> 00:00:04,385
+Hi, my name is Ari LiVigni. Welcome to Microsoft AI SkillsFest,
+
+2
+00:00:04,944 --> 00:00:09,521
+and this is the specific, train-the-trainer for build applications
+
+3
+00:00:09,522 --> 00:00:13,821
+with GitHub Copilot Agent Mode. we'll do a title slide here,
+
+4
+00:00:14,284 --> 00:00:17,076
+a brief introduction of myself, and my credentials,
+
+5
+00:00:17,077 --> 00:00:19,355
+and what team I'm with, and some of my hobbies,
+
+6
+00:00:19,850 --> 00:00:23,265
+and things that I do outside of work time.
+
+7
+00:00:23,266 --> 00:00:27,797
+and then we'll tag folks about the Guinness Book of World Records,
+
+8
+00:00:28,797 --> 00:00:28,807
+the QR code, and how they can also,
+
+9
+00:00:28,808 --> 00:00:32,091
+interact with our live moderators in chat as well.
+
+10
+00:00:32,092 --> 00:00:33,274
+the agenda for this,
+
+11
+00:00:33,285 --> 00:00:37,427
+is about five points. We'll do an introduction of GitHub Copilot Agent Mode,
+
+12
+00:00:37,428 --> 00:00:39,655
+the learning objectives that users will achieve,
+
+13
+00:00:39,666 --> 00:00:43,750
+in this skills course. Explore the power of GitHub Copilot Agent Mode.
+
+14
+00:00:43,751 --> 00:00:46,758
+some of the background on the skill and kind of the setting of it,
+
+15
+00:00:47,128 --> 00:00:47,567
+and,
+
+16
+00:00:47,577 --> 00:00:50,712
+what we'll be covering. And then we'll get right into,
+
+17
+00:00:50,730 --> 00:00:52,629
+building an application directly,
+
+18
+00:00:52,640 --> 00:00:55,381
+with Agent Mode, and we're going to call it OctoFit Tracker.
+
+19
+00:00:56,615 --> 00:00:59,042
+the slides. Here's the brief introduction.
+
+20
+00:00:59,043 --> 00:00:59,463
+So,
+
+21
+00:00:59,473 --> 00:01:04,005
+you know, this is really about experiencing the next evolution of AI-assisted coding
+
+22
+00:01:04,006 --> 00:01:08,733
+with GitHub Copilot Agent Mode, an autonomous peer programmer capable of performing
+
+23
+00:01:08,734 --> 00:01:11,177
+multi-step coding tasks as you, as,
+
+24
+00:01:11,269 --> 00:01:15,527
+as your command, at your command. It analyzes your code base,
+
+25
+00:01:15,960 --> 00:01:18,246
+reads relevant files, proposes file edits,
+
+26
+00:01:18,647 --> 00:01:20,883
+and runs termination. and tests,
+
+27
+00:01:20,884 --> 00:01:24,310
+Agent Mode iterates on its own code. So if it finds an error in
+
+28
+00:01:24,311 --> 00:01:26,160
+some of the code it's written or a command,
+
+29
+00:01:26,171 --> 00:01:29,263
+it recognizes those errors and then will fix them automatically.
+
+30
+00:01:29,367 --> 00:01:31,856
+it is available as a preview as of now,
+
+31
+00:01:31,857 --> 00:01:33,803
+as of March 17th.
+
+32
+00:01:33,813 --> 00:01:36,585
+and it's in the VS Code Insiders for users currently.
+
+33
+00:01:37,585 --> 00:01:42,196
+the learning objectives will be understanding how to develop with the VS Code IDE
+
+34
+00:01:42,197 --> 00:01:43,630
+in a GitHub code space,
+
+35
+00:01:45,165 --> 00:01:45,173
+prompt,
+
+36
+00:01:45,174 --> 00:01:47,546
+GitHub Copilot Agent Mode to create an application,
+
+37
+00:01:48,546 --> 00:01:48,909
+leverage,
+
+38
+00:01:48,910 --> 00:01:51,020
+internal, or I should say, leverage documentation files that are in the repository,
+
+39
+00:01:51,021 --> 00:01:53,836
+in the GitHub repository to instruct GitHub Copilot Agent Mode.
+
+40
+00:01:53,837 --> 00:01:57,694
+And GitHub Copilot Agent Mode iterates over the code base,
+
+41
+00:01:57,695 --> 00:02:00,104
+Thank That's in the repository, it'll fix errors,
+
+42
+00:02:00,360 --> 00:02:03,340
+refactor code, and also help develop new features.
+
+43
+00:02:03,341 --> 00:02:06,853
+kind of the key points in exploring GitHub Copilot Agent Mode is,
+
+44
+00:02:06,854 --> 00:02:09,386
+is its features of autonomous operation.
+
+45
+00:02:09,387 --> 00:02:13,917
+Copilot Agent Mode operates in a more autonomous and dynamic manner to achieve the
+
+46
+00:02:13,918 --> 00:02:18,134
+desired outcome. It determines the relevant context and files to execute.
+
+47
+00:02:18,135 --> 00:02:21,285
+It can edit autonomously without explicit user specification.
+
+48
+00:02:21,286 --> 00:02:24,478
+multi-step tasks, it can perform multi-step coding tasks,
+
+49
+00:02:24,885 --> 00:02:29,687
+such as creating apps from scratch, performing refactorings across multiple files,
+
+50
+00:02:30,231 --> 00:02:31,030
+and writing and running tests.
+
+51
+00:02:31,031 --> 00:02:34,751
+we'll be running through all of this during the exercise in the skills course.
+
+52
+00:02:34,752 --> 00:02:38,690
+tools for task completion. Agent Mode uses a set of tools to perform specific
+
+53
+00:02:38,691 --> 00:02:42,750
+tasks. Like editing files and running terminal commands.
+
+54
+00:02:43,320 --> 00:02:47,502
+These tools can run in parallel. Examples include listing files,
+
+55
+00:02:47,503 --> 00:02:50,808
+reading file contents, running terminal commands,
+
+56
+00:02:50,809 --> 00:02:52,258
+and getting terminal output.
+
+57
+00:02:52,259 --> 00:02:56,976
+code changes and terminal commands, Compilot will suggest both code changes and terminal
+
+58
+00:02:56,977 --> 00:03:01,460
+commands to complete the task. It might compile a code instead of install packages.
+
+59
+00:03:01,461 --> 00:03:02,739
+And run tests,
+
+60
+00:03:02,749 --> 00:03:05,750
+iteration and self-healing, as I talked about earlier.
+
+61
+00:03:05,751 --> 00:03:09,562
+Agent mode iterates independently to achieve the desired outcome,
+
+62
+00:03:09,563 --> 00:03:11,753
+fixing issues as they come up.
+
+63
+00:03:12,085 --> 00:03:16,669
+It monitors the correctness of code edits and terminal command
+
+64
+00:03:16,670 --> 00:03:19,909
+output and iterates to remediate issues.
+
+65
+00:03:20,369 --> 00:03:23,370
+It can detect issues and problems in code edits.
+
+66
+00:03:23,371 --> 00:03:26,695
+And terminal commands and perform additional actions to resolve them.
+
+67
+00:03:26,696 --> 00:03:31,569
+It, it also analyzes runtime errors with self-healing capabilities.
+
+68
+00:03:31,570 --> 00:03:35,536
+it is user control and review. You can keep files or dispose of them.
+
+69
+00:03:35,537 --> 00:03:37,786
+and it will request confirmation or ask questions.
+
+70
+00:03:37,787 --> 00:03:41,848
+So it's very conversational back and forth as is co-pilot chat originally.
+
+71
+00:03:41,849 --> 00:03:44,812
+and you can also modify proposed terms. Terminal commands before running them,
+
+72
+00:03:44,823 --> 00:03:46,962
+context management, while autonomous.
+
+73
+00:03:46,963 --> 00:03:51,796
+You can still explicitly reference context with the pound file using
+
+74
+00:03:51,797 --> 00:03:53,459
+drag and drop of certain files.
+
+75
+00:03:53,460 --> 00:03:54,749
+you can also use code,
+
+76
+00:03:54,760 --> 00:03:57,223
+the hash code bit code base. It's a chat,
+
+77
+00:03:57,233 --> 00:03:57,617
+a chat,
+
+78
+00:03:57,627 --> 00:03:58,214
+variable,
+
+79
+00:03:58,224 --> 00:04:01,653
+in your prompt to let co-pilot find the right files automatically.
+
+80
+00:04:01,662 --> 00:04:04,547
+I'll see you So, requires enabling,
+
+81
+00:04:04,557 --> 00:04:08,175
+the GitHub co-pilot chat code search enabled preview in the preview setting.
+
+82
+00:04:08,176 --> 00:04:10,230
+You can undo and redo,
+
+83
+00:04:10,241 --> 00:04:11,478
+you can interrupt requests,
+
+84
+00:04:11,489 --> 00:04:14,858
+and there are the limitations we'll review also as agent mode is currently in
+
+85
+00:04:14,859 --> 00:04:18,251
+a preview and available in VS Code or VS Code Insiders.
+
+86
+00:04:18,693 --> 00:04:20,695
+So, it has not G, G8 yet,
+
+87
+00:04:20,696 --> 00:04:21,607
+and there definitely is,
+
+88
+00:04:21,617 --> 00:04:23,622
+it's, it's experimental, and we're you.
+
+89
+00:04:23,623 --> 00:04:27,119
+Using that to collect feedback from users and early adopters.
+
+90
+00:04:27,120 --> 00:04:30,659
+It might take longer to get a response due to multiple steps.
+
+91
+00:04:30,660 --> 00:04:33,783
+It can be more non-deterministic than edit mode.
+
+92
+00:04:33,784 --> 00:04:38,452
+It may also quickly you, use up your free co-pilot quota as it,
+
+93
+00:04:38,463 --> 00:04:43,005
+sends multiple requests per prompt. Agent mode is not available for working with notebooks,
+
+94
+00:04:43,016 --> 00:04:43,858
+in VS Code.
+
+95
+00:04:43,859 --> 00:04:44,860
+and then we will,
+
+96
+00:04:44,861 --> 00:04:48,232
+at that point, go to the next slide.
+
+97
+00:04:48,674 --> 00:04:51,358
+So this kind of talks about more of the skill background,
+
+98
+00:04:51,359 --> 00:04:55,777
+and in the next video, I'll get into really walking through the skill,
+
+99
+00:04:55,788 --> 00:04:58,262
+the skill course that we have in github.com,
+
+100
+00:04:58,263 --> 00:04:59,104
+and it's part of our,
+
+101
+00:04:59,115 --> 00:05:03,170
+our skill course catalog. But the background on this skill is that we're,
+
+102
+00:05:03,238 --> 00:05:05,981
+we're developing a fictitious app,
+
+103
+00:05:05,992 --> 00:05:07,506
+at Mergington High School.
+
+104
+00:05:07,507 --> 00:05:10,694
+the characters are Paul Octo, who is a gym teacher,
+
+105
+00:05:11,045 --> 00:05:11,707
+and is,
+
+106
+00:05:11,708 --> 00:05:14,202
+working with someone in IT, Jessica Cat,
+
+107
+00:05:14,489 --> 00:05:15,662
+to create a,
+
+108
+00:05:15,673 --> 00:05:17,038
+an app to keep,
+
+109
+00:05:17,049 --> 00:05:21,666
+students more active. So students rarely exercise outside of the required PE class.
+
+110
+00:05:22,176 --> 00:05:22,667
+So,
+
+111
+00:05:22,677 --> 00:05:26,782
+we needed, he needed an app to create an email.
+
+112
+00:05:28,637 --> 00:05:29,261
+to create,
+
+113
+00:05:29,262 --> 00:05:30,592
+activities to be more fun and engaging, to keep,
+
+114
+00:05:30,603 --> 00:05:33,045
+students on track for their fitness goals.
+
+115
+00:05:33,046 --> 00:05:36,318
+the solution, therefore, is developing this OctoFit Tracker app,
+
+116
+00:05:36,319 --> 00:05:40,087
+a social fitness tracking application built with GitHub Copilot Agent Mode,
+
+117
+00:05:40,621 --> 00:05:44,842
+and it's compliant with the school policy. So, this Mergington Tech Dollars,
+
+118
+00:05:45,173 --> 00:05:46,276
+Tech Policies,
+
+119
+00:05:46,286 --> 00:05:50,412
+Markdown 5, is what's used to really generate a lot of,
+
+120
+00:05:50,423 --> 00:05:54,741
+what Copilot Agent Mode uses to create its code,
+
+121
+00:05:54,742 --> 00:05:59,270
+and its terminal commands, and give us direction on continuously developing
+
+122
+00:05:59,585 --> 00:06:00,008
+the,
+
+123
+00:06:00,019 --> 00:06:03,474
+backend, the database, and the frontend React,
+
+124
+00:06:03,485 --> 00:06:04,434
+frontend of the app.
+
+125
+00:06:04,435 --> 00:06:07,473
+the key features is that we'll have user profiles and activity logs,
+
+126
+00:06:07,474 --> 00:06:09,685
+team competitions,
+
+127
+00:06:09,686 --> 00:06:10,746
+and a leaderboard,
+
+128
+00:06:10,757 --> 00:06:11,461
+personalized,
+
+129
+00:06:11,471 --> 00:06:12,644
+workout suggestions,
+
+130
+00:06:12,645 --> 00:06:14,563
+progress tracking dashboard,
+
+131
+00:06:14,574 --> 00:06:16,813
+and so your task as the,
+
+132
+00:06:16,824 --> 00:06:21,577
+as, as the person taking this course and being part of our SkillsFest challenge
+
+133
+00:06:21,943 --> 00:06:24,840
+is to follow Paul's journey using GitHub Codespaces,
+
+134
+00:06:25,121 --> 00:06:27,273
+learn to leverage GitHub Copilot Agent Mode,
+
+135
+00:06:27,274 --> 00:06:30,418
+and build a similar application with the help of GitHub,
+
+136
+00:06:30,419 --> 00:06:35,077
+GitHub Copilot Agent Mode. And that kind of summarizes,
+
+137
+00:06:35,088 --> 00:06:39,510
+that. And then this is a link to the repository that we'll have,
+
+138
+00:06:39,813 --> 00:06:42,284
+and they can QR code scan this, or they can go to the short
+
+139
+00:06:42,285 --> 00:06:43,681
+link to build the app,
+
+140
+00:06:43,682 --> 00:06:46,826
+and as, sorry, get to the skills course and start developing it in their
+
+141
+00:06:46,827 --> 00:06:47,210
+own,
+
+142
+00:06:47,221 --> 00:06:48,938
+workspace.
+
+143
+00:06:48,939 --> 00:06:52,249
+then we'll have just a congratulations. This is all standard as part of the
+
+144
+00:06:52,250 --> 00:06:54,472
+whole Skills Fest and the Day Zero,
+
+145
+00:06:54,483 --> 00:06:55,048
+Guinness Book,
+
+146
+00:06:55,058 --> 00:06:58,022
+slides. So we're just putting this in our slide deck as well.
+
+147
+00:06:58,023 --> 00:07:00,283
+and thank you for attending. And that's the end of the deck.
+
+148
+00:07:00,741 --> 00:07:02,490
+So I'm going to stop the video there,
+
+149
+00:07:02,501 --> 00:07:04,644
+and then we'll dive into the next video,
+
+150
+00:07:04,645 --> 00:07:06,701
+the actual skills course that we're going to use.
