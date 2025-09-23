@@ -13,7 +13,7 @@ To assist you in organizing your event, we've created a practical checklist cove
 - [ ] Connect with other user group leaders in your community to assist with event organization and support. This includes roles such as check-in, main host, timekeeping, and content delivery (speakers, facilitators, etc.).
 - [ ] Establish the **date and time** for the event (including 15 extra minutes at the start for adjustments).
 
-### 🏢 2. Initial Planning: Venue and Logistics
+### 🏢 2. Initial Planning: Venue and Logistics (in-person events) 
 
 - [ ] Find an **appropriate venue** (Connect with your network to find a company, co-working or university to host the event). As the event is hands-on, ensure the venue has enough space for participants to work comfortably.
 - [ ] Verify the **venue capacity** (our recommendation is to have at least 30 participants).
@@ -65,4 +65,4 @@ This makes it easy to identify your event as part of our global initiative.
 
 - [ ] Thank **speakers** and participants for their contribution.
 - [ ] Collect **feedback** from participants about their experience. [Attendee survey](https://aka.ms/soai/mcp/attendeesurvey)
-- [ ] We kindly ask you to share a feedback about the content and GitHub Copilot experience during the workshop, including challenges, suggestions for more labs, and any other feedback you may have. This will help us improve the content for future events. [Organizer survey](https://aka.ms/soai/mcp/organizersurvey)
+- [ ] We kindly ask you to share a feedback about the content and Season of AI experience during the workshop, including challenges, suggestions for more labs, and any other feedback you may have. This will help us improve the content for future events. [Organizer survey](https://aka.ms/soai/mcp/organizersurvey)
