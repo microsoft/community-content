@@ -4,7 +4,7 @@
 
 This folder contains prepared "content-in-a-box" that anyone can use to do a technical talk as part of the "Season of MCP" (Model Context Protocol) at a user group, meetup, or community event. At the end of the "season", the content in this repo will be archived, and a new season of content will be published.
 
-Each topic includes slides and presentation notes. Some will include pre-recorded demos and videos to help you prepare and/or present. Demo code will be available in separate repos linked from each presentation.
+Check out the slides and presentation notes. See the Supporting Demo Code section for pre-recorded demos and videos that can help you prepare and/or present. Demo code is available for C#, Java, JavaScript, and Python.
 
 ### BEFORE YOU BEGIN
 
