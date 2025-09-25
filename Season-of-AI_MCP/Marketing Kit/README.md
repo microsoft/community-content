@@ -7,6 +7,7 @@ This comprehensive marketing toolkit provides everything you need to successfull
 1. **Download** the PowerPoint templates from this folder
 2. **Customize** with your event information (date, time, location)
 3. **Save in JPG or PNG** format to use on social media and registration pages
+4. **Customize images** for Meetup and Microsoft developer community page [example here](https://github.com/microsoft/community-content/blob/main/Season-of-AI_MCP/Marketing%20Kit/images/SoAI_MCP_DevCom_Banner_Sample.png)
 
 ## 📱 Social Media Templates
 
