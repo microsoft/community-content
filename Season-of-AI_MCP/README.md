@@ -25,6 +25,9 @@ Let's learn about the Model Context Protocol (MCP), a cutting-edge framework des
 - JavaScript: [https://aka.ms/letslearnmcp-javascript](https://aka.ms/letslearnmcp-javascript)
 - Python: [https://aka.ms/letslearnmcp-python](https://aka.ms/letslearnmcp-python)
 
+#### Additional Microsoft Learn MCP Server resources
+- [Microsoft Learn MCP Server explainer deck](https://aka.ms/learnmcpslides)
+- Microsoft Learn MCP Server kit example use cases (Doc) 
 
 <!--### QR Code/Attendee Survey
 
