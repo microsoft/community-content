@@ -26,7 +26,7 @@ Let's learn about the Model Context Protocol (MCP), a cutting-edge framework des
 - Python: [https://aka.ms/letslearnmcp-python](https://aka.ms/letslearnmcp-python)
 
 #### Additional Microsoft Learn MCP Server resources
-- [Microsoft Learn MCP Server explainer deck](https://aka.ms/learnmcpslides)
+- [The Microsoft Learn MCP Server explainer deck](https://aka.ms/learnmcpslides)
 - [The Microsoft Learn MCP Server kit example use cases](https://github.com/microsoft/community-content/blob/main/Season-of-AI_MCP/The%20Microsoft%20Learn%20MCP%20Server%20kit-%20example%20use%20cases%20of%20Learn%20MCP.docx) 
 
 <!--### QR Code/Attendee Survey
