@@ -1,14 +1,35 @@
-# Season of AI - Model Context Protocol (MCP)
-### Season 5  - October 2025 to January 2026
+# Microsoft Build //localhost
+### In person community events organizer details 
 
-![Season of AI](assets/Season-of-AI-MCP-1.png)
+![Microsoft Build //localhose](assets/FY26_Build_banner_ACOM_artwork_416x178.png)
 
-[Register your event](https://aka.ms/soai/mcp/registerevent) and we will promote your event via the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website.
+<!--[Register your event](https://aka.ms/soai/mcp/registerevent) and we will promote your event via the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website.-->
+Microsoft Build //localhost is a global series of community led hands-on, in‑person learning events designed to extend Microsoft Build content directly into local technical communities. Between June 9–26, 2026, community groups can host in-person events with support from Microsoft. 
+
+### Details
+
+**Event Overview**
+Date range: June 9-26th, 2026\
+Format: In-person only\
+Target audience: Developers\
+Minimum attendees: 30
+
+[Content details](https://aka.ms/MicrosoftBuild-localhosts-Content)
+Microsoft Build repositories, including demos, decks and workshop content, will be available starting June 2, 2026. To help you begin shaping your agenda for Microsoft Build //localhost, there are 16 sessions available in total: 4 hands-on labs and 12 breakout sessions for you to choose from. Labs are approximately 75 minutes in length, and sessions are 45 minutes each. Please click the link below to review the full catalog. This is intended to provide additional guidance as you begin your planning. You will be expected to provide a copy of your event agenda as part of your post-event recap submission in Microsoft vendor, PlainSight.
+
+**MVP-Led User Groups** 
+Microsoft venue access (MVP-only; subject to availability and local FTE support)\
+Food & beverage (F&B) and/or venue support reimbursement up to $500 USD\
+Hands-on labs + Azure credits
+
+**Azure Tech Groups Led User Groups** 
+Food & beverage (F&B) and/or venue support reimbursement up to $500 USD\
+Hands-on labs + Azure credits
+
+Azure Tech Group organizers may request up to $500 total support, which can be applied flexibly toward either venue or F&B costs.
 
 
-### How to participate:
-
-1.	**Schedule** 📆 your Microsoft Season of AI  - MCP talk to occur between **October 1, 2025 and January 31, 2026** 
+<!--1.	**Schedule** 📆 your Microsoft Season of AI  - MCP talk to occur between **October 1, 2025 and January 31, 2026** 
     -	Work with local user group leaders to schedule a Microsoft Season of AI - MCP event. 
 
     - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
@@ -21,7 +42,7 @@
     -	Engage your audience and share your insights on the Microsoft Season of AI- MCP topic you selected.
    
 4. **Feedback**
-    - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/soai/mcp/attendeesurvey that is included in the presentation materials.
+    - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/soai/mcp/attendeesurvey that is included in the presentation materials. -->
 
 Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://aka.ms/soai/mcp/faq).
 
