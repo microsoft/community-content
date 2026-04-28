@@ -6,9 +6,8 @@
 <!--[Register your event](https://aka.ms/soai/mcp/registerevent) and we will promote your event via the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website.-->
 Microsoft Build //localhost is a global series of community led hands-on, in‑person learning events designed to extend Microsoft Build content directly into local technical communities. Between June 9–26, 2026, community groups can host in-person events with support from Microsoft. 
 
-### Details
+### Event Overview
 
-**Event Overview**
 Date range: June 9-26th, 2026\
 Format: In-person only\
 Target audience: Developers\
@@ -17,12 +16,12 @@ Minimum attendees: 30
 [Content details](https://aka.ms/MicrosoftBuild-localhosts-Content)
 Microsoft Build repositories, including demos, decks and workshop content, will be available starting June 2, 2026. To help you begin shaping your agenda for Microsoft Build //localhost, there are 16 sessions available in total: 4 hands-on labs and 12 breakout sessions for you to choose from. Labs are approximately 75 minutes in length, and sessions are 45 minutes each. Please click the link below to review the full catalog. This is intended to provide additional guidance as you begin your planning. You will be expected to provide a copy of your event agenda as part of your post-event recap submission in Microsoft vendor, PlainSight.
 
-**MVP-Led User Groups** 
+**MVP-Led User Groups** \
 Microsoft venue access (MVP-only; subject to availability and local FTE support)\
 Food & beverage (F&B) and/or venue support reimbursement up to $500 USD\
 Hands-on labs + Azure credits
 
-**Azure Tech Groups Led User Groups** 
+**Azure Tech Groups Led User Groups** \
 Food & beverage (F&B) and/or venue support reimbursement up to $500 USD\
 Hands-on labs + Azure credits
 
