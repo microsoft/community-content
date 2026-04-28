@@ -8,7 +8,7 @@ Microsoft Build //localhost is a global series of community led hands-on, in‑p
 
 ### Event Overview
 
-Date range: June 9-26th, 2026\
+Date range: June 9-26, 2026\
 Format: In-person only\
 Target audience: Developers\
 Minimum attendees: 30
