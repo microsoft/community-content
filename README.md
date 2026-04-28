@@ -27,6 +27,10 @@ Hands-on labs + Azure credits
 
 Azure Tech Group organizers may request up to $500 total support, which can be applied flexibly toward either venue or F&B costs.
 
+When you have your in person event planned, please submit the 
+[Application](https://aka.ms/MicrosoftBuild-localhost-application)
+
+You can expect a follow-up within 7 business days after submission.
 
 <!--1.	**Schedule** 📆 your Microsoft Season of AI  - MCP talk to occur between **October 1, 2025 and January 31, 2026** 
     -	Work with local user group leaders to schedule a Microsoft Season of AI - MCP event. 
