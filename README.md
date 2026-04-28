@@ -47,7 +47,7 @@ You can expect a follow-up within 7 business days after submission.
 4. **Feedback**
     - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/soai/mcp/attendeesurvey that is included in the presentation materials. -->
 
-Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://aka.ms/soai/mcp/faq).
+Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://github.com/microsoft/community-content/wiki/Microsoft-Build--localhost:-Frequently-Asked-Questions-(FAQs)).
 
 
 # Community Content Repo
