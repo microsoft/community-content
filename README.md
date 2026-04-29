@@ -51,7 +51,7 @@ Azure Tech Group organizers may request up to **$500 USD total** in support, whi
 
 ---
 
-## Funding, Venue, and Reimbursement Guidelines
+## Funding for Food & Beverage, Venue, and Reimbursement Guidelines
 
 Food & Beverage (F&B) and/or venue support may be requested whether you are hosting at your own community location or utilizing a Microsoft venue. Availability is subject to current budget and may change.
 
@@ -61,7 +61,7 @@ Organizers are responsible for paying **all approved expenses up front** and wil
 
 ---
 
-## Reimbursement Process
+### Reimbursement Process
 
 Once your event support request is reviewed and approved through the survey—and the event is completed within the approved budget—**PlainSight**, a Microsoft vendor, will process reimbursement based on the documentation you provide.
 
@@ -71,7 +71,7 @@ You will receive a confirmation email containing:
 
 ---
 
-## Required Documentation
+### Required Reimbursement Documentation
 
 To avoid delays in processing by PlainSight, please submit the following:
 
