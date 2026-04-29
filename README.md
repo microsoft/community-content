@@ -1,53 +1,105 @@
 # Microsoft Build //localhost
-### In person community events organizer details 
 
-![Microsoft Build //localhose](assets/FY26_Build_banner_ACOM_artwork_416x178.png)
+## In‑Person Community Event Organizer Details
 
-<!--[Register your event](https://aka.ms/soai/mcp/registerevent) and we will promote your event via the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website.-->
-Microsoft Build //localhost is a global series of community led hands-on, in‑person learning events designed to extend Microsoft Build content directly into local technical communities. Between June 9–26, 2026, community groups can host in-person events with support from Microsoft. 
+![Microsoft Build //localhost banner](assets/FY26_Build_banner_ACOM_artwork_416x178.png)
 
-### Event Overview
+Microsoft Build //localhost is a global series of **community‑led, hands‑on, in‑person learning events** designed to extend Microsoft Build content directly into local technical communities.
 
-Date range: June 9-26, 2026\
-Format: In-person only\
-Target audience: Developers\
-Minimum attendees: 30
+Between **June 9–26, 2026**, community groups can host in‑person events with support from Microsoft.
 
-[Content details](https://aka.ms/MicrosoftBuild-localhosts-Content)
-Microsoft Build repositories, including demos, decks and workshop content, will be available starting June 2, 2026. To help you begin shaping your agenda for Microsoft Build //localhost, there are 16 sessions available in total: 4 hands-on labs and 12 breakout sessions for you to choose from. Labs are approximately 75 minutes in length, and sessions are 45 minutes each. Please click the link below to review the full catalog. This is intended to provide additional guidance as you begin your planning. You will be expected to provide a copy of your event agenda as part of your post-event recap submission in Microsoft vendor, PlainSight.
+---
 
-**MVP-Led User Groups** \
-Microsoft venue access (MVP-only; subject to availability and local FTE support)\
-Food & beverage (F&B) and/or venue support reimbursement up to $500 USD\
-Hands-on labs + Azure credits
+## Event Overview
 
-**Azure Tech Groups Led User Groups** \
-Food & beverage (F&B) and/or venue support reimbursement up to $500 USD\
-Hands-on labs + Azure credits
+- **Date range:** June 9–26, 2026  
+- **Format:** In‑person only  
+- **Target audience:** Developers  
+- **Minimum attendance:** 30 participants  
 
-Azure Tech Group organizers may request up to $500 total support, which can be applied flexibly toward either venue or F&B costs.
+---
 
-When you have your in person event planned, please submit the 
-[Application](https://aka.ms/MicrosoftBuild-localhost-application)
+## Content Details
 
-You can expect a follow-up within 7 business days after submission.
+[View Build //localhost Content Catalog](https://aka.ms/MicrosoftBuild-localhosts-Content)
 
-<!--1.	**Schedule** 📆 your Microsoft Season of AI  - MCP talk to occur between **October 1, 2025 and January 31, 2026** 
-    -	Work with local user group leaders to schedule a Microsoft Season of AI - MCP event. 
+Microsoft Build repositories—including demos, presentation decks, and workshop materials—will be available beginning **June 2, 2026**.
 
-    - Ensure you’re listed as a speaker for the event and have the URL to the event handy. You’ll need it for the next step. 
+To help you shape your event agenda, the catalog includes:
+- **16 total sessions**
+  - **4 hands‑on labs** (approximately 75 minutes each)
+  - **12 breakout sessions** (45 minutes each)
 
-2. **[Register your event](https://aka.ms/soai/mcp/registerevent)** before January 25, 2026 and we will promote it on the [Microsoft developer community](https://aka.ms/soai/mcp/devcom) website. 
+This catalog is provided to support your planning efforts. Hosts are expected to submit a **copy of their final event agenda** as part of their post‑event recap through Microsoft’s vendor, **PlainSight**.
 
+---
 
-3.	**Prepare** and deliver your talk 🗣️
-    -	Find [prepared Microsoft Season of AI- MCP content-in-a-box](https://aka.ms/soai/mcp/ciab) here on GitHub.
-    -	Engage your audience and share your insights on the Microsoft Season of AI- MCP topic you selected.
-   
-4. **Feedback**
-    - Please gather attendee feedback after the event by sharing the post-event survey via a QR code or aka link https://aka.ms/soai/mcp/attendeesurvey that is included in the presentation materials. -->
+## Organizer Support by Community Type
 
-Any questions, email Azure-Tech-Groups at azure-tech-groups@microsoft.com. For more info, please see [Frequently Asked Questions (FAQs)](https://github.com/microsoft/community-content/wiki/Microsoft-Build--localhost:-Frequently-Asked-Questions-(FAQs)).
+### MVP‑Led User Groups
+
+- Microsoft venue access (MVP‑only; subject to availability and local FTE support)
+- Food & Beverage (F&B) and/or venue reimbursement up to **$500 USD**
+- Hands‑on labs with **Azure credits**
+
+### Azure Tech Group‑Led User Groups
+
+- Food & Beverage (F&B) and/or venue reimbursement up to **$500 USD**
+- Hands‑on labs with **Azure credits**
+
+Azure Tech Group organizers may request up to **$500 USD total** in support, which can be applied flexibly toward either venue or F&B costs.
+
+---
+
+## Funding, Venue, and Reimbursement Guidelines
+
+Food & Beverage (F&B) and/or venue support may be requested whether you are hosting at your own community location or utilizing a Microsoft venue. Availability is subject to current budget and may change.
+
+Organizers are responsible for paying **all approved expenses up front** and will be reimbursed **after the event**. Please ensure you have received **prior approval** before making any purchases, as Microsoft will not reimburse expenses that were not approved in advance.
+
+**Receipts are required for all reimbursement requests.**
+
+---
+
+## Reimbursement Process
+
+Once your event support request is reviewed and approved through the survey—and the event is completed within the approved budget—**PlainSight**, a Microsoft vendor, will process reimbursement based on the documentation you provide.
+
+You will receive a confirmation email containing:
+- Your approved budget amount  
+- A link to submit reimbursement documentation  
+
+---
+
+## Required Documentation
+
+To avoid delays in processing by PlainSight, please submit the following:
+
+- Receipts for approved expenses  
+- Event report or summary  
+- Event photos and/or evidence of attendance  
+
+Please ensure all materials are **accurate and complete** prior to submission.
+
+---
+
+## Apply to Host
+
+Once your in‑person event plan is ready, please submit the application:
+
+[Apply to Host a Microsoft Build //localhost Event](https://aka.ms/MicrosoftBuild-localhost-application)
+
+You can expect a follow‑up within **7 business days** after submission.
+
+---
+
+## Questions or Additional Information
+
+For questions, contact the Azure Tech Groups team at  
+**azure-tech-groups@microsoft.com**
+
+For more details, see the  
+[Frequently Asked Questions (FAQs)](https://github.com/microsoft/community-content/wiki/Microsoft-Build--localhost:-Frequently-Asked-Questions-(FAQs))
 
 
 # Community Content Repo
