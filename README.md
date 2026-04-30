@@ -1,6 +1,6 @@
 # Microsoft Build //localhost
 
-## In‑Person Community Event Organizer Details
+## In‑Person Community Event Organizer Kit
 
 ![Microsoft Build //localhost banner](assets/FY26_Build_banner_ACOM_artwork_416x178.png)
 
