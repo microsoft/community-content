@@ -6,7 +6,7 @@
 
 Microsoft Build //localhost is a global series of **community‑led, hands‑on, in‑person learning events** designed to extend Microsoft Build content directly into local technical communities.
 
-Between **June 9–26, 2026**, community groups can host in‑person events with support from Microsoft.
+Between **June 9–26, 2026**, MVPs and Azure Tech Groups leaders can host in‑person events with support from Microsoft.
 
 ---
 
